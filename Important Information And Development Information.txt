@@ -1,0 +1,63 @@
+—-———————————————Where the development will take place————————————————-
+On Discord of course, the GitHub repo is where all of the files and code will be stored, but Discord is where we are going to talk and stuff
+
+Development Server *ONLY for those who want to join the developmnt team* (Discord)
+https://discord.gg/ACbVxTrT39
+
+Support us on our main server (Community on Discord)
+https://discord.gg/8GeJNESRAq
+
+Rules for the development server
+1. Help everyone out and don't judge anyone based off of what they can or cannot do
+2. Follow Discord’s general rules and TOS
+3. Have fun
+Note that we fully support everyone and all genders, ages, sexual orientations, identities, pronouns, etc
+—-———————————————Plans————————————————-
+
+For now the plans are quite simple. These have reciently chsnged snd they may be changed more in the future.
+
+1 - Create a GitHub repository 
+2 - Fill out the needed information (plans, licensing, details, plans and milestones) and submit it to the repository 
+3 - Gather new members and get to know each other. After that, everyone talk things out and officially start the project (come up with names, icon ideas, concepts, etc)
+4 - Start development and talk to each member to assign roles according to skills and preferences
+5 - Talk to each other, collaborate and come up with ideas while working on the project
+6 - Once finished with the little pieces, we put them together into one main project
+7 - We start polishing everything up
+8 - We finish and finalize everything
+9 - We release it
+10 - *This part is optional* We promote the program through social media and so on and so forth
+
+—-———————————————Features————————————————-
+
+These are the planned features that we plan on integrating into our tool. All of our work will also be fully open-source on GitHub. Also note that these may change in the future.
+
+Editors
+NBT Editor / Minecraft Save Editor *MCSE*
+GRF Editor
+PCK Studio (Optional)
+ARC Studio (Optional)
+FUI Studio (Optional)
+MSSCMP Studio (Optional)
+XML Editor (Text editor) (Optional)
+COL Editor (Optional)
+Map editor like world painter tool (Optional)
+
+Converters
+Map converter
+Skin pack converter
+JSON converter
+Texture pack converter (Texture pack builder)
+Resource converter
+
+Things in the list that are open-source
+PCK Studio (by PhoenixARC)
+ARC Studio (by PhoenixARC)
+FUI Studio (by PhoenixARC)
+MSSCMP Studio (by PhoenixARC)
+XML Editor (Text editor) (Anyone, there are many open-source ones)
+COL Editor (by PhoenixARC)
+Map editor like world painter tool (Anyone, there are many open-source ones)
+Map converter (Anyone, there are many open-source ones) but keep in mind we’ll probably be making our own map converter because of the console editions of Minecraft
+Texture pack converter/builder (by PhoenixARC)
+Resource converter(by BJTMastermind)
+
