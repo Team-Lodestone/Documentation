@@ -14,7 +14,7 @@ Rules for the development server
 Note that we fully support everyone and all genders, ages, sexual orientations, identities, pronouns, etc
 —-———————————————Plans————————————————-
 
-For now the plans are quite simple. These have reciently chsnged snd they may be changed more in the future.
+For now the plans are quite simple. These have recently changed and they may be changed more in the future.
 
 1 - Create a GitHub repository 
 2 - Fill out the needed information (plans, licensing, details, plans and milestones) and submit it to the repository 
