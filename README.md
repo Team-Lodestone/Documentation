@@ -1,5 +1,5 @@
 # Minecraft Manipulator
-A single program that is able to edit and convert Minecraft maps. The tool supports Minecraft: Java Edition and Bedrock Edition (Microsoft Store + iOS/iPadOS + Education edition + all console editions).
+A single program that is able to edit and convert Minecraft maps. The tool supports Minecraft: Java Edition and Bedrock Edition (Microsoft Store + iOS/iPadOS + Education Edition + all console editions).
 
 ## How can I contribute?
 Submit a pull request, or ask `EternalModz#7322` on Discord for push access to the repository.
@@ -24,16 +24,10 @@ For now the plans are quite simple. These have recently changed and they may be 
 ### Editors
 - [ ] NBT editor/Minecraft save editor (MCSE)
 - [ ] GRF editor
-- [ ] PCK Studio (Low-priority)
-- [ ] ARC Studio (Low-priority)
-- [ ] FUI Studio (Low-priority)
-- [ ] MSSCMP Studio (Low-priority)
-- [ ] COL Editor (Low-priority)
-- [ ] Map editor-like world painter tool (Low-priority)
-
-### Converters
-- [ ] Map converter
-- [ ] Skin pack converter
-- [ ] JSON converter (for 3D models, etc)
-- [ ] Texture pack converter
-- [ ] Resource converter
+- [ ] Resource pack studio
+- [ ] PCK studio (low-priority)
+- [ ] ARC studio (low-priority)
+- [ ] FUI studio (low-priority)
+- [ ] MSSCMP studio (low-priority)
+- [ ] COL editor (low-priority)
+- [ ] Map editor-like world painter tool (low-priority)
