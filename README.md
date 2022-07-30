@@ -21,13 +21,26 @@ For now the plans are quite simple. These have recently changed and they may be 
 
 ## 👇 These are the features that we plan on integrating into our tool
 
-### Editors
-- [ ] NBT editor/Minecraft save editor (MCSE)
+### Features
+Editors
+- [ ] NBT editor with S-NBT funcationslity
+- [ ] Minecraft Save editor (MCSE)
 - [ ] GRF editor
-- [ ] Resource pack studio
+- [ ] World editor (like the world-painter tool)
+- [ ] Map editor (modify the in-game map)
+- [ ] Full player editor (invintory, armour, etc)
+
+Converters
+- [ ] World converter
+- [ ] JSON converter
+- [ ] Resource pack converter
+- [ ] Texture pack converter (low-priority)
+
+Misc
+- [ ] MCCToolChest Utilities
 - [ ] PCK studio (low-priority)
 - [ ] ARC studio (low-priority)
 - [ ] FUI studio (low-priority)
 - [ ] MSSCMP studio (low-priority)
 - [ ] COL editor (low-priority)
-- [ ] Map editor-like world painter tool (low-priority)
+- [ ] Other
