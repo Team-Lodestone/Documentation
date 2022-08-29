@@ -22,10 +22,18 @@ For now the plans are quite simple. These have recently changed and they may be 
 ## 👇 These are the features that we plan on integrating into our tool
 
 ### Features
+General Features
+- [ ] Plug-in support for extentions
+- [ ] Updater
+- [ ] Discord RPC
+- [ ] Multi-threading for all functions
+- [ ] Console resigners for save files
+- [ ] Region support and reasigners for PlayStation saves
+
 Editors
-- [ ] NBT editor with S-NBT funcationslity
+- [ ] Modern NBT editor with S-NBT funcationslity
 - [ ] Minecraft Save editor (MCSE)
-- [ ] GRF editor
+- [ ] GRF editor and RAW editing
 - [ ] World editor (like the world-painter tool)
 - [ ] Map editor (modify the in-game map)
 - [ ] Full player editor (invintory, armour, etc)
@@ -36,8 +44,9 @@ Converters
 - [ ] Resource pack converter
 - [ ] Texture pack converter (low-priority)
 
-Misc
-- [ ] MCCToolChest Utilities
+Other planned features
+- [ ] All MCCToolChest Utilities and functionalities
+- [ ] Texture builder tool
 - [ ] PCK studio (low-priority)
 - [ ] ARC studio (low-priority)
 - [ ] FUI studio (low-priority)
