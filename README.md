@@ -1,5 +1,5 @@
 # Minecraft Manipulator
-A single program that is able to edit and convert Minecraft worlds. The tool supports Minecraft: Java Edition, Bedrock Edidition, Netease Bedrock Edition, Education Edition and all console editions.
+A single program that is able to edit and convert Minecraft worlds. The tool supports Minecraft: Java Edition, Bedrock Edition, Education Edition, all 4J Studios Console Editions and NetEase Bedrock Edition (China Edition).
 
 ## How can I contribute?
 Submit a pull request, or ask `EternalModz#7322` on Discord for push access to the repository.
@@ -23,20 +23,20 @@ For now the plans are quite simple. These have recently changed and they may be 
 
 ### Features
 General Features
-- [ ] Plug-in support for extentions
+- [ ] Plug-in support for extensions
 - [ ] Updater
 - [ ] Discord RPC
 - [ ] Multi-threading for all functions
 - [ ] Console resigners for save files
-- [ ] Region support and reasigners for PlayStation saves
+- [ ] Region support and resigners for PlayStation saves
 
 Editors
-- [ ] Modern NBT editor with S-NBT funcationslity
+- [ ] Modern NBT editor with S-NBT functionality
 - [ ] Minecraft Save editor (MCSE)
 - [ ] GRF editor and RAW editing
 - [ ] World editor (like the world-painter tool)
 - [ ] Map editor (modify the in-game map)
-- [ ] Full player editor (invintory, armour, etc)
+- [ ] Full player editor (inventory, armor, etc)
 
 Converters
 - [ ] World converter
