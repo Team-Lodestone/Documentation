@@ -1,6 +1,12 @@
 # Minecraft Manipulator
 A single program that is able to edit and convert Minecraft worlds. The tool supports Minecraft: Java Edition, Bedrock Edition, Education Edition, all 4J Studios Console Editions and NetEase Bedrock Edition (China Edition).
 
+## The full project
+We have split apart many aspects of the project
+- Main Tool: https://github.com/EternalModz/Minecraft-Manipulator
+- Website: https://github.com/EternalModz/Minecraft-Manipulator-React
+- Libraries: https://github.com/UtterEvergreen1/Minecraft-Manipulator-libraries
+
 ## How can I contribute?
 Submit a pull request, or ask `EternalModz#7322` on Discord for push access to the repository.
 
@@ -8,15 +14,16 @@ Submit a pull request, or ask `EternalModz#7322` on Discord for push access to t
 For now the plans are quite simple. These have recently changed and they may be changed more in the future.
 
 - [X] Create a GitHub repository 
-- [X] Fill out the needed information (plans, licensing, details, plans and milestones) and submit it to the repository 
-- [ ] Gather new members and get to know each other. After that, everyone talk things out and officially start the project (come up with icon ideas, concepts, GUI prototypes, etc)
+- [X] Fill out the needed information (plans, licensing, details, milestones) and submit it to the repository 
+- [X] Gather new members and start brainstorming
 - [ ] Start development and talk to each member to assign roles according to skills and preferences
 - [ ] Talk to each other, collaborate and come up with ideas while working on the project
-- [ ] We polish everything up and release our first version!
-- [ ] Bug squashing time.
+- [ ] Polish things up and get ready for release
+- [ ] Bug squashing time
+- [ ] Get ready for testing and releasing beta/alpha builds
+- [ ] Release the tool
 - [ ] Update as per Minecraft's update schedule
 - [ ] Squash more bugs
-- [ ] Update again according to Minecraft's new features
 - [ ] Continue the above until the end of reality
 
 ## 👇 These are the features that we plan on integrating into our tool
