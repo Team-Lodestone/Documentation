@@ -16,7 +16,7 @@ For now the plans are quite simple. These have recently changed and they may be 
 - [X] Create a GitHub repository 
 - [X] Fill out the needed information (plans, licensing, details, milestones) and submit it to the repository 
 - [X] Gather new members and start brainstorming
-- [ ] Start development and talk to each member to assign roles according to skills and preferences
+- [X] Start development and talk to each member to assign roles according to skills and preferences
 - [ ] Talk to each other, collaborate and come up with ideas while working on the project
 - [ ] Polish things up and get ready for release
 - [ ] Bug squashing time
