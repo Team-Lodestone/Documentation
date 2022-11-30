@@ -31,6 +31,14 @@ We have started development! The tool is now being worked on frequently and the 
 
 ### Features
 General Features
+- [ ] LevelDB browser
+```
+Search through Minecraft Bedrock world database entries. 
+```
+- [ ] App window-scaling
+```
+Adjust the size of the app window, great for video tutorials and for people who are visually impaired.
+```
 - [ ] A settings menu for each app / tool
 - [ ] Plug-in support
 - [ ] Extension support
