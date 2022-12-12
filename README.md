@@ -6,7 +6,7 @@ We have split apart many aspects of the project
 - Main Tool: https://github.com/EternalModz/Minecraft-Manipulator
 - Website: https://github.com/EternalModz/Minecraft-Manipulator-React
 - Libraries: https://github.com/UtterEvergreen1/Minecraft-Manipulator-libraries
-- Documentation: https://github.com/vylryna/Minecraft-Docs
+- Documentation: https://github.com/UtterEvergreen1/Minecraft-LCE-Docs
 
 ## How can I contribute?
 Submit a pull request, or ask `EternalModz#7322` on Discord for push access to the repository.
