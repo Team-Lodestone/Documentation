@@ -1,6 +1,10 @@
 # Minecraft Manipulator
 A single program that is able to edit and convert Minecraft worlds. The tool supports Minecraft: Java Edition, Bedrock Edition, Education Edition, all 4J Studios Console Editions and NetEase Bedrock Edition (China Edition). There are so many amazing features still in development that will expand the capabilities of the upcoming tool. Keep an eye out for these additions, you won't be disappointed!
 
+## No longer on this repository
+Because the team has many members now, we have devided to move this project to a new organization. You can find the new organization here: https://github.com/The-Minecraft-Manipulator-Teamhttps://github.com/The-Minecraft-Manipulator-Team
+
+
 ## The full project
 We have split apart many aspects of the project
 - Main Tool: https://github.com/EternalModz/Minecraft-Manipulator
