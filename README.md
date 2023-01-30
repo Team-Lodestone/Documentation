@@ -14,15 +14,34 @@ Submit a pull request, or ask `EternalModz#7322` on Discord for push access to t
 ## What is the state of this project?
 We have started development! The tool is now being worked on frequently and the team is growing bigger and bigger every day!
 
-## Roadmap
-- [X] Create a GitHub repository 
+## Roadmap / Progress
+- [X] Create a GitHub repository for the main tool
 - [X] Fill out the needed information (plans, licensing, etc) 
 - [X] Gather new members and start brainstorming
 - [X] Start development and talk to each member to assign roles according to skills and preferences
-- [X] Talk to each other, collaborate and come up with ideas while working on the project
-- [ ] Polish things up and get ready for release
+- [X] Workiung on the project and collaborating with eachother
+```
+- NBT / S-NBT Editor: In deep development stages
+- GRF / S-GRF Editor: In development
+- World Converter: In deep development stages
+- Other features: In progress 
+```
+- [X] Working on the GUI / Assets
+```
+- NBT Tag Icons: Finished!
+- EXE/App Icon: Finished!
+- Platform Icons: In progress
+- NBT Editor Icons: In progress
+- GRF Editor Icons: In progress
+- World Conversion Icons: In progress
+- Minecraft Assets: Need to be imported (Have not started yet)
+- Other Icons: In progress
+```
+- [ ] Begin testing and finishing things up
+- [ ] Polish things up and get ready for beta / alpha releases
 - [ ] Bug squashing time
-- [ ] Get ready for testing and releasing beta/alpha builds
+- [ ] Do more testing and finalize everything
+- [ ] Get the website ready and get ready for the official release
 - [ ] Release the tool
 - [ ] Update as per Minecraft's update schedule
 - [ ] Squash more bugs
@@ -44,6 +63,7 @@ Adjust the size of the app window, great for video tutorials and for people who 
 - [ ] Plug-in support
 - [ ] Extension support
 ```
+- Supporting extentions from other tools including: The Universal Minecraft Tool and Amulet
 - Conversion script extensions 
 - Database extensions
 ```
@@ -58,6 +78,9 @@ Adjust the size of the app window, great for video tutorials and for people who 
 
 Editors
 - [ ] Modern NBT editor with S-NBT functionality
+```
+With support for showing assets depending on each NBT Tag (EX: NBT Tag = Enchanted Diamond Sword = the image next to the tag showing an Enchanted Diamond Sword + the text of the NBT tag being purple (#a84cc2).
+```
 - [ ] GRF editor with support for  RAW editing (S-GRF)
 - [ ] World editor (like World-painter)
 ```
