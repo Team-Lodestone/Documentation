@@ -3,8 +3,8 @@ A single program that is able to edit and convert Minecraft worlds. The tool sup
 
 ## The full project
 We have split apart many aspects of the project
-- Main Tool: https://github.com/EternalModz/Minecraft-Manipulator
-- Website: https://github.com/EternalModz/Minecraft-Manipulator-React
+- Main Tool: https://github.com/Minecraft-Manipulator/Minecraft-Manipulator
+- Website: https://github.com/Minecraft-Manipulator/Minecraft-Manipulator-React
 - Libraries: https://github.com/UtterEvergreen1/Minecraft-Manipulator-libraries
 - Documentation: https://github.com/UtterEvergreen1/Minecraft-LCE-Docs
 
