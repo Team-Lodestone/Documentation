@@ -15,37 +15,7 @@ Submit a pull request, or ask `EternalModz#7322` on Discord for push access to t
 We have started development! The tool is now being worked on frequently and the team is growing bigger and bigger every day!
 
 ## Roadmap / Progress
-- [X] Create a GitHub repository for the main tool
-- [X] Fill out the needed information (plans, licensing, etc) 
-- [X] Gather new members and start brainstorming
-- [X] Start development and talk to each member to assign roles according to skills and preferences
-- [X] Workiung on the project and collaborating with eachother
-```
-- NBT / S-NBT Editor: In deep development stages
-- GRF / S-GRF Editor: In development
-- World Converter: In deep development stages
-- Other features: In progress 
-```
-- [X] Working on the GUI / Assets
-```
-- NBT Tag Icons: Finished!
-- EXE/App Icon: Finished!
-- Platform Icons: In progress
-- NBT Editor Icons: In progress
-- GRF Editor Icons: In progress
-- World Conversion Icons: In progress
-- Minecraft Assets: Need to be imported (Have not started yet)
-- Other Icons: In progress
-```
-- [ ] Begin testing and finishing things up
-- [ ] Polish things up and get ready for beta / alpha releases
-- [ ] Bug squashing time
-- [ ] Do more testing and finalize everything
-- [ ] Get the website ready and get ready for the official release
-- [ ] Release the tool
-- [ ] Update as per Minecraft's update schedule
-- [ ] Squash more bugs
-- [ ] Continue the above until the end of reality
+Check the 'progress and roadmap' section of this repo in order to see the progress on this project.
 
 ## 👇 These are the features that we plan on integrating into our tool
 
