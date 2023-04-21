@@ -2,18 +2,19 @@
 A single program that is able to edit and convert Minecraft worlds. The tool supports Minecraft: Java Edition, Bedrock Edition, Education Edition, all 4J Studios Console Editions and NetEase Bedrock Edition (China Edition). There are so many amazing features still in development that will expand the capabilities of the upcoming tool. Keep an eye out for these additions, you won't be disappointed!
 
 ## The full project
-We have split apart many aspects of the project
-- Core Project / App: https://github.com/Minecraft-Manipulator/App
-- Main Documentation: https://github.com/Minecraft-Manipulator/Minecraft-Manipulator
-- Website: https://github.com/Minecraft-Manipulator/Website
-- Libraries: https://github.com/UtterEvergreen1/Minecraft-Manipulator-libraries
-- Documentation: https://github.com/UtterEvergreen1/Minecraft-LCE-Docs
+The project has been divided into the following components:
+
+- Core Project / App: This is the main application that powers the tool. You can find the code on [MM/App](https://github.com/Minecraft-Manipulator/App).
+- Main Documentation: This repository contains the main documentation for the project. You can find it on [MM/Minecraft-Manipulator](https://github.com/Minecraft-Manipulator/Minecraft-Manipulator).
+- Website: This repository contains the code for the project's website. You can find it on [MM/Website](https://github.com/Minecraft-Manipulator/Website).
+- Libraries: This repository contains the libraries used in the project. You can find it on [UtterEvergreen1/Minecraft-Manipulator-libraries](https://github.com/UtterEvergreen1/Minecraft-Manipulator-libraries).
+- Documentation: This repository contains the technical documentation for the Minecraft LCE (Legacy Console Editions) and is hosted on [MM/Minecraft-LCE-Documentation](https://github.com/Minecraft-Manipulator/Minecraft-LCE-Documentation).
 
 ## How can I contribute?
 Submit a pull request, or ask `EternalModz#7322` on Discord for push access to the repository.
 
 ## What is the state of this project?
-We have started development! The tool is now being worked on frequently and the team is growing bigger and bigger every day!
+The project is under active development, and the team is growing bigger every day!
 
 ## Roadmap / Progress
 Check the 'progress and roadmap' section of this repo in order to see the progress on this project.
