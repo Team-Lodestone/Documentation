@@ -59,6 +59,8 @@
 - summerdrive
 - TheRouLetteBoi
 - fefe_du_973
+- cranberrypunch
+- rebrainer
 
 **Pending members:**
 - jtrent238
