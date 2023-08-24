@@ -35,7 +35,6 @@
 - HeroFluxx
 - a4L
 - Phoenix_Lea
-- Everest
 - IamAppley
 - DemonSlayerYT00
 - MPM
@@ -44,7 +43,6 @@
 - Fluzzlesnuff
 - Bin Starjs
 - ceepkev77
-- DarkDev
 - Dlanm2u
 - iTzFreeHD
 - LeoDog896
