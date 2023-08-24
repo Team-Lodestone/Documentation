@@ -4,7 +4,7 @@
 - Cousin_Markus
 - HackerDaGreat57
 - jerrinth3glitch
-- Max RM alt
+- Max RM
 - PhoenixARC
 - PremiereHell
 - StealthyX
