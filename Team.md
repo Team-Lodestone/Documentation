@@ -63,17 +63,27 @@
 **Pending members:**
 - jtrent238
 - fissygold
+- Unascribed
+- Tyler Rogers
+- Kbinani
 
-**Other credits:**
-1. MCCTC Dev
-2. CarnageTheCreator
-3. Mayhem
-4. Skull
-5. CBH & Their members
-6. MC Speedrunning community
-7. MC@H
-8. MC Dev & Research community
-9. Nobledez
-10. NTGames
-11. Dublin
-More soon
+**Other credits and supporters:**
+1. A Cynodont
+2. FairChild
+3. CarnageTheCreator
+4. MayhemModding
+5. SkullMods
+6. JackHasWifi / Nobledez
+7. NTGames
+8. Dublin Modz
+9. Mr. Sheeple
+10. DiiTz
+
+**Involved communities:**
+1. CrEaTiiOn Brotherhood Community
+2. Crimson Modding Community
+3. Minecraft Legacy Console Speedrunning community
+4. Minecraft@Home Community
+5. Minecraft LCE Research & Development Community
+6. Minecraft Legacy Console Modding Community
+7. AntVenom Community
