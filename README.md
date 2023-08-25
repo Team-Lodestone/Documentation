@@ -1,4 +1,6 @@
 # Minecraft Manipulator
+**Please note that this project is STILL IN DEVELOPMENT!
+
 A single program that is able to edit and convert Minecraft worlds. The tool supports Minecraft: Java Edition, Bedrock Edition, Education Edition, all 4J Studios Console Editions and NetEase Bedrock Edition (China Edition). There are so many amazing features still in development that will expand the capabilities of the upcoming tool. Keep an eye out for these additions, you won't be disappointed!
 
 ## The full project
