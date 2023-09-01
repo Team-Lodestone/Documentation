@@ -87,3 +87,9 @@
 5. Minecraft LCE Research & Development Community
 6. Minecraft Legacy Console Modding Community
 7. AntVenom Community
+8. Unnamed Team
+9. MCBE Essentials
+10. The Voxel Den
+11. MCA Magic
+12. Power Nukkit
+13. PG Team
