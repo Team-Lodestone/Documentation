@@ -59,6 +59,7 @@
 - fefe_du_973
 - cranberrypunch
 - rebrainer
+- Bigjango13
 
 **Pending members:**
 - jtrent238
