@@ -64,7 +64,6 @@
 **Pending members:**
 - jtrent238
 - fissygold
-- Unascribed
 - Tyler Rogers
 - Kbinani
 
@@ -79,6 +78,7 @@
 8. Dublin Modz
 9. Mr. Sheeple
 10. DiiTz
+11. Una (Unascribed)
 
 **Involved communities:**
 1. CrEaTiiOn Brotherhood Community
