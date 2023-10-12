@@ -1,3 +1,6 @@
+# Development Progress
+![Alt Text](Assets/MMP.png)
+
 # Minecraft Manipulator
 **Please note that this project is STILL IN DEVELOPMENT!**
 
