@@ -8,6 +8,17 @@
 
 A single program that is able to edit and convert Minecraft worlds. The tool supports Minecraft: Java Edition, Bedrock Edition, Education Edition, all 4J Studios Console Editions and NetEase Bedrock Edition (China Edition). There are so many amazing features still in development that will expand the capabilities of the upcoming tool. Keep an eye out for these additions, you won't be disappointed!
 
+| Edition                 | Supported Versions |
+|-------------------------|--------------------|
+| Java Edition            | 1.3.0 - 1.20       |
+| Bedrock Edition         | 1.0.0 - 1.20       |
+| PlayStation 3 Edition   | TU0 - TU73         |
+| Xbox 360 Edition        | TU0 - TU73         |
+| Wii U Edition           | TU0 - TU73         |
+| PlayStation Vita Edition | TU0 - TU73        |
+| PlayStation 4 Edition   | Coming Soon       |
+| 3DS Edition             | Coming Soon       |
+
 # Table of Contents
 
 1. [Development Progress](#development-progress)
