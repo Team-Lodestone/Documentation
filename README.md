@@ -67,7 +67,7 @@ The project is under active development, and the team is growing bigger every da
 
 ## Roadmap / Progress
 
-Check the 'progress and roadmap' section of this repo in order to see the progress on this project.
+Click [here](./Roadmap.md) to see the roadmap and progress on this project.
 
 ## 👇 These are the features that we plan on integrating into our tool
 
