@@ -1,16 +1,16 @@
 ## Roadmap / Progress for the Minecraft Manipulator
-- [X] Create a GitHub repository for the main tool
+- [X] Create a GitHub repository for the tool
 - [X] Fill out the needed information (plans, licensing, etc) 
 - [X] Gather new members and start brainstorming
 - [X] Start development and talk to each member to assign roles according to skills and preferences
-- [X] Workiung on the project and collaborating with eachother
+- [X] Work on the project and collaborate
 ```
 - NBT / S-NBT Editor: In deep development stages
 - GRF / S-GRF Editor: In development
 - World Converter: In deep development stages
 - Other features: In progress 
 ```
-- [X] Working on the GUI / Assets
+- [X] Work on the GUI / Assets
 ```
 - NBT Tag Icons: Finished!
 - EXE/App Icon: Finished!
@@ -22,7 +22,7 @@
 - Other Icons: In progress
 ```
 - [ ] Begin testing and finishing things up
-- [ ] Polish things up and get ready for beta / alpha releases
+- [ ] Polish things up and get ready for Beta / Alpha releases
 - [ ] Bug squashing time
 - [ ] Do more testing and finalize everything
 - [ ] Get the website ready and get ready for the official release
