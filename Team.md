@@ -70,15 +70,16 @@
 **Other credits and supporters:**
 1. A Cynodont
 2. FairChild
-3. CarnageTheCreator
-4. MayhemModding
-5. SkullMods
-6. JackHasWifi / Nobledez
-7. NTGames
-8. Dublin Modz
-9. Mr. Sheeple
-10. DiiTz
-11. Una (Unascribed)
+3. Querz
+4. CarnageTheCreator
+5. MayhemModding
+6. SkullMods
+7. JackHasWifi / Nobledez
+8. NTGames
+9. Dublin Modz
+10. Mr. Sheeple
+11. DiiTz
+12. Una (Unascribed)
 
 **Involved communities:**
 1. CrEaTiiOn Brotherhood Community
