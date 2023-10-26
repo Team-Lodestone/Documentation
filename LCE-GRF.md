@@ -185,7 +185,7 @@ Feel free to use this information however you would like! Note that this documen
 If you wish to contribute to this documentation or have any additional information about the usage of Game Rule Files in Minecraft Legacy Console Edition, please feel free to submit pull requests or open issues.
 
 ## License
-This documentation is released under the MIT License, allowing you to use and distribute it as needed.
+This documentation is released under the GNU GPLv3 License, allowing you to use and distribute it as needed.
 
 We hope this documentation helps you better understand GRF and Game Rule files in Minecraft Legacy Console Edition. If you have any questions or need further assistance, please don't hesitate to reach out.
 
