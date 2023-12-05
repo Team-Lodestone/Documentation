@@ -60,6 +60,7 @@
 - cranberrypunch
 - rebrainer
 - Bigjango13
+- LPT4 / Bayugoon
 
 **Pending members:**
 - jtrent238
