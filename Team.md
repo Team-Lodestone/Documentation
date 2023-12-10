@@ -61,6 +61,7 @@
 - rebrainer
 - Bigjango13
 - LPT4 / Bayugoon
+- Zero_DSRS_VX
 
 **Pending members:**
 - jtrent238
