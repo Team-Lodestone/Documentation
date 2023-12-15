@@ -60,8 +60,10 @@
 - cranberrypunch
 - rebrainer
 - Bigjango13
+- marko00805
 - LPT4 / Bayugoon
 - Zero_DSRS_VX
+- PMK744
 
 **Pending members:**
 - jtrent238
