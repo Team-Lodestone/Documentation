@@ -1,5 +1,5 @@
 ## Roadmap / Progress for the Minecraft Manipulator
-- [X] Create a GitHub repository for the tool
+- [X] Create a GitHub repository for the project
 - [X] Fill out the needed information (plans, licensing, etc) 
 - [X] Gather new members and start brainstorming
 - [X] Start development and talk to each member to assign roles according to skills and preferences
