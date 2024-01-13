@@ -1,8 +1,8 @@
 # Development Progress
 
-![Minecraft Manipulator Logo](Assets/MMP.png)
+![Project Lodestone Logo](Assets/MMP.png)
 
-# Minecraft Manipulator
+# Project Lodestone
 
 **Please note that this project is STILL IN DEVELOPMENT!**
 
