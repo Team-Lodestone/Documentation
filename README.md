@@ -6,7 +6,7 @@
 
 **Please note that this project is STILL IN DEVELOPMENT!**
 
-A single toolset that can edit and convert Minecraft worlds. The toolset will support Minecraft: Java Edition, Bedrock Edition, Education Edition, all 4J Studios Console Editions, and NetEase Bedrock Edition (China Edition). There are so many amazing features still in development that will expand the capabilities of the upcoming tool. Keep an eye out for these additions, you won't be disappointed!
+A single toolset that can edit and convert Minecraft worlds. The toolset will support Minecraft: Java Edition, Bedrock Edition, Education Edition, all 4J Studios Console Editions, and NetEase Bedrock Edition (China). There are many amazing features still in development that will expand the capabilities of our upcoming tool! Keep an eye out for these additions, you won't be disappointed!
 
 | Edition                  | Supported Versions |
 |--------------------------|--------------------|
@@ -22,7 +22,7 @@ A single toolset that can edit and convert Minecraft worlds. The toolset will su
 # Table of Contents
 
 1. [Development Progress](#development-progress)
-2. [Minecraft Manipulator](#minecraft-manipulator)
+2. [Project Lodestone](#minecraft-manipulator)
    - [The full project](#the-full-project)
    - [How can I contribute?](#how-can-i-contribute)
    - [What is the state of this project?](#what-is-the-state-of-this-project)
@@ -59,7 +59,7 @@ The project has been divided into the following components:
 
 ## How can I contribute?
 
-Submit a pull request, or ask `EternalModz#7322` on Discord for push access to the repository.
+Submit a pull request, or ask `eternalmodz` on Discord for push access to the repository.
 
 ## What is the state of this project?
 
