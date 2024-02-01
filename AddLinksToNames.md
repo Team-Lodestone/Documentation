@@ -63,5 +63,5 @@ THIS FILE IS A WORK IN PROGRESS!
 - [Bigjango13](https://github.com/Bigjango13)
 - [marko00805](https://github.com/marko00805)
 - [LPT4 / Bayugoon](https://github.com/LPT4)
-- [Zero_DSRS_VX](https://github.com/Zero_DSRS_VX)
+- [Zero_DSRS_VX](https://github.com/PhoenixVX)
 - [PMK744](https://github.com/PMK744)
