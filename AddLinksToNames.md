@@ -42,7 +42,7 @@ THIS FILE IS A WORK IN PROGRESS!
 - [loma](https://github.com/loma)
 - [Hibiscus](https://github.com/Hibiscus)
 - [Fluzzlesnuff](https://github.com/Fluzzlesnuff)
-- [Bin Starjs](https://github.com/Bin-Starjs)
+- [Bin Starjs](https://github.com/binstarjs03)
 - [ceepkev77](https://github.com/ceepkev77)
 - [Dlanm2u](https://github.com/Dlanm2u)
 - [iTzFreeHD](https://github.com/iTzFreeHD)
