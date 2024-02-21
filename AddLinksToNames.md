@@ -13,8 +13,8 @@ THIS FILE IS A WORK IN PROGRESS!
 - [UtterEvergreen1](https://github.com/UtterEvergreen1)
 - [SkyForces](https://github.com/SkyForcesGit)
 - [DeeFeeCee](https://github.com/DeeFeeCee)
-- [Blazing](https://github.com/Blazing)
-- [KKC Gaming](https://github.com/KKCGaming)
+- Blazing
+- [KKC Kobra](https://github.com/KKCKobra)
 - [+NIK+](https://github.com/NIK)
 - [more3118](https://github.com/more3118)
 - [tryashtar](https://github.com/tryashtar)
