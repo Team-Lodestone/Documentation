@@ -68,4 +68,3 @@ THIS FILE IS A WORK IN PROGRESS!
 - [LPT4 / Bayugoon](https://github.com/LPT4)
 - [vylryna / xenona](https://github.com/vylryna)
 - [loma](https://github.com/loma)
-- 
