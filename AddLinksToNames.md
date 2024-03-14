@@ -60,6 +60,8 @@ THIS FILE IS A WORK IN PROGRESS!
 - [Zero_DSRS_VX](https://github.com/PhoenixVX)
 - [PMK744](https://github.com/PMK744)
 - [Aiko](https://github.com/AikoBorowski)
+- Marko
+- [David-xF](https://github.com/David-xF)
 
 **AFK Team Members**
 - [LeoDog896](https://github.com/LeoDog896)
