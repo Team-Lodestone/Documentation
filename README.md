@@ -46,6 +46,7 @@ A single toolset that can edit and convert Minecraft worlds. The toolset will su
      - [World Converter](#world-converter)
      - [World Editor](#world-editor)
    - [Core Framework](#core-framework)
+   - [Contributors](#contributors)
 
 ## The full project
 
@@ -178,3 +179,10 @@ Click [here](./Roadmap.md) to see the roadmap and progress on this project.
   - Discord RPC integration and Keyboard Shortcuts for enhanced usability.
   - Robust Undo/Redo functionality and Clipboard support (Copy/Paste).
   - Seamless Integration with VS Code for an enhanced development experience.
+
+# Contributors
+Thank you to everyone who has helped with the project!
+
+<a href="https://github.com/Team-Lodestone/Documentation/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Team-Lodestone/Documentation" />
+</a>
