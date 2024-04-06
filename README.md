@@ -1,6 +1,7 @@
-# Development Progress
+# Project Status
 
-![Project Lodestone Logo](Assets/MMP.png)
+> [!WARNING]
+> This project is still in development!
 
 # Project Lodestone
 
