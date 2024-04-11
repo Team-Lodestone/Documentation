@@ -6,6 +6,7 @@ THIS FILE IS A WORK IN PROGRESS!
 - [Cousin_Markus](https://github.com/CousinMarkus)
 - [HackerDaGreat57](https://github.com/HackerDaGreat57)
 - [jerrinth3glitch](https://github.com/zugebot)
+- [DexrnZacAttack](https://github.com/DexrnZacAttack)
 - [Max RM](https://github.com/Max-RM)
 - [PhoenixARC](https://github.com/PhoenixARC)
 - [PremiereHell](https://github.com/PremiereHell)
