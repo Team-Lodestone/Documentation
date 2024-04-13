@@ -4,6 +4,7 @@
 - Cousin_Markus
 - HackerDaGreat57
 - jerrinth3glitch
+- Dexrn ZacAttack
 - Max RM
 - PhoenixARC
 - PremiereHell
@@ -24,11 +25,10 @@
 - Demur
 - !   z  fox
 - CADIndie
-- Trent
+- Trent (LordVirus)
 - d.s.j. / D-V
 - Zac
 - Emmie
-- garciadelcastillo
 - miku-666
 - vylryna (AFK) / xenona
 - Mwam
@@ -60,6 +60,14 @@
 - cranberrypunch
 - rebrainer
 - Bigjango13
+- marko00805
+- LPT4 / Bayugoon
+- Zero_DSRS_VX
+- PMK744
+
+**Project Observers**
+- RufusAtticus *Genetics PhD, Professor, Software Engineer, and Minecraft YouTuber.*
+- JasonGoodison *Microsoft employee.*
 
 **Pending members:**
 - jtrent238
@@ -70,15 +78,18 @@
 **Other credits and supporters:**
 1. A Cynodont
 2. FairChild
-3. CarnageTheCreator
-4. MayhemModding
-5. SkullMods
-6. JackHasWifi / Nobledez
-7. NTGames
-8. Dublin Modz
-9. Mr. Sheeple
-10. DiiTz
-11. Una (Unascribed)
+3. Querz
+4. CarnageTheCreator
+5. MayhemModding
+6. SkullMods
+7. JackHasWifi (Nobledez)
+8. ntgames
+9. Dublin Modz
+10. Mr. Sheeple
+11. DiiTz
+12. Una (Unascribed)
+13. Matvei Stefarov
+14. garciadelcastillo
 
 **Involved communities:**
 1. CrEaTiiOn Brotherhood Community
@@ -94,3 +105,4 @@
 11. MCA Magic
 12. Power Nukkit
 13. PG Team
+14. PARAMETRICCAMP
