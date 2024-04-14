@@ -45,7 +45,7 @@
 - [iTzFreeHD](https://github.com/iTzFreeHD)
 - [maddymakesgames](https://github.com/maddymakesgames)
 - RealPatryk
-- weird.exe
+- [PiSaucer](https://github.com/PiSaucer)
 - [3D_MAMA](https://github.com/3DMAMA)
 - [foxypiratecove37350](https://github.com/foxypiratecove37350)
 - [HoldYourWaffle](https://github.com/HoldYourWaffle)
@@ -68,6 +68,7 @@
 - [vylryna (xenrelle)](https://github.com/xenrelle)
 - [UtterEvergreen1](https://github.com/UtterEvergreen1)
 - [hee](https://github.com/hee)
+- [MattN-L](https://github.com/MattN-L)
 - [miku-666](https://github.com/NessieHax)
 - [PhoenixARC](https://github.com/PhoenixARC)
 
