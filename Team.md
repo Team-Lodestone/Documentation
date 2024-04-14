@@ -62,6 +62,15 @@
 - Marko
 - [David-xF](https://github.com/David-xF)
 
+**Documentation**
+- [ModifiedCommand](https://github.com/ModifiedCommand)
+- [PiSaucer](https://github.com/PiSaucer)
+- [vylryna (xenrelle)](https://github.com/xenrelle)
+- [UtterEvergreen1](https://github.com/UtterEvergreen1)
+- [hee](https://github.com/hee)
+- [miku-666](https://github.com/NessieHax)
+- [PhoenixARC](https://github.com/PhoenixARC)
+
 **Project Observers**
 - [RufusAtticus](https://github.com/reedacartwright) *Genetics PhD, Professor, Software Engineer, and Minecraft YouTuber.*
 - [JasonGoodison](https://github.com/JasonLeviGoodison) *Microsoft employee.*
