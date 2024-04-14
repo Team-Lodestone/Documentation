@@ -1,4 +1,4 @@
-**Main Team:**
+### Main Team
 - [EternalModz (Creator / Founder)](https://github.com/EternalModz)
 - [BJTMastermind Games](https://github.com/BJTMastermind)
 - [Cousin_Markus](https://github.com/CousinMarkus)
@@ -62,7 +62,7 @@
 - Marko
 - [David-xF](https://github.com/David-xF)
 
-**Documentation**
+### Documentation
 - [ModifiedCommand](https://github.com/ModifiedCommand)
 - [PiSaucer](https://github.com/PiSaucer)
 - [vylryna (xenrelle)](https://github.com/xenrelle)
@@ -71,11 +71,11 @@
 - [miku-666](https://github.com/NessieHax)
 - [PhoenixARC](https://github.com/PhoenixARC)
 
-**Project Observers**
+### Project Observers
 - [RufusAtticus](https://github.com/reedacartwright) *Genetics PhD, Professor, Software Engineer, and Minecraft YouTuber.*
 - [JasonGoodison](https://github.com/JasonLeviGoodison) *Microsoft employee.*
 
-**Other credits and supporters:**
+### Other credits and supporters
 1. [A Cynodont](https://mcctoolchest.weebly.com/) *For MCCToolChest*
 2. [AntVenom](https://www.youtube.com/@AntVenom)
 3. FairChild
@@ -92,7 +92,7 @@
 14. [Matvei Stefarov](https://github.com/mstefarov)
 15. [garciadelcastillo](https://github.com/garciadelcastillo)
 
-**Involved communities:**
+### Involved communities
 1. CrEaTiiOn Brotherhood Community
 2. Crimson Modding Community
 3. Minecraft Legacy Console Speedrunning community
