@@ -23,7 +23,7 @@ A single toolset that can edit and convert Minecraft worlds. The toolset will su
 # Table of Contents
 
 1. [Development Progress](#development-progress)
-2. [Project Lodestone](#minecraft-manipulator)
+2. [Project Lodestone](#project-lodestone)
    - [The full project](#the-full-project)
    - [How can I contribute?](#how-can-i-contribute)
    - [What is the state of this project?](#what-is-the-state-of-this-project)
@@ -53,11 +53,10 @@ A single toolset that can edit and convert Minecraft worlds. The toolset will su
 
 The project has been divided into the following components:
 
-- Core Project / App: This is the main application that powers the tool. You can find the code on [MM/App](https://github.com/Minecraft-Manipulator/App).
-- Main Documentation: This repository contains the main documentation for the project. You can find it on [MM/Minecraft-Manipulator](https://github.com/Minecraft-Manipulator/Minecraft-Manipulator).
-- Website: This repository contains the code for the project's website. You can find it on [MM/Website](https://github.com/Minecraft-Manipulator/Website).
-- Libraries: This repository contains the libraries used in the project. You can find it on [UtterEvergreen1/Minecraft-Manipulator-libraries](https://github.com/UtterEvergreen1/Minecraft-Manipulator-libraries).
-- Documentation: This repository contains the technical documentation for the Minecraft LCE (Legacy Console Editions) and is hosted on [MM/Minecraft-LCE-Documentation](https://github.com/Minecraft-Manipulator/Minecraft-LCE-Documentation).
+- Core Project / App: This is the main application that powers the tool. You can find the code on [Lodestone/App](https://github.com/Team-Lodestone/App).
+- Main Documentation: This repository contains the main documentation for the project. You can find it on [Lodestone/Documentation](https://github.com/Team-Lodestone/Documentation).
+- Website: This repository contains the code for the project's website. You can find it on [Lodestone/Website](https://github.com/Team-Lodestone/Website).
+- Documentation: This repository contains the technical documentation for the Minecraft LCE (Legacy Console Editions) and is hosted on [Lodestone/Minecraft-LCE-Documentation](https://github.com/Team-Lodestone/Minecraft-LCE-Documentation).
 
 ## How can I contribute?
 
