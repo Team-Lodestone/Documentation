@@ -60,7 +60,7 @@ The project has been divided into the following components:
 
 ## How can I contribute?
 
-Submit a pull request, or ask `eternalmodz` on Discord for push access to the repository.
+Submit a pull request, or ask `eternalmodz` on Discord for push access to the repository. We also have a [Discord Server](https://discord.gg/SMv6zzBPPy) for those who are interested in helping with the project or watching over it. This server is awesome and it has an awesome community of talented people! The server is open to everyone and it focuses on the development and research of Legacy Console Edition along with community-made projects and creations. Keep in mind that the server is not only for Project Lodestone! Other projects are featured on the server and Lodestone does not stand alone.
 
 ## What is the state of this project?
 
