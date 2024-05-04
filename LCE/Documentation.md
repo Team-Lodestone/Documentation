@@ -33,8 +33,11 @@ The following Table gives you Important information the structure of a legacy ed
 | Xbox360 | XMemcompress | None | XMemcompress (+ RLE)
 | PS3 | [Deflate(Algorithm)](https://en.wikipedia.org/wiki/Deflate) or None | None | Deflate(Algorithm) (+ RLE)
 | WiiU | Zlib | None | Zlib (+ RLE)
+| XboxOne | Zlib | Unknown | Unknown
 | PSVita | Vita RLE | None | Zlib (+ RLE)
 | Switch | Zlib | Switch RLE | Zlib (+ RLE)
+
+#### note: Xbox One may be inaccurate. -Dexrn
 
 ### Chunk Structure
 The chunks on LCE utilize a different format to Java's MCR Chunks, this is the header information:
