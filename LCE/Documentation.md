@@ -61,3 +61,7 @@ Within the chunk header lies a 4-byte portion of data that dictates 2 flags and 
 | Unknown Flag | 1 | It is unknown what this flag is
 | CompressedSize | 30 | compressed chunk size
 
+
+### Newer-gen consoles (PS4, Xbox One, Switch)
+It seems these consoles use a different format, which stores the regions in different files as opposed to just storing inside the savegame.
+
