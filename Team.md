@@ -72,6 +72,8 @@
 - [MattN-L](https://github.com/MattN-L)
 - [miku-666](https://github.com/NessieHax)
 - [PhoenixARC](https://github.com/PhoenixARC)
+- [Cracko298](https://github.com/Cracko298)
+- [STBUniverse](https://github.com/STBrian)
 
 ### Involved Projects
 - [libLCE](https://github.com/DexrnZacAttack/libLCE)
@@ -114,3 +116,4 @@
 14. Power Nukkit
 15. PG Team
 16. PARAMETRICCAMP
+17. Minecraft 3DS Community
