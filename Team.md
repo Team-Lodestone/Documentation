@@ -67,10 +67,14 @@
 - [PiSaucer](https://github.com/PiSaucer)
 - [vylryna (xenrelle)](https://github.com/xenrelle)
 - [UtterEvergreen1](https://github.com/UtterEvergreen1)
+- [DexrnZacAttack](https://github.com/DexrnZacAttack)
 - [hee](https://github.com/hee)
 - [MattN-L](https://github.com/MattN-L)
 - [miku-666](https://github.com/NessieHax)
 - [PhoenixARC](https://github.com/PhoenixARC)
+
+### Involved Projects
+- [libLCE](https://github.com/DexrnZacAttack/libLCE)
 
 ### Project Observers
 - [RufusAtticus](https://github.com/reedacartwright) *Genetics PhD, Professor, Software Engineer, and Minecraft YouTuber.*
