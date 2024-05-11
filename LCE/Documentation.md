@@ -36,8 +36,10 @@ The following Table gives you Important information the structure of a legacy ed
 | XboxOne | Zlib | Unknown | Unknown
 | PSVita | Vita RLE | None | Zlib (+ RLE)
 | Switch | Zlib | Switch RLE | Zlib (+ RLE)
+| 3DS | Zlib | Unknown | Zlib (.CDB)
 
 #### note: Xbox One may be inaccurate. -Dexrn
+### note: 3DS is not LCE so documentation will be off for it. -Cracko298
 
 ### Chunk Structure
 The chunks on LCE utilize a different format to Java's MCR Chunks, this is the header information:
