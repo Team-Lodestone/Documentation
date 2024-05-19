@@ -20,7 +20,7 @@ and inside the Microsoft docs some stuff is referenced as UWP.
 | Unknown | 0x0C | Unknown |
 | GUID String Length | 0x04 | Length of the GUID chars. |
 | GUID | 0x48 | UTF16-LE GUID, for me it was all 0's (00000000-0000-0000-0000-000000000000) |
-| Entries | Any | The entries |
+| [Entries](#entry) | Any | The entries |
 
 ### Entry
 | Name | Size (in bytes) | Description |
@@ -54,7 +54,7 @@ Example: `container.152`
 | Name | Size (in bytes) | Description |
 | :-:|:-:|:-:|
 | Filename | 0x90 | UTF16-LE string containing the file name.
-| GUID | 0x10 | Little Endian GUID
+| Filename GUID | 0x10 | Little Endian GUID that reflects one of the files inside the container
 
 # Notes
 This documentation will likely change at any time.  
