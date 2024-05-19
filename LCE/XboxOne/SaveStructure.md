@@ -9,7 +9,8 @@ It seems that Xbox One Edition stores its files differently than the rest of the
 | UWP Package Name | Any | UTF16-LE string containing the game name.
 | UWP Package Family Name | Any/Unknown | Unconfirmed as I cannot find confirmation on this from the MS Store.
 | "!App" | 0x08 | Might be part of the UWP Package Family Name
-| Unknown | 0x10 | Unknown
+| Unknown | 0x0C | Unknown
+| GUID String Length | 0x04 | Length of the GUID chars.
 | GUID | 0x48 | UTF16-LE GUID, for me it was all 0's (00000000-0000-0000-0000-000000000000)
 | Entries | Any | The entries |
 
