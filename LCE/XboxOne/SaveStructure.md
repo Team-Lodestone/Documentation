@@ -1,7 +1,10 @@
 # Xbox One Save Structure
 It seems that Xbox One Edition stores its files differently than the rest of the editions...  
 Most of this documentation is actually about the container format.  
-This took like an hour to make hahah
+This took like an hour to make hahah  
+  
+Note that I use the word UWP even though XB1 LCE isn't UWP, as iirc MS Store does use stuff like app ids  
+and inside the Microsoft docs some stuff is referenced as UWP.
 
 ## containers.index
 #### containers.index might be found in the save root (aka where all the game saves are stored for that game).
