@@ -25,7 +25,8 @@ and inside the Microsoft docs some stuff is referenced as UWP.
 ### Entry
 | Name | Size (in bytes) | Description |
 | :-:|:-:|:-:|
-| Unknown | 0x08 | Could be 2 int32s. |
+| Unknown | 0x04 | Unknown |
+| Unknown | 0x04 | Unknown |
 | Save Name Size | 0x04 | Size of the save name chars.
 | Save Name | Any | The name of the save, example: 201938538145New World (note those numbers were made up by me.)
 | Unknown | 0x35 | Unknown
