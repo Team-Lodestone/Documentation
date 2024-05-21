@@ -75,8 +75,13 @@
 - [Cracko298](https://github.com/Cracko298)
 - [STBUniverse](https://github.com/STBrian)
 
+### Logo Design
+- NikStudios *Made the Banner, and the "L" logo*
+- [DexrnZacAttack](https://github.com/DexrnZacAttack) *Made the background for the smaller "L" logo*
+
 ### Involved Projects
 - [libLCE](https://github.com/DexrnZacAttack/libLCE)
+- [NBTify](https://github.com/Offroaders123/NBTify)
 
 ### Project Observers
 - [RufusAtticus](https://github.com/reedacartwright) *Genetics PhD, Professor, Software Engineer, and Minecraft YouTuber.*
