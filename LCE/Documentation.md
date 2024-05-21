@@ -1,7 +1,7 @@
 # Minecraft Legacy Save File
 ## Base Information
 
-The following Table gives you Important information the structure of a Save file:
+### Save file structure
 | Name | Size (in bytes) | Description |
 | :-:|:-:|:-:|
 | Offset(Int) | 0x04 | offset of File information
@@ -40,6 +40,12 @@ The following Table gives you Important information the structure of a legacy ed
 
 #### note: Xbox One may be inaccurate. -Dexrn
 ### note: 3DS is not LCE so documentation will be off for it. -Cracko298
+
+### Endianness
+| Console | Endianness |
+| :-:|:-:|
+| Xbox 360, PS3, Wii U | Big |
+| Xbox One, PSVita, Switch, PS4 | Little |
 
 ### Chunk Structure
 The chunks on LCE utilize a different format to Java's MCR Chunks, this is the header information:
