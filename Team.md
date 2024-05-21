@@ -106,7 +106,7 @@
 
 ### Involved communities
 1. CrEaTiiOn Brotherhood Community
-2. Crimson Modding Community
+2. Zephyr League Community
 3. Minecraft Legacy Console Speedrunning community
 4. Minecraft@Home Community
 5. Omniarchive
