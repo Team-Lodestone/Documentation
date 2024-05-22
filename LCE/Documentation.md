@@ -45,7 +45,7 @@ The following Table gives you Important information the structure of a legacy ed
 | Console | Endianness |
 | :-:|:-:|
 | Xbox 360, PS3, Wii U | Big |
-| Xbox One, PSVita, Switch, PS4 | Little |
+| Xbox One, PSVita, Switch, PS4, 3DS | Little |
 
 ### Chunk Structure
 The chunks on LCE utilize a different format to Java's MCR Chunks, this is the header information:
