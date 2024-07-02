@@ -4,8 +4,10 @@
 ### Save file structure
 | Name | Size (in bytes) | Description |
 | :-:|:-:|:-:|
-| Offset(Int) | 0x04 | offset of File information
-| NumberOfFiles(Int) | 0x04 | Number of Files in list of File Info
+| Offset | 0x04 (uint) | Offset of [File information](./Documentation.md#File-Information)
+| File count | 0x04 (uint) | Number of Files in list of File Info
+| Minimum Version | 0x02 (ushort) | Minimum file version the LCE client has to support to load the save
+| Current Version | 0x02 (ushort) | Current version of the save file
 | Filedata | variable | bytes of each file contained inside the save
 | [FileInfo](./Documentation.md#File-Information) | variable | Filenames, offsets within save, and size in bytes of files.
 
@@ -14,9 +16,9 @@
 | Name | Size (in bytes) | Description |
 | :-:|:-:|:-:|
 | Filename | 0x80 | Endian reverse Unicode string to dictate the path of the file
-| Filesize(Int) | 0x04 | Size of file in bytes
-| Offset(Int) | 0x04 | offset of file
-| Timestamp(Long) | 0x08 | Last modified timestamp of file (UNCONFIRMED)
+| Filesize | 0x04 (uint) | Size of file in bytes
+| Offset | 0x04 (uint) | Offset of file in bytes
+| Timestamp | 0x08 (u?long) | Last modified timestamp of file, unusable due to arbitrary values being used for the generation
 
 
 ### MCR Structure
@@ -45,20 +47,20 @@ The following Table gives you Important information the structure of a legacy ed
 | Console | Endianness |
 | :-:|:-:|
 | Xbox 360, PS3, Wii U | Big |
-| Xbox One, PSVita, Switch, PS4, 3DS | Little |
+| Xbox One, PS Vita, Switch, PS4, 3DS | Little |
 
 ### Chunk Structure
 The chunks on LCE utilize a different format to Java's MCR Chunks, this is the header information:
 | Name | Size (in bytes) | Description |
 | :-:|:-:|:-:|
-| [FlagAndBuffer](./Documentation.md#Chunk-header-flag) | 0x04 | Bit flag for RLE and an unknown value, plus 30 bits to specify the compressed buffer size
-| RLEUncompressedBuffer(Int) | 0x04 | Size of the buffer after RLE is performed
-| UncompressedBuffer(Int) | 0x04 | Size of the buffer before RLE is performed(only occurs on PS3)
-| Format | 0x02 | chunk format version (0xC is aquatic)
-| X(Int) | 0x04 | chunk X coordinate
-| Y(Int) | 0x04 | chunk Y coordinate
-| LastUpdate | 0x08 | chunk Last-Updated Time
-| Inhabited  | 0x08 | chunk Inhabited Time(Only on chunk version 8 and higher)
+| [FlagAndBuffer](./Documentation.md#Chunk-header-flag) | 0x04 (Int) | Bit flag for RLE and an unknown value, plus 30 bits to specify the compressed buffer size
+| RLEUncompressedBuffer | 0x04 (u?int) | Size of the buffer after RLE is performed
+| UncompressedBuffer | 0x04 (u?int) | Size of the buffer before RLE is performed(only occurs on PS3)
+| Format | 0x02 (u?short) | chunk format version (0xC is aquatic)
+| X | 0x04 (u?int) | chunk X coordinate
+| Y | 0x04 (u?int) | chunk Y coordinate
+| LastUpdate | 0x08 (u?long) | chunk Last-Updated Time
+| Inhabited  | 0x08 (u?long) | chunk Inhabited Time(Only on chunk version 8 and higher)
 
 
 ### Chunk header flag
