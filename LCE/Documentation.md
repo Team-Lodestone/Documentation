@@ -1,5 +1,6 @@
 # Minecraft Legacy Save File
 ## Base Information
+note: u? means unknown if unsigned or not.
 
 ### Save file structure
 | Name | Size (in bytes) | Description |
