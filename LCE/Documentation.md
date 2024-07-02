@@ -53,7 +53,7 @@ The following Table gives you Important information the structure of a legacy ed
 The chunks on LCE utilize a different format to Java's MCR Chunks, this is the header information:
 | Name | Size (in bytes) | Description |
 | :-:|:-:|:-:|
-| [FlagAndBuffer](./Documentation.md#Chunk-header-flag) | 0x04 (Int) | Bit flag for RLE and an unknown value, plus 30 bits to specify the compressed buffer size
+| [FlagAndBuffer](./Documentation.md#Chunk-header-flag) | 0x04 (u?int) | Bit flag for RLE and an unknown value, plus 30 bits to specify the compressed buffer size
 | RLEUncompressedBuffer | 0x04 (u?int) | Size of the buffer after RLE is performed
 | UncompressedBuffer | 0x04 (u?int) | Size of the buffer before RLE is performed(only occurs on PS3)
 | Format | 0x02 (u?short) | chunk format version (0xC is aquatic)
