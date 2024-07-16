@@ -7,8 +7,8 @@
 | Index Size | 0x04 (uint) | Size of File Index in bytes
 | Minimum Version | 0x02 (ushort) | Minimum file version the LCE client has to support to load the save
 | Current Version | 0x02 (ushort) | Current version of the save file
-| Filedata | variable | bytes of each file contained inside the save
-| [FileInfo](./Pre-Release%20Save%20Format.md#File-Index) | variable | Filenames, offsets within save, and size in bytes of files.
+| File Data | variable | bytes of each file contained inside the save
+| [File Index](./Pre-Release%20Save%20Format.md#File-Index) | variable | Filenames, offsets within save, and size in bytes of files.
 
 ### File Index
 | Name | Size (in bytes) | Description |
