@@ -18,4 +18,7 @@
 | Offset | 0x04 (uint) | Offset of file in bytes
 
 ## Notes
-You can get the file count by dividing the Index Size by 136 (e.g $`1360 / 136`$)
+- You can get the file count by dividing the Index Size by 136 (e.g $`1360 / 136`$)   
+- There may be index data [inside file data](https://github.com/user-attachments/assets/e44eea94-41a9-42cf-8386-f84ac9565cff)
+
+
