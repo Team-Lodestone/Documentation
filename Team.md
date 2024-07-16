@@ -61,6 +61,7 @@
 - [Aiko](https://github.com/AikoBorowski)
 - Marko
 - [David-xF](https://github.com/David-xF)
+- [MisledWater79](https://github.com/MisledWater79)
 
 ### Documentation
 - [ModifiedCommand](https://github.com/ModifiedCommand)
