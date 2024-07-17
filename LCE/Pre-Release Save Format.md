@@ -1,4 +1,4 @@
-# Minecraft Pre-Release Legacy Save File
+# LCE Pre-Release Save File
 
 ### Save file structure
 | Name | Size (in bytes) | Description |
