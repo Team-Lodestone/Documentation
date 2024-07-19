@@ -7,6 +7,9 @@
 
 **Please note that this project is STILL IN DEVELOPMENT!**
 
+Want to help?
+[Join us on Discord!](https://discord.gg/umHRdX6R7V)
+
 A single toolset that can edit and convert Minecraft worlds. The toolset will support Minecraft: Java Edition, Bedrock Edition, Education Edition, all 4J Studios Console Editions, and NetEase Bedrock Edition (China). There are many amazing features still in development that will expand the capabilities of our upcoming tool! Keep an eye out for these additions, you won't be disappointed!
 
 | Edition                  | Supported Versions |
@@ -60,7 +63,7 @@ The project has been divided into the following components:
 
 ## How can I contribute?
 
-Submit a pull request, or ask `eternalmodz` on Discord for push access to the repository. We also have a [Discord Server](https://discord.gg/SMv6zzBPPy) for those who are interested in helping with the project or watching over it. This server is awesome and it has an awesome community of talented people! The server is open to everyone and it focuses on the development and research of Legacy Console Edition along with community-made projects and creations. Keep in mind that the server is not only for Project Lodestone! Other projects are featured on the server and Lodestone does not stand alone.
+Submit a pull request, or ask `eternalmodz` on Discord for push access to the repository. We also have a [Discord Community Server](https://discord.gg/SMv6zzBPPy) for those who are interested in helping with the project or watching over it. This server is awesome and it has an awesome community of talented people! The server is open to everyone and it focuses on the development and research of Legacy Console Edition along with community-made projects and creations. Keep in mind that the server is not only for Project Lodestone! Other projects are featured on the server and Lodestone does not stand alone. If you want to get involved with the development of the project, feel free to join the [official development server!](https://discord.gg/umHRdX6R7V)
 
 ## What is the state of this project?
 
