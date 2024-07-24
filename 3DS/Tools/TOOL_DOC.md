@@ -1,6 +1,4 @@
 # Tool(s):
-<details>
-  <summary>Minecraft Nintendo 3DS Edition Modding Tools</summary>
 
 ### Minecraft 3DS UniStore:
 - A store-front for Minecraft 3DS Mods, and Tools. With over 80+ Mods currently on the store, there is no shortage of content to explore.
@@ -54,12 +52,12 @@
 - Convert 3DS Worlds to FWO Exploitable Worlds for Loading Worlds off of the 3DS Micro SDHC.
 - Developed by [Cracko298](https://github.com/Cracko298).
 
+### MC3DS BJSON Editor:
+- A GUI to edit `*.bjson` Game Attribute Files to allow more complex Mods to be Made.
+- Developed by [STBrian/STBUniverse](https://github.com/STBrian).
 
-</details>
 
 # Library(s):
-<details>
-  <summary>Minecraft Nintendo 3DS Edition Modding Libraries</summary>
   
 ### MC3DS getTextureInfo:
 - A cross-platform Library to get information based on Textures from Minecraft 3DS.
@@ -80,5 +78,3 @@
 ### MC-3DST Parser:
 - A Java Library that parses `*.3dst` Textures and can convert from `*.3dst` to `*.png`.
 - Developed by [BJTMasterMind](https://github.com/BJTMastermind).
-
-</details>
