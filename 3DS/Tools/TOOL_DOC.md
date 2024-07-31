@@ -56,6 +56,9 @@
 - A GUI to edit `*.bjson` Game Attribute Files to allow more complex Mods to be Made.
 - Developed by [STBrian/STBUniverse](https://github.com/STBrian).
 
+### MC3DS Model Extractor:
+- A CLI for Extracting/Converting Models from `*.bjson` to `*.obj` File Format.
+- Developed by [SpeakerZ](https://github.com/SpeakerZ-01).
 
 # Library(s):
   
@@ -78,3 +81,7 @@
 ### MC-3DST Parser:
 - A Java Library that parses `*.3dst` Textures and can convert from `*.3dst` to `*.png`.
 - Developed by [BJTMasterMind](https://github.com/BJTMastermind).
+
+### mc3dsbjson:
+- A python library for Minecraft 3DS that allows for a plethora of Stuff to be done to the File Format.
+- Developed by [STBrian/STBUniverse](https://github.com/STBrian).
