@@ -19,7 +19,7 @@ note: u? means unknown if unsigned or not.
 | Filename | 0x80 | Endian reverse Unicode string to dictate the path of the file
 | Filesize | 0x04 (uint) | Size of file in bytes
 | Offset | 0x04 (uint) | Offset of file in bytes
-| Timestamp | 0x08 (u?long) | Last modified timestamp of file, unusable due to arbitrary values being used for the generation
+| Timestamp | 0x08 (ulong) | Last modified timestamp of file, unusable due to arbitrary values being used for the generation of the timestamp
 
 
 ### MCR Structure
@@ -36,7 +36,7 @@ The following Table gives you Important information the structure of a legacy ed
 | Xbox360 | XMemcompress | None | XMemcompress (+ RLE)
 | PS3 | [Deflate(Algorithm)](https://en.wikipedia.org/wiki/Deflate) or None | None | Deflate(Algorithm) (+ RLE)
 | WiiU | Zlib | None | Zlib (+ RLE)
-| XboxOne | Zlib | Unknown | Unknown
+| XboxOne | Zlib | None | Zlib (RLE?) <!-- rle unconfirmed but likely. -->
 | PSVita | Vita RLE | None | Zlib (+ RLE)
 | Switch | Zlib | Switch RLE | Zlib (+ RLE)
 | 3DS | Zlib | None | Zlib (no RLE)
