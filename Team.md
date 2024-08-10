@@ -62,6 +62,7 @@
 - Marko
 - [David-xF](https://github.com/David-xF)
 - [MisledWater79](https://github.com/MisledWater79)
+- [lowercasebtw](https://github.com/lowercasebtw)
 
 ### Documentation
 - [ModifiedCommand](https://github.com/ModifiedCommand)
