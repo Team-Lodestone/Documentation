@@ -62,6 +62,7 @@
 - Marko
 - [David-xF](https://github.com/David-xF)
 - [MisledWater79](https://github.com/MisledWater79)
+- [lowercasebtw](https://github.com/lowercasebtw)
 
 ### Documentation
 - [ModifiedCommand](https://github.com/ModifiedCommand)
@@ -75,7 +76,6 @@
 - [PhoenixARC](https://github.com/PhoenixARC)
 - [Cracko298](https://github.com/Cracko298)
 - [STBUniverse](https://github.com/STBrian)
-- [lowercasebtw])(https://github.com/lowercasebtw)
 
 ### Logo Design
 - NikStudios *Made the Banner, and the "L" logo*
