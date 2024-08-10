@@ -75,6 +75,7 @@
 - [PhoenixARC](https://github.com/PhoenixARC)
 - [Cracko298](https://github.com/Cracko298)
 - [STBUniverse](https://github.com/STBrian)
+- [lowercasebtw])(https://github.com/lowercasebtw)
 
 ### Logo Design
 - NikStudios *Made the Banner, and the "L" logo*
