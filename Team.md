@@ -78,7 +78,7 @@
 - [STBUniverse](https://github.com/STBrian)
 
 ### Translations
-- (gonna wait for them to pull req)
+-[9110751907(そらと)](https://github.com/9110751907)
 
 ### Logo Design
 - NikStudios *Made the Banner, and the "L" logo*
