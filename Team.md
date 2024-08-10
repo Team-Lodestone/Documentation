@@ -77,6 +77,9 @@
 - [Cracko298](https://github.com/Cracko298)
 - [STBUniverse](https://github.com/STBrian)
 
+### Translations
+- (gonna wait for them to pull req)
+
 ### Logo Design
 - NikStudios *Made the Banner, and the "L" logo*
 - [DexrnZacAttack](https://github.com/DexrnZacAttack) *Made the background for the smaller "L" logo*
