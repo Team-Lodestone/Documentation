@@ -60,6 +60,10 @@
 - A CLI for Extracting/Converting Models from `*.bjson` to `*.obj` File Format.
 - Developed by [SpeakerZ](https://github.com/SpeakerZ-01).
 
+### MC3DE 3D Model Editor:
+- A lightweight GUI and 3D Model Editor for JSON, BJSON, and Text Model Formats.
+- Developed by [Cracko298](https://github.com/Cracko298).
+
 # Library(s):
   
 ### MC3DS getTextureInfo:
