@@ -23,4 +23,5 @@
 > These tests were performed with an emulator, with one world generated per version, versions were sourced from Omniarchive, due to me using Codex-IPSA for this.
 
 > [!CAUTION]
-> I could not get worlds to generate on TU34, not sure if it's a Xenia issue or something else.
+> I could not get worlds to generate on TU34, not sure if it's a Xenia issue or something else.   
+> I think it's probably due to [MCCE-533](https://web.archive.org/web/20201028140233/https://bugs.mojang.com/browse/MCCE-533)
