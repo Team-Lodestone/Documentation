@@ -77,7 +77,7 @@ Note: A lot of this is what to be expected, not already finished.
 | PlayStation Vita Edition | 1.00 - 1.84        |
 | Wii U Edition            | Patch 1 - Patch 43 |
 | PlayStation 4 Edition    | Coming Soon        |
-| 3DS Edition              | Coming Soon        |
+| 3DS Edition              | 1.0 - Patch 1.9.19 |
 
 ## Contribute to the Project
 
