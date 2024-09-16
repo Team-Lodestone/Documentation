@@ -73,6 +73,7 @@
 - [vylryna (xenrelle)](https://github.com/xenrelle)
 - [UtterEvergreen1](https://github.com/UtterEvergreen1)
 - [DexrnZacAttack](https://github.com/DexrnZacAttack)
+- [BJTMastermind](https://github.com/BJTMastermind)
 - [hee](https://github.com/hee)
 - [MattN-L](https://github.com/MattN-L)
 - [miku-666](https://github.com/NessieHax)
