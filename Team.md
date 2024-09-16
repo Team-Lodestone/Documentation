@@ -63,6 +63,9 @@
 - [David-xF](https://github.com/David-xF)
 - [MisledWater79](https://github.com/MisledWater79)
 - [lowercasebtw](https://github.com/lowercasebtw)
+- [Cracko298](https://github.com/Cracko298)
+- [Anonymous941](https://github.com/Anonymous941)
+- Evocated
 
 ### Documentation
 - [ModifiedCommand](https://github.com/ModifiedCommand)
@@ -86,6 +89,7 @@
 
 ### Involved Projects
 - [libLCE](https://github.com/DexrnZacAttack/libLCE)
+- [lib3DSE](https://github.com/DexrnZacAttack/lib3DSE)
 - [NBTify](https://github.com/Offroaders123/NBTify)
 
 ### Project Observers
