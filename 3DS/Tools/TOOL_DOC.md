@@ -89,3 +89,11 @@
 ### mc3dsbjson:
 - A python library for Minecraft 3DS that allows for a plethora of Stuff to be done to the File Format.
 - Developed by [STBrian/STBUniverse](https://github.com/STBrian).
+
+### lib3DSE:
+- A TypeScript library for Minecraft New Nintendo 3DS Edition, specifically for CDB and CDB World Modification and Converting.
+- Developed by [DexrnZacAttack](https://github.com/DexrnZacAttack).
+
+### CDB-Parser:
+- A parser and decompressor for Minecraft New Nintendo 3DS Edition, as the name suggests it's for CDB Files.
+- Developed by [Anonymous941](https://github.com/Anonymous941/CDB-Parser).
