@@ -60,8 +60,12 @@
 - A CLI for Extracting/Converting Models from `*.bjson` to `*.obj` File Format.
 - Developed by [SpeakerZ](https://github.com/SpeakerZ-01).
 
-### MC3DE 3D Model Editor:
-- A lightweight GUI and 3D Model Editor for JSON, BJSON, and Text Model Formats.
+### MC3DS Model Editor:
+- A lightweight GUI and 3D Model Editor for JSON, BJSON, Text, and Worlds (soon) Model Formats.
+- Developed by [Cracko298](https://github.com/Cracko298).
+
+### MC3DS WorldManager:
+- A WIP World/Save Manager for Minecraft New Nintendo 3DS Edition. Can backup worlds much faster than Checkpoint or JKSM and is alot more Stable to Boot.
 - Developed by [Cracko298](https://github.com/Cracko298).
 
 # Library(s):
