@@ -9,7 +9,7 @@ Entity Chunk data is stored in **Big Endian** byte order.
 | Tag Name | Tag Type | Description |
 |----------|----------|-------------|
 | DataVersion | IntTag | Version of the chunk NBT structure. |
-| Entities | ListTag of CompoundTags | Each CompoundTag is an entity. |
+| [Entities](#entities-data) | ListTag of CompoundTags | Each CompoundTag is an entity. |
 | Position | IntArrayTag | The chunks X, Z coordinates. Index 0 = X, Index 1 = Z. |
 
 ### Entities Data
