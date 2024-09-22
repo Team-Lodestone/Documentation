@@ -78,6 +78,7 @@ Note: A lot of this is what to be expected, not already finished.
 | Wii U Edition            | Patch 1 - Patch 43 |
 | PlayStation 4 Edition    | Coming Soon        |
 | 3DS Edition              | 1.0 - Patch 1.9.19 |
+| Raspberry Pi Edition     | 0.1.0 - 0.1.1      |
 
 ## Contribute to the Project
 
