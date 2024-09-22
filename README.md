@@ -73,10 +73,11 @@ Note: A lot of this is what to be expected, not already finished.
 | Java Edition             | 1.3.0 - 1.20       |
 | Bedrock Edition          | 1.0.0 - 1.20       |
 | Xbox 360 Edition         | TU0 - TU75         |
+| Xbox One Edition         | CU1 - CU59         |
 | PlayStation 3 Edition    | 1.00 - 1.84        |
 | PlayStation Vita Edition | 1.00 - 1.84        |
 | Wii U Edition            | Patch 1 - Patch 43 |
-| PlayStation 4 Edition    | Coming Soon        |
+| PlayStation 4 Edition    | 1.00 - 1.95        |
 | 3DS Edition              | 0.1.0 - 1.9.19     |
 | Raspberry Pi Edition     | 0.1.0 - 0.1.1      |
 
