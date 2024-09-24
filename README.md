@@ -4,7 +4,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/Team-Lodestone/Documentation)
 [![Lodestone Discord](https://img.shields.io/discord/1029594598084968530?color=7a60fc&label=Project%20Lodestone%20Discord&logo=Discord&logoColor=white)](https://discord.gg/umHRdX6R7V)
 
-In this repo, you'll find documentation on various mechanics and file types for Java, Bedrock, Legacy Console, and 3DS editions of the game.
+In this repo, you'll find documentation on various mechanics and file types for many versions and editions of the game.
 
 # What is Project Lodestone?
 
