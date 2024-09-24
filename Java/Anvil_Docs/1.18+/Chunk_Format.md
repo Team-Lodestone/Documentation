@@ -2,7 +2,7 @@
 
 ## Byte Order
 
-Chunk data is stored in **Big Endian** byte order.
+Chunk data is stored in **Big Endian** byte order unless mentioned otherwise.
 
 ## Chunk NBT Data
 
@@ -18,7 +18,7 @@ Chunk data is stored in **Big Endian** byte order.
 | [block_entities](#block-entities-data) | ListTag of CompoundTags | Each CompoundTag in this list defines a block entity in this chunk. |
 | [Heightmaps](#heightmaps-data) | CompoundTag | Several different heightmaps corresponding to 256 values compacted at 9 bits per word (lowest being 0, highest being 384, both inclusive). |
 | [fluid_ticks](#fluid-ticks-data) | ListTag of CompoundTags | Each CompoundTag in this list is an "active" liquid in this chunk waiting to be updated. |
-| [block_ticks](#block-ticks-data) | ListTag of CompoundTags | ListTag of CompoundTags | Each CompoundTag in this list is an "active" block in this chunk waiting to be updated.|
+| [block_ticks](#block-ticks-data) | ListTag of CompoundTags | Each CompoundTag in this list is an "active" block in this chunk waiting to be updated. |
 | InhabitedTime | LongTag | The cumulative number of ticks players have been in this chunk. Note that this value increases faster when more players are in the chunk. Used for Regional Difficulty. |
 | [blending_data](#blending-data) | CompoundTag | This appears to be biome blending data, although more testing is needed to confirm. |
 | [structures](#structures-data) | CompoundTag | Structure data in this chunk. |
@@ -28,8 +28,8 @@ Chunk data is stored in **Big Endian** byte order.
 | Tag Name | Tag Type | Description |
 |----------|----------|-------------|
 | Y | ByteTag | The Y position of this section. |
-| block_states | CompoundTag | -- |
-| biomes | CompoundTag | -- |
+| block_states | CompoundTag | |
+| biomes | CompoundTag | |
 | BlockLight | ByteArrayTag | 2048 ByteTags storing the amount of block-emitted light in each block, Omitted if no light reaches this section of the chunk. Stored 4 bits per block. |
 | SkyLight | ByteArrayTag | 2048 ByteTags storing the maximum sky light that reaches each block, If missing look at the bottom 16x16 of light data of the section directly above and repeat that 16 times top down to recompute the data for this section, if there is no section above the current one the section should be set to be completely bright (`0xFF` for each byte). Stored 4 bits per block. |
 
@@ -38,7 +38,7 @@ Chunk data is stored in **Big Endian** byte order.
 | Tag Name | Tag Type | Description |
 |----------|----------|-------------|
 | <a id="block-palette"></a> palette | ListTag of CompoundTags | Set of different block states used in this particular section. |
-| <a id="block-indices"></a> data | LongArrayTag | A packed array of 4096 indices pointing to the palette, stored in an array of longs. Omitted if only 1 block state fills the entire section. |
+| <a id="block-indices"></a> data | LongArrayTag | A packed array of 4096 indices pointing to the palette, stored in an array of longs. Omitted if only 1 block state fills the entire section. Longs are stored in **Little Endian** |
 
 ***Block Palette Data***
 
@@ -52,7 +52,7 @@ Chunk data is stored in **Big Endian** byte order.
 | Tag Name | Tag Type | Description |
 |----------|----------|-------------|
 | <a id="biome-palette"></a> palette | ListTag of StringTags | Biome resource location. |
-| <a id="biome-indices"></a> data | LongArrayTag | A packed array of 64 indices pointing to the palette, stored in an array of longs. Omitted if only 1 biome fills the entire section.|
+| <a id="biome-indices"></a> data | LongArrayTag | A packed array of 64 indices pointing to the palette, stored in an array of longs. Omitted if only 1 biome fills the entire section. Longs are stored in **Little Endian** |
 
 ### Block Entities Data
 
@@ -62,12 +62,12 @@ A block entities data. See the [Minecraft Wiki page](https://minecraft.wiki/w/Ch
 
 | Tag Name | Tag Type | Description |
 |----------|----------|-------------|
-| MOTION_BLOCKING | LongArrayTag | -- |
-| MOTION_BLOCKING_NO_LEAVES | LongArrayTag | -- |
-| OCEAN_FLOOR | LongArrayTag | -- |
-| OCEAN_FLOOR_WG | LongArrayTag | -- |
-| WORLD_SURFACE | LongArrayTag | -- |
-| WORLD_SURFACE_WG | LongArrayTag | -- |
+| MOTION_BLOCKING | LongArrayTag | The highest block that blocks motion or contains a fluid. Longs are stored in **Little Endian** |
+| MOTION_BLOCKING_NO_LEAVES | LongArrayTag | The highest block that blocks motion, contains a fluid, or is in the `minecraft:leaves` tag. Longs are stored in **Little Endian** |
+| OCEAN_FLOOR | LongArrayTag | The highest block that is neither air or a fluid. Longs are stored in **Little Endian** |
+| OCEAN_FLOOR_WG | LongArrayTag | The highest block that is neither air or a fluid, for worldgen. Longs are stored in **Little Endian** |
+| WORLD_SURFACE | LongArrayTag | The highest non-air block. Longs are stored in **Little Endian** |
+| WORLD_SURFACE_WG | LongArrayTag | The highest non-air block, for worldgen. Longs are stored in **Little Endian** |
 
 ### Fluid Ticks Data
 
