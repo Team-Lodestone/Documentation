@@ -18,7 +18,7 @@ Chunk data is stored in **Big Endian** byte order unless mentioned otherwise.
 | [block_entities](#block-entities-data) | ListTag of CompoundTags | Each CompoundTag in this list defines a block entity in this chunk. |
 | [Heightmaps](#heightmaps-data) | CompoundTag | Several different heightmaps corresponding to 256 values compacted at 9 bits per word (lowest being 0, highest being 384, both inclusive). |
 | [fluid_ticks](#fluid-ticks-data) | ListTag of CompoundTags | Each CompoundTag in this list is an "active" liquid in this chunk waiting to be updated. |
-| [block_ticks](#block-ticks-data) | ListTag of CompoundTags | ListTag of CompoundTags | Each CompoundTag in this list is an "active" block in this chunk waiting to be updated.|
+| [block_ticks](#block-ticks-data) | ListTag of CompoundTags | Each CompoundTag in this list is an "active" block in this chunk waiting to be updated. |
 | InhabitedTime | LongTag | The cumulative number of ticks players have been in this chunk. Note that this value increases faster when more players are in the chunk. Used for Regional Difficulty. |
 | [blending_data](#blending-data) | CompoundTag | This appears to be biome blending data, although more testing is needed to confirm. |
 | [structures](#structures-data) | CompoundTag | Structure data in this chunk. |
