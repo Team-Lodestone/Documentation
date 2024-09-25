@@ -1,4 +1,4 @@
-# Java Format Docs
+# Anvil Format Docs
 
 All the documentation here is grouped into sub-folders based on the earliest version the format applies to.
 
