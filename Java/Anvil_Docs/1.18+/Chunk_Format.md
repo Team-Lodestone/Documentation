@@ -144,7 +144,7 @@ Indexing the [biome palette](#biome-palette) should look something like this: `p
 
 | Name | Type | Formula |
 |------|------|---------|
-| Block Indices | 32-bit integer array. Size = ceil(256 ÷ 7) × 7 | Extract 7 indices of 9 bits from each 64-bit integer and store them as their own index in the new 32-bit integer array |
+| Block Indices | 32-bit integer array. Size = 259 (Only 256 indices used) | Extract 7 indices of 9 bits from each 64-bit integer and store them as their own index in the new 32-bit integer array |
 
 Now that you have all the needed variables you can now loop the palette in XZ order (X increments first).
 
