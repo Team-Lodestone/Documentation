@@ -1,6 +1,7 @@
 # ARC File
 > [!NOTE]
 > "Variable" means the size is determined by other values, e.g., the Filename having a preceding short that determines the length of the string.
+> Additionally, the file seems to always be in Big Endian.
 
 ### ARC File structure
 | Name | Size (in bytes) | Description |
