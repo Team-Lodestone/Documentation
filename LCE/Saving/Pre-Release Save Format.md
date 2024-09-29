@@ -2,7 +2,7 @@
 
 ### Save file structure
 | Name | Size (in bytes) | Description |
-| :-:|:-:|:-:|
+|------|-----------------|-------------|
 | Offset | 0x04 (uint) | Offset of [File Index](./Pre-Release%20Save%20Format.md#File-Index)
 | Index Size | 0x04 (uint) | Size of File Index in bytes
 | Minimum Version | 0x02 (ushort) | Minimum file version the LCE client has to support to load the save (might not be used in-game)
@@ -17,7 +17,7 @@
 <!-- I don't think the file name is actually endian reverse... -->
 ### File Index
 | Name | Size (in bytes) | Description |
-| :-:|:-:|:-:|
+|------|-----------------|-------------|
 | File Name | 0x80 | UTF16 UNIX-style path string to dictate the path of the file
 | File Size | 0x04 (uint) | Size of file in bytes
 | File Offset | 0x04 (uint) | Offset of file in bytes
