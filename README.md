@@ -8,12 +8,12 @@ In this repo, you'll find documentation on various mechanics and file types for 
 
 # What is Project Lodestone?
 
-> [!NOTE]  
+> [!NOTE]
 > This project is still in development!
 
 **Project Lodestone** is a toolset that aims to edit and convert Minecraft worlds across various editions, including Java Edition, Bedrock Edition, all 4J Studios Console (as well as 3DS) Editions, support for both current and legacy versions. Essentially a mega tool.
 
-**Note: We also have custom community-made converter support planned, but it isn't the main focus.** 
+**Note: We also have custom community-made converter support planned, but it isn't the main focus.**
 
 [Join us on Discord!](https://discord.gg/umHRdX6R7V)
 
@@ -70,8 +70,8 @@ Note: A lot of this is what to be expected, not already finished.
 
 | Edition                  | Supported Versions |
 |--------------------------|--------------------|
-| Java Edition             | c0.30 - 1.20       |
-| Bedrock Edition          | 1.0.0 - 1.20       |
+| Java Edition             | c0.30 - 1.21       |
+| Bedrock Edition          | 0.1.0 - 1.21       |
 | Raspberry Pi Edition     | 0.1.0 - 0.1.1      |
 | Xbox 360 Edition         | TU0 - TU75         |
 | PlayStation 3 Edition    | 1.00 - 1.84        |
@@ -80,6 +80,7 @@ Note: A lot of this is what to be expected, not already finished.
 | PlayStation Vita Edition | 1.00 - 1.84        |
 | Wii U Edition            | Patch 1 - Patch 43 |
 | 3DS Edition              | 0.1.0 - 1.9.19     |
+| Switch Edition           | 1.0.1 - 1.0.17     |
 
 ## Contribute to the Project
 
