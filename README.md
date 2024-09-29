@@ -70,7 +70,7 @@ Note: A lot of this is what to be expected, not already finished.
 
 | Edition                  | Supported Versions |
 |--------------------------|--------------------|
-| Java Edition             | 1.3.0 - 1.20       |
+| Java Edition             | c0.30 - 1.20       |
 | Bedrock Edition          | 1.0.0 - 1.20       |
 | Raspberry Pi Edition     | 0.1.0 - 0.1.1      |
 | Xbox 360 Edition         | TU0 - TU75         |
