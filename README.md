@@ -95,4 +95,4 @@ Thank you to all the contributors who make this project possible!
   <img src="https://contributors-img.web.app/image?repo=Team-Lodestone/Documentation" />
 </a>
 
-## [Full list of contributors](/Team.md)
+### [Full list of contributors](/Team.md)
