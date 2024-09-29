@@ -8,7 +8,7 @@ Data3D data is stored in **Little Endian** byte order.
 
 | Name | Size (in bytes) | Description |
 |------|-----------------|-------------|
-| Heightmap | 512 | The heightmap for the chunk. For 1.18+ subtract heightmap Y value by 64 to get the real Y coordinate. Stored as 16-bit integers. ZX order (Z increments first) |
+| Heightmap | 512 | The heightmap for the chunk. Subtract 64 to get the real Y coordinate. Stored as 16-bit integers. ZX order (Z increments first) |
 
 Loop next section `24` times until you have parsed all subchunks biome palettes.
 
