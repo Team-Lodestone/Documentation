@@ -2,14 +2,22 @@
 
 ## Byte Order
 
-level.dat is stored in **Big Endian** byte order.
+level.dat is stored in **Big Endian** byte order unless mentioned otherwise.
 
 ## Parsing level.dat
 
+***Header***
+
 | Name | Size (in bytes) | Description |
 |------|-----------------|-------------|
-| Version | 4 | The version used to save the file. Always 1. |
-| Size | 4 | The size of the file subtracting the header(Version and Size). |
+| Version | 4 | The version used to save the file. Always 1. Stored in **Little Endian** |
+| Size | 4 | The size of the file subtracting the header. Stored in **Little Endian** |
+
+***Global World Data***
+
+| Name | Size (in bytes) | Description |
+|------|-----------------|-------------|
+| Seed | 4 | The seed of the world |
 | Spawn X | 4 | The X coordinate of the world spawn point |
 | Spawn Y | 4 | The Y coordinate of the world spawn point |
 | Spawn Z | 4 | The Z coordinate of the world spawn point |
