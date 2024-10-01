@@ -1,23 +1,27 @@
 # MSSCMP
 
 > [!NOTE]
-> It seems this documentation only applies to Little Endian files.   
+> New gen consoles seem to use Long (0x08) instead of Int (0x04) for *some* of the header values.   
+> "0xXX/0xYY" means 0xXX on new gen, 0xYY on older gen. (e.g 0x08/0x04 means 0x08 on new gen, 0x04 on old gen.)   
 > Additionally, I use the name Index a lot in this... there's probably a better name for some of them.   
-
-> [!TIP]
-> I believe you can add 4 bytes to make BE files match up with the LE counterparts (specifically at the 2 areas where BE is missing bytes)
 
 ### MSSCMP file structure
 | Name | Size (in bytes) | Description |
 |------|-----------------|-------------|
 | Magic | 0x04 | "BANK" if big endian, "KNAB" if little. |
 | Unknown | 0x04 (uint) | Could be a file version? |
-| File Data Offset | 0x04 (uint) | The offset at which all the file data starts, there are no indexes after this point. |
-| Unknown | 0x0C (0x08 on BE) | Seems to just be null bytes. |
-| [Index 1](#index-1) Offset | 0x04 (uint) | Where the first index starts. | 
-| Unknown | 0x04 (Only on LE) | Seems to just be null bytes. |
-| Offset of the last entry in [Index 1](#index-1) | 0x04 | This is where the last entry of the first index is, to get to the [second index](#index-2), add 4 to that value. |
-| [Index 2](#index-2) | variable | Filenames, offsets within save, and size in bytes of files. |
+| File Data Offset | 0x08/0x04 (uint/ulong) | The offset at which all the file data starts, there are no indexes after this point. |
+| Unknown | 0x08 | Seems to just be null bytes. |
+| [Index 1](#index-1) offset | 0x04/0x08 (uint/ulong) | Where the first index starts. |
+| [Index 1](#index-1) Last entry offset | 0x04/0x08 (uint/ulong) | Offset of the last entry in the first index. | 
+| Unknown | 0x10/0x08 | Seems to just be the last entry offset repeated twice. |
+| Unknown offset | 0x08/0x04 | Seems to lead to an area right before where the file paths start. |
+| [Index 1](#index-1) Entry count | 0x08/0x04 | How many entries are in [Index 1](#index-1) |
+| Unknown | 0x04/0x08 | Seems to just be null bytes. |
+| [Index 2](#index-2) Entry count | 0x04 | How many entries are in [Index 2](#index-2) |
+
+> [!TIP]
+> To get the offset of [Index 2](#index-2), grab the Index 1 last entry offset, and add 4.
 
 ### Index 1
 | Name | Size (in bytes) | Description |
