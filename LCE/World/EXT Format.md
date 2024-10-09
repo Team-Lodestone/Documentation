@@ -28,6 +28,7 @@
 | 4J_HOSTOPTIONS | Host options, format is unknown                |
 | 4J_TEXTUREPACK | Seems to be the previously chosen texture pack |
 | 4J_EXTRADATA   | Unknown                                        |
+| 4J_BASESAVENAME| Seems to only be used on MCS files             |
 | 4J_#LOADS      | Unknown                                        |
 
 
