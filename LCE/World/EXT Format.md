@@ -4,7 +4,7 @@
 | Name | Size (in bytes) | Description |
 |------|-----------------|-------------|
 | [Header](#header) | Variable/None | Doesn't always exist, size and availability depends on console. | 
-| [Thumbnail](#world-thumbnail) | Variable (Rest of file) | Size of File Index in bytes
+| [Thumbnail](#world-thumbnail) | Variable (Rest of file) | PNG thumbnail of what the player was seeing on logout
 
 ### Header
 | Name | Size (in bytes) | Description |
