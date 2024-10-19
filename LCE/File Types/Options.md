@@ -1,7 +1,7 @@
 # Options File
 > [!NOTE]
-> The options file usually uses bitfields to store multiple options in one byte.
-> Many are unknown or flat out incorrect as I just changed settings and watched the file data to see what changed. 
+> The options file usually uses bitfields to store multiple options in one byte.   
+> Many are unknown or flat out incorrect as I (DexrnZacAttack) just changed settings and watched the file data to see what changed. 
 
 ### Options File structure (as of latest Wii U Edition version)
 | Name | Size (in bytes) | Description |
