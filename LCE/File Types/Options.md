@@ -22,7 +22,7 @@
 | [Bitfield 2](#settings-bitfield-2) | 0x01 | |
 | [Bitfield 3](#settings-bitfield-3) | 0x01 | |
 | [Bitfield 4](#settings-bitfield-4) | 0x01 | |
-| Bitfield 5 | 0x01 | Not known what these corrospond to yet |
+| Bitfield 5 | 0x01 | Not known what these correspond to yet |
 | Unknown | 0x38 | |
 | Language | 0x02 | Language of the game, seems to be a bitfield, not sure though |
 | Unknown | 0x12 | |
