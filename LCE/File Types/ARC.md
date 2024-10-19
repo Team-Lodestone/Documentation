@@ -1,4 +1,7 @@
 # ARC File
+ARC is a contianer format used for storing many assets in one file.   
+Typically you'll find things like Languages.loc and FUI files in `Media{console}.arc`.
+
 > [!NOTE]
 > "Variable" means the size is determined by other values, e.g., the Filename having a preceding short that determines the length of the string.   
 > Additionally, the file seems to always be in Big Endian.
