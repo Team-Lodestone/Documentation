@@ -1,5 +1,5 @@
 # ARC File
-ARC is a contianer format used for storing many assets in one file.   
+ARC is a container format used for storing many assets in one file.   
 Typically you'll find things like Languages.loc and FUI files in `Media{console}.arc`.
 
 > [!NOTE]
