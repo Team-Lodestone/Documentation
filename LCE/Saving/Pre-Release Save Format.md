@@ -2,7 +2,7 @@
 
 ### Upgrading
 - These save files can be upgraded to the new format, working in atleast TU0, does not work in TU75.
-- Upgrading a world in this format will usually leave a "players_" file, they likely used _ as a seperator for subfolders, or not at all. This also means you will lose your player data upon loading a save in a newer version.
+- Upgrading a world in this format will usually leave a "players_" file, they likely used _ as a seperator for subfolders. This also means you will lose your player data upon loading a save in a newer version.
 - When upgraded, the timestamps of all the files are set to 0L.
 
 ### Save file structure
