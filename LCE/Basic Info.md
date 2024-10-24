@@ -10,9 +10,9 @@
 | Xbox360 | XMemcompress/LZX                                                    | None | XMemcompress/LZX (+ RLE)
 | PS3     | [Deflate(Algorithm)](https://en.wikipedia.org/wiki/Deflate) or None | None | Deflate(Algorithm) (+ RLE)
 | WiiU    | Zlib                                                                | None | Zlib (+ RLE)
-| XboxOne | Zlib                                                                | Region RLE | Zlib (+ RLE?) <!-- rle unconfirmed but likely. -->
+| XboxOne | Zlib                                                                | None | Zlib (+ RLE?) <!-- rle unconfirmed but likely. -->
 | PSVita  | Vita RLE                                                            | None | Zlib (+ RLE)
-| Switch  | Zlib                                                                | Region RLE | Zlib (+ RLE)
+| Switch  | Zlib                                                                | Switch RLE | Zlib (+ RLE)
 | 3DS     | Zlib                                                                | None | Zlib (no RLE)
 
 #### note: Xbox One may be inaccurate. -Dexrn
