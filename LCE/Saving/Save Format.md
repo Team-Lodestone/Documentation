@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > Data in this format is endian-dependant and also commonly has compression applied to it.   
-> Check out [Basic Info.md](../Basic%20Info.md/#Endianness) for more info.
+> Check out [Basic Info.md](../Basic%20Info.md) for more info.
 
 For the pre-release (Xbox 360 Edition versions 0033 and 0035) save file, check out [Pre-Release Save Format.md](./Pre-Release%20Save%20Format.md).
 
