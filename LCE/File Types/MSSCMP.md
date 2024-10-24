@@ -1,6 +1,10 @@
 # MSSCMP
 
 > [!NOTE]
+> Some data in this format is endian-dependant.   
+> Check out [Basic Info.md](../Basic%20Info.md/#Endianness) for more info.
+
+> [!NOTE]
 > New gen consoles seem to use Long (0x08) instead of Int (0x04) for *some* of the header values.   
 > "0xXX/0xYY" means 0xXX on new gen, 0xYY on older gen. (e.g 0x08/0x04 means 0x08 on new gen, 0x04 on old gen.)   
 > Additionally, I use the name Index a lot in this... there's probably a better name for some of them.   
