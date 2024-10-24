@@ -24,12 +24,3 @@ For the pre-release (Xbox 360 Edition versions 0033 and 0035) save file, check o
 | Filesize | 0x04 (uint) | Size of the file in bytes
 | Offset | 0x04 (uint) | Offset of the file in bytes
 | Timestamp | 0x08 (ulong) | Last modified timestamp of file, although unusable due to arbitrary values being used for the generation of the timestamp.
-
-
-## Split Save Format
-Not much seems to be known about split saves, so some info may be inaccurate.
-
-| Name | Size (in bytes) | Description |
-| :-:|:-:|:-:|
-| Decompressed Size | 0x04 (uint) | |
-| Compressed Region | Variable | |
