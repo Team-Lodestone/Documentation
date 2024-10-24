@@ -8,26 +8,6 @@ The following Table gives you Important information the structure of a legacy ed
 | timestamps |  0x1000 | timestamps for the chunks found within the previous sector
 | chunks and unused space | variable | chunks themselves, compressed with a different format per-console.
 
-### LCE buffers
-| Platform | SAVEGAME | REGION | CHUNK/GRF |
-| :-:|:-:|:-:|:-:|
-| Xbox360 | XMemcompress | None | XMemcompress (+ RLE)
-| PS3 | [Deflate(Algorithm)](https://en.wikipedia.org/wiki/Deflate) or None | None | Deflate(Algorithm) (+ RLE)
-| WiiU | Zlib | None | Zlib (+ RLE)
-| XboxOne | Zlib | None | Zlib (RLE?) <!-- rle unconfirmed but likely. -->
-| PSVita | Vita RLE | None | Zlib (+ RLE)
-| Switch | Zlib | Switch RLE | Zlib (+ RLE)
-| 3DS | Zlib | None | Zlib (no RLE)
-
-#### note: Xbox One may be inaccurate. -Dexrn
-### note: 3DS is not LCE so documentation will be off for it. -Cracko298
-
-### Endianness
-| Console | Endianness |
-| :-:|:-:|
-| Xbox 360, PS3, Wii U | Big |
-| Xbox One, PS Vita, Switch, PS4, 3DS | Little |
-
 ### Chunk Structure
 The chunks on LCE utilize a different format to Java's MCR Chunks, this is the header information:
 | Name | Size (in bytes) | Description |
