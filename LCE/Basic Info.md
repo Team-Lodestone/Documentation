@@ -1,3 +1,9 @@
+### Endianness
+| Console | Endianness |
+| :-:|:-:|
+| Xbox 360, PS3, Wii U                | Big    |
+| Xbox One, PS Vita, Switch, PS4, 3DS | Little |
+
 ### LCE compression
 | Platform | SAVEGAME | REGION | CHUNK/GRF |
 | :-:|:-:|:-:|:-:|
@@ -11,9 +17,3 @@
 
 #### note: Xbox One may be inaccurate. -Dexrn
 ### note: 3DS is not LCE so documentation will be off for it. -Cracko298
-
-### Endianness
-| Console | Endianness |
-| :-:|:-:|
-| Xbox 360, PS3, Wii U                | Big    |
-| Xbox One, PS Vita, Switch, PS4, 3DS | Little |
