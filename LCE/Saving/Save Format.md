@@ -27,4 +27,9 @@ For the pre-release (Xbox 360 Edition versions 0033 and 0035) save file, check o
 
 
 ## Split Save Format
-Not much seems to be known about split saves, so this section is a stub.
+Not much seems to be known about split saves, so some info may be inaccurate.
+
+| Name | Size (in bytes) | Description |
+| :-:|:-:|:-:|
+| Decompressed Size | 0x04 (uint) | |
+| Compressed Region | Variable | |
