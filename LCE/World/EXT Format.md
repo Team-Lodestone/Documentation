@@ -1,5 +1,9 @@
 # .EXT (World Info) Format
 
+> [!NOTE]
+> Some data in this format is endian-dependant.   
+> Check out [Basic Info.md](../Basic%20Info.md/#Endianness) for more info.
+
 ### World Info structure
 | Name | Size (in bytes) | Description |
 |------|-----------------|-------------|
