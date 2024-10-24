@@ -1,5 +1,9 @@
 # LCE Pre-Release Save File
 
+> [!NOTE]
+> Data in this format is endian-dependant and also commonly has compression applied to it.   
+> Check out [Basic Info.md](../Basic%20Info.md) for more info.
+
 ### Upgrading
 - These save files can be upgraded to the new format, working in atleast TU0, does not work in TU75.
 - Upgrading a world in this format will usually leave a "players_" file, they likely used _ as a seperator for subfolders. This also means you will lose your player data upon loading a save in a newer version.
