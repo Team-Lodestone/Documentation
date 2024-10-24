@@ -1,26 +1,4 @@
-# Minecraft Legacy Save File
-## Base Information
-note: u? means unknown if unsigned or not.
-
-### Save file structure
-| Name | Size (in bytes) | Description |
-| :-:|:-:|:-:|
-| Offset | 0x04 (uint) | Offset of [File information](./Documentation.md#File-Information)
-| File count | 0x04 (uint) | Number of Files in list of File Info
-| Minimum Version | 0x02 (ushort) | Minimum file version the LCE client has to support to load the save
-| Current Version | 0x02 (ushort) | Current version of the save file
-| Filedata | variable | bytes of each file contained inside the save
-| [FileInfo](./Documentation.md#File-Information) | variable | Filenames, offsets within save, and size in bytes of files.
-
-
-### File Information
-| Name | Size (in bytes) | Description |
-| :-:|:-:|:-:|
-| Filename | 0x80 | Endian reverse Unicode string to dictate the path of the file
-| Filesize | 0x04 (uint) | Size of file in bytes
-| Offset | 0x04 (uint) | Offset of file in bytes
-| Timestamp | 0x08 (ulong) | Last modified timestamp of file, unusable due to arbitrary values being used for the generation of the timestamp
-
+### note: in the process of being moved to files.
 
 ### MCR Structure
 The following Table gives you Important information the structure of a legacy edition mcr file:
