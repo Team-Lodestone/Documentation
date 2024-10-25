@@ -1,7 +1,7 @@
 # Split Save Format
 Not much seems to be known about split saves, so some info may be inaccurate.   
 
-- Split saves are only used on Xbox One, PlayStation 4, and Nintendo Switch edition, although there is a symbol named useSplitSaves on Wii U Edition, which apparently does not do anything. 
+- Split saves are only used on Xbox One, PlayStation 4, and Nintendo Switch edition, although there is a symbol named useSplitSaves on Wii U Edition, which apparently does not do anything, probably due to ConsoleSaveFileSplit not existing on the other editions. 
 - When split saves are used, regions are not saved in the save file, instead outside in their own seperate files, which use a [specific name format](#name).
 - Additionally, split saves are just region files that are compressed with special RLE, it seems.
 
