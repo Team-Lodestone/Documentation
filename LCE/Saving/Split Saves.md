@@ -7,12 +7,12 @@ Not much seems to be known about split saves, so some info may be inaccurate.
 
 ### Name
 
-`GAMEDATA_DDDDXXYY`
+`GAMEDATA_DDDDXXZZ`
 - `DDDD`: An int representing the dimension (in decimal):
   - `0000` for the Overworld
   - `0001` for the Nether
   - `0002` for the End
-- `XXYY`: 2 shorts representing the X and Y coordinates of the region (in hexadecimal).
+- `XXZZ`: 2 shorts representing the X and Z coordinates of the region (in hexadecimal).
 
 
 Thanks to [UtterEvergreen1](https://github.com/UtterEvergreen1) for helping out and explaining this.
