@@ -1,0 +1,19 @@
+:root.dark {
+    --vp-home-hero-name-color: rgb(173,149,237);
+    --vp-nav-bg-color: rgb(25,26,28);
+    --vp-sidebar-bg-color: rgb(25,26,28);
+    --vp-c-brand-1: rgb(173,149,237);
+    --vp-c-accent: rgb(173,149,237);
+    --vp-c-bg: rgb(18,18,18);
+    --vp-c-accent: rgb(173,149,237);
+}
+
+:root {
+    --vp-c-brand-1: rgb(73,49,137);
+    --vp-c-accent: rgb(73,49,137);
+    transition: background-color 0.55s;
+}
+
+.VPNav {
+    background-color: var(--vp-nav-bg-color);
+}

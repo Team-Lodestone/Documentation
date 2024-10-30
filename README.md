@@ -38,8 +38,8 @@ We're continuously working on new features and improvements. Here's an outline o
   - [ ] Community-made modifications
 
 ### **Extra tools**
-  - [x] NBT Editor (with S-NBT support).
-  - [x] Hex Editor
+  - [X] NBT Editor (with S-NBT support).
+  - [X] Hex Editor
   - [ ] LevelDB Browser
   - [ ] Datapack Editor
   - [ ] Other tools:
@@ -53,7 +53,7 @@ We're continuously working on new features and improvements. Here's an outline o
   - [ ] Custom resource packs & texture pack modifications.
 
 ### **Web UI**
-  - [x] UI planned out
+  - [X] UI planned out
   - [ ] UI completed
   - [ ] Localization
   - [ ] Accessibility
