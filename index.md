@@ -6,11 +6,11 @@ hero:
   tagline: "Documentation for Project Lodestone and various file formats and mechanics for many versions and editions of Minecraft."
 features:
   - title: Project Info
-    details: Info about Project Lodestone
+    details: Info about Project Lodestone 
     link: /readme.md
     icon: ℹ️
   - title: Legacy Console Edition
-    details: Documentation on the Legacy Console Edition (LCE) versions Of Minecraft
+    details: Documentation on the Legacy Console Edition (LCE) versions of Minecraft
     link: /LCE/readme.md
     icon: 🎮
   - title: Java Edition
