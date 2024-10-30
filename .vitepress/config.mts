@@ -48,7 +48,7 @@ export default withPwa(defineConfig({
       message: '<h1>Contributors</h1><br><a href="https://github.com/Team-Lodestone/Documentation/graphs/contributors" style="display: flex; justify-content: center; align-items: center;" > <img align="center" src="https://contrib.rocks/image?repo=Team-Lodestone/Documentation"/> </a><br><h1>Documentation page was setup by DexrnZacAttack.</h1>',
     },
 
-    logo: './assets/Project_Dexrn_Lodestone_Logo_Made_By_NikStudios.svg'
+    logo: '/Documentation/assets/Project_Dexrn_Lodestone_Logo_Made_By_NikStudios.svg'
   },
   head: [
     // gotta have all the meta tags
