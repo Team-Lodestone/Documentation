@@ -12,15 +12,18 @@ export default withPwa(defineConfig({
   sitemap: {
     hostname: 'https://team-lodestone.github.io/Documentation/'
   },
+  rewrites: {
+    '(.*)/README.md': '(.*)/index.md'
+  },
   themeConfig: {
     siteTitle: false,
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'LCE', link: '/LCE/readme.md' },
-      { text: 'Java', link: '/Java/readme.md' },
-      { text: 'Bedrock', link: '/Bedrock/readme.md' },
-      { text: '3DS', link: '/3DS/readme.md' },
-      { text: 'Pi', link: '/Pi/Pi-Edition-Docs.md' },
+      { text: 'LCE', link: '/LCE/' },
+      { text: 'Java', link: '/Java/' },
+      { text: 'Bedrock', link: '/Bedrock/' },
+      { text: '3DS', link: '/3DS/' },
+      { text: 'Pi', link: '/Pi/' },
       { text: 'Info', link: '/readme.md' },
       { text: 'Team', link: '/Team.md' },
     ],
@@ -61,10 +64,13 @@ export default withPwa(defineConfig({
     ['meta', { property: 'theme-color', content: '#AD95ED' }],
     ['meta', { name: 'description', content: 'Documentation for Project Lodestone and various file formats and mechanics for many versions and editions of Minecraft.' }],
     // do these even do anything
-    ['meta', { name: 'keywords', content: 'minecraft, lodestone, world converter, converter, legacy console edition, lce, java edition, java, documentation, bedrock edition, bedrock, pi edition, pi, 3ds edition, 3ds' }],
+    ['meta', { name: 'keywords', content: 'minecraft, lodestone, world converter, converter, legacy console edition, lce, java edition, java, documentation, bedrock edition, bedrock, pi edition, pi, 3ds edition, 3ds, Project Lodestone, MCS, ARC, savegame.dat, GRF, gamerule, PCK, MSSCMP, MCR, MCA, NBT, COL, LOC' }],
     // lol does this mean it can be shoved into the start menu as a "live" tile
     ['meta', { name: 'msapplication-TileColor', content: '#AD95ED' }],
     ['meta', { name: 'msapplication-TileImage', content: '/Documentation/assets/Dexrn_Lodestone_Logo.png' }],
+    ['meta', { name: 'application-name', content: 'Project Lodestone - Documentation' }],
+    ['meta', { name: 'msapplication-tooltip', content: 'Documentation for various Minecraft file formats' }],
+    ['meta', {name: 'google-site-verification', content: 'z0A_sHsXyYXs1V9Ncly0Ppi6W78vrUKoLQti1FMeXl8' }]
   ],
   vite: {
     server: {
@@ -84,6 +90,18 @@ export default withPwa(defineConfig({
     head.push(['meta', { name: 'twitter:description', content: "Documentation for Project Lodestone and various file formats and mechanics for many versions and editions of Minecraft." }]);
     head.push(['meta', { name: 'twitter:url', content: 'https://Team-Lodestone.github.io/Documentation/' + pageData.relativePath }]);
     head.push(['meta', { name: 'twitter:image', content: '/Documentation/assets/LodestoneBg.jpg' }]);
+    head.push(['meta', { name: 'twitter:card', content: 'summary_large_image' }]);
+    // more seo stuffs
+    head.push(['meta', { property: 'og:locale', content: 'en_US' }]);
+    head.push(['meta', { httpEquiv: 'Content-Language', content: 'en' }]);
+    head.push(['meta', { property: 'og:site_name', content: 'Project Lodestone - Documentation' }]);
+    head.push(['meta', { name: 'author', content: 'Team Lodestone' }]);
+    // what does this even do
+    head.push(['link', { rel: 'prefetch', href: 'https://Team-Lodestone.github.io/Documentation/' + pageData.relativePath }]);
+    // other
+    head.push(['link', { rel: 'canonical', href: 'https://Team-Lodestone.github.io/Documentation/' + pageData.relativePath }]);
+    head.push(['meta', { name: 'robots', content: 'index, follow' }]);
+    head.push(['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }]);
 
     return head
   },

@@ -1,3 +1,4 @@
-.vuepress/cache
+.vitepress/cache
 node_modules
 dist
+/dist2

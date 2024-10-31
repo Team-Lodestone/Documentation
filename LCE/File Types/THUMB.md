@@ -1,4 +1,4 @@
-# .EXT (World Info) Format
+# Thumbnail format
 
 > [!NOTE]
 > Some data in this format is endian-dependant.   

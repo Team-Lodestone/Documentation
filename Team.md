@@ -1,134 +1,86 @@
 ### Main Team
-- [EternalModz (Creator / Founder)](https://github.com/EternalModz)
-- [BJTMastermind Games](https://github.com/BJTMastermind)
-- [Cousin_Markus](https://github.com/CousinMarkus)
-- [HackerDaGreat57](https://github.com/HackerDaGreat57)
-- [jerrinth3glitch](https://github.com/zugebot)
-- [DexrnZacAttack](https://github.com/DexrnZacAttack)
-- [Max RM](https://github.com/Max-RM)
-- [PhoenixARC](https://github.com/PhoenixARC)
-- [PremiereHell](https://github.com/PremiereHell)
-- [StealthyX](https://github.com/StealthyExpertX)
-- [UtterEvergreen1](https://github.com/UtterEvergreen1)
-- [SkyForces](https://github.com/SkyForcesGit)
-- [DeeFeeCee](https://github.com/DeeFeeCee)
-- Blazing
-- [KKC Kobra](https://github.com/KKCKobra)
-- [+NIK+](https://github.com/NikStudios)
-- [more3118](https://github.com/more3118)
-- [tryashtar](https://github.com/tryashtar)
-- [MattNL](https://github.com/MattN-L)
-- Crusader
-- [HeroFluxx](https://github.com/HeroFluxx)
-- [hee](https://github.com/hee)
-- [Offroaders123](https://github.com/Offroaders123)
-- [Demur](https://github.com/Demur)
-- [yaboiFoxx](https://github.com/yaboiFoxx)
-- [CADIndie](https://github.com/CADIndie)
-- [Trent (LordVirus)](https://github.com/TheOnlyLordVirus)
-- [d.s.j. / .jsh](https://github.com/Dsj0036)
-- [Zac](https://github.com/Execcl)
-- [Emmie](https://github.com/DBTDerpbox)
-- [miku-666](https://github.com/NessieHax)
-- [Mwam](https://github.com/Mwam)
-- [HeroFluxx](https://github.com/HeroFluxx)
-- [a4L](https://github.com/a4L)
-- [Phoenix_Lea](https://github.com/Phoenix_Lea)
-- [IamAppley](https://github.com/IamAppley)
-- [DemonSlayerYT00](https://github.com/DemonSlayerYT00)
-- [MPM](https://github.com/MPM)
-- [Hibiscus](https://github.com/hibiscus418)
-- [Fluzzlesnuff](https://github.com/Fluzzlesnuff)
-- [Bin Starjs](https://github.com/binstarjs03)
-- [ceepkev77](https://github.com/ceepkev77)
-- [Dlanm2u](https://github.com/Dlanm2u)
-- [iTzFreeHD](https://github.com/iTzFreeHD)
-- [maddymakesgames](https://github.com/maddymakesgames)
-- RealPatryk
-- [PiSaucer](https://github.com/PiSaucer)
-- [3D_MAMA](https://github.com/3DMAMA)
-- [foxypiratecove37350](https://github.com/foxypiratecove37350)
-- [HoldYourWaffle](https://github.com/HoldYourWaffle)
-- [Night The Fox](https://github.com/NightTheFox)
-- [TheRouLetteBoi](https://github.com/TheRouLetteBoi)
-- [fefe_du_973](https://github.com/Fefedu973)
-- [cranberrypunch](https://github.com/cranberrypunch)
-- [rebrainer](https://github.com/rebrainertv)
-- [Bigjango13](https://github.com/Bigjango13)
-- [marko00805](https://github.com/marko00805)
-- [Zero_DSRS_VX](https://github.com/PhoenixVX)
-- [PMK744](https://github.com/PMK744)
-- [Aiko](https://github.com/AikoBorowski)
-- Marko
-- [David-xF](https://github.com/David-xF)
-- [MisledWater79](https://github.com/MisledWater79)
-- [lowercasebtw](https://github.com/lowercasebtw)
-- [Cracko298](https://github.com/Cracko298)
-- [Anonymous941](https://github.com/Anonymous941)
-- Evocated
+| PFP                                                                                       | Name                                                              |
+|:-----------------------------------------------------------------------------------------:|-------------------------------------------------------------------|
+| ![EternalModz](https://avatars.githubusercontent.com/EternalModz?size=64)                 | [EternalModz (Creator / Founder)](https://github.com/EternalModz) |
+| ![DexrnZacAttack](https://avatars.githubusercontent.com/DexrnZacAttack?size=64)           | [DexrnZacAttack (Manager)](https://github.com/DexrnZacAttack)     |
+| ![BJTMastermind](https://avatars.githubusercontent.com/BJTMastermind?size=64)             | [BJTMastermind Games](https://github.com/BJTMastermind)           |
+| ![CousinMarkus](https://avatars.githubusercontent.com/CousinMarkus?size=64)               | [Cousin_Markus](https://github.com/CousinMarkus)                  |
+|                                                                                           | HackerDaGreat57                                                   |
+| ![jerrinth3glitch](https://avatars.githubusercontent.com/zugebot?size=64)                 | [jerrinth3glitch](https://github.com/zugebot)                     |
+| ![PhoenixARC](https://avatars.githubusercontent.com/PhoenixARC?size=64)                   | [PhoenixARC](https://github.com/PhoenixARC)                       |
+|                                                                                           | [PremiereHell](https://github.com/PremiereHell)                   |
+| ![StealthyX](https://avatars.githubusercontent.com/StealthyExpertX?size=64)               | [StealthyX](https://github.com/StealthyExpertX)                   |
+| ![UtterEvergreen1](https://avatars.githubusercontent.com/UtterEvergreen1?size=64)         | [UtterEvergreen1](https://github.com/UtterEvergreen1)             |
+| ![SkyForces](https://avatars.githubusercontent.com/SkyForcesGit?size=64)                  | [SkyForces](https://github.com/SkyForcesGit)                      |
+| ![DeeFeeCee](https://avatars.githubusercontent.com/DeeFeeCee?size=64)                     | [DeeFeeCee](https://github.com/DeeFeeCee)                         |
+|                                                                                           | [KKC Kobra](https://github.com/KKCKobra)                          |
+| ![NIK](https://avatars.githubusercontent.com/NikStudios?size=64)                          | [+NIK+](https://github.com/NikStudios)                            |
+|                                                                                           | [more3118](https://github.com/more3118)                           |
+| ![tryashtar](https://avatars.githubusercontent.com/tryashtar?size=64)                     | [tryashtar](https://github.com/tryashtar)                         |
+| ![MattNL](https://avatars.githubusercontent.com/MattN-L?size=64)                          | [MattNL](https://github.com/MattN-L)                              |
+| ![hee](https://avatars.githubusercontent.com/hee?size=64)                                 | [hee](https://github.com/hee)                                     |
+| ![Offroaders123](https://avatars.githubusercontent.com/Offroaders123?size=64)             | [Offroaders123](https://github.com/Offroaders123)                 |
+| ![Demur](https://avatars.githubusercontent.com/Demur?size=64)                             | [Demur](https://github.com/Demur)                                 |
+|                                                                                           | [yaboiFoxx](https://github.com/yaboiFoxx)                         |
+| ![CADIndie](https://avatars.githubusercontent.com/CADIndie?size=64)                       | [CADIndie](https://github.com/CADIndie)                           |
+| ![Emmie](https://avatars.githubusercontent.com/DBTDerpbox?size=64)                        | [Emmie](https://github.com/DBTDerpbox)                            |
+| ![miku-666](https://avatars.githubusercontent.com/NessieHax?size=64)                      | [miku-666](https://github.com/NessieHax)                          |
+|                                                                                           | [IamAppley](https://github.com/IamAppley)                         |
+| ![MPM](https://avatars.githubusercontent.com/MPM?size=64)                                 | [MPM](https://github.com/MPM)                                     |
+| ![Hibiscus](https://avatars.githubusercontent.com/hibiscus418?size=64)                    | [Hibiscus](https://github.com/hibiscus418)                        |
+| ![Bin Starjs](https://avatars.githubusercontent.com/binstarjs03?size=64)                  | [Bin Starjs](https://github.com/binstarjs03)                      |
+| ![maddymakesgames](https://avatars.githubusercontent.com/maddymakesgames?size=64)         | [maddymakesgames](https://github.com/maddymakesgames)             |
+|                                                                                           | [PiSaucer](https://github.com/PiSaucer)                           |
+|                                                                                           | [3D_MAMA](https://github.com/3DMAMA)                              |
+| ![foxypiratecove37350](https://avatars.githubusercontent.com/foxypiratecove37350?size=64) | [foxypiratecove37350](https://github.com/foxypiratecove37350)     |
+| ![HoldYourWaffle](https://avatars.githubusercontent.com/HoldYourWaffle?size=64)           | [HoldYourWaffle](https://github.com/HoldYourWaffle)               |
+| ![NightTheFox](https://avatars.githubusercontent.com/NightTheFox?size=64)                 | [Night The Fox](https://github.com/NightTheFox)                   |
+| ![TheRouLetteBoi](https://avatars.githubusercontent.com/TheRouLetteBoi?size=64)           | [TheRouLetteBoi](https://github.com/TheRouLetteBoi)               |
+| ![rebrainer](https://avatars.githubusercontent.com/rebrainertv?size=64)                   | [rebrainer](https://github.com/rebrainertv)                       |
+| ![Bigjango13](https://avatars.githubusercontent.com/Bigjango13?size=64)                   | [Bigjango13](https://github.com/Bigjango13)                       |
+|                                                                                           | [marko00805](https://github.com/marko00805)                       |
+| ![Zero_DSRS_VX](https://avatars.githubusercontent.com/PhoenixVX?size=64)                  | [Zero_DSRS_VX](https://github.com/PhoenixVX)                      |
+| ![PMK744](https://avatars.githubusercontent.com/PMK744?size=64)                           | [PMK744](https://github.com/PMK744)                               |
+| ![Aiko](https://avatars.githubusercontent.com/AikoBorowski?size=64)                       | [Aiko](https://github.com/AikoBorowski)                           |
+| ![David-xF](https://avatars.githubusercontent.com/David-xF?size=64)                       | [David-xF](https://github.com/David-xF)                           |
+| ![lowercasebtw](https://avatars.githubusercontent.com/lowercasebtw?size=64)               | [lowercasebtw](https://github.com/lowercasebtw)                   |
+| ![Cracko298](https://avatars.githubusercontent.com/Cracko298?size=64)                     | [Cracko298](https://github.com/Cracko298)                         |
+|                                                                                           | [Anonymous941](https://github.com/Anonymous941)                   |
+
 
 ### Documentation
-- [ModifiedCommand](https://github.com/ModifiedCommand)
-- [PiSaucer](https://github.com/PiSaucer)
-- [vylryna (xenrelle)](https://github.com/xenrelle)
-- [UtterEvergreen1](https://github.com/UtterEvergreen1)
-- [DexrnZacAttack](https://github.com/DexrnZacAttack)
-- [BJTMastermind](https://github.com/BJTMastermind)
-- [hee](https://github.com/hee)
-- [MattN-L](https://github.com/MattN-L)
-- [miku-666](https://github.com/NessieHax)
-- [PhoenixARC](https://github.com/PhoenixARC)
-- [Cracko298](https://github.com/Cracko298)
-- [STBUniverse](https://github.com/STBrian)
+| PFP                                                                               | Name                                                  |
+|:---------------------------------------------------------------------------------:|-------------------------------------------------------|
+| ![DexrnZacAttack](https://avatars.githubusercontent.com/DexrnZacAttack?size=64)   | [DexrnZacAttack](https://github.com/DexrnZacAttack)   |
+| ![BJTMastermind](https://avatars.githubusercontent.com/BJTMastermind?size=64)     | [BJTMastermind](https://github.com/BJTMastermind)     |
+| ![ModifiedCommand](https://avatars.githubusercontent.com/ModifiedCommand?size=64) | [ModifiedCommand](https://github.com/ModifiedCommand) |
+|                                                                                   | [PiSaucer](https://github.com/PiSaucer)               |
+| ![vylryna (xenrelle)](https://avatars.githubusercontent.com/xenrelle?size=64)     | [vylryna (xenrelle)](https://github.com/xenrelle)     |
+| ![UtterEvergreen1](https://avatars.githubusercontent.com/UtterEvergreen1?size=64) | [UtterEvergreen1](https://github.com/UtterEvergreen1) |
+| ![hee](https://avatars.githubusercontent.com/hee?size=64)                         | [hee](https://github.com/hee)                         |
+| ![MattN-L](https://avatars.githubusercontent.com/MattN-L?size=64)                 | [MattN-L](https://github.com/MattN-L)                 |
+| ![miku-666](https://avatars.githubusercontent.com/NessieHax?size=64)              | [miku-666](https://github.com/NessieHax)              |
+| ![PhoenixARC](https://avatars.githubusercontent.com/PhoenixARC?size=64)           | [PhoenixARC](https://github.com/PhoenixARC)           |
+| ![Cracko298](https://avatars.githubusercontent.com/Cracko298?size=64)             | [Cracko298](https://github.com/Cracko298)             |
+| ![STBUniverse](https://avatars.githubusercontent.com/STBrian?size=64)             | [STBUniverse](https://github.com/STBrian)             |
+
 
 ### Translations
-- [9110751907(そらと)](https://github.com/9110751907) *Japanese*
+| PFP                                                                     | Name                                               | Language |
+|:-----------------------------------------------------------------------:|----------------------------------------------------|----------|
+| ![9110751907](https://avatars.githubusercontent.com/9110751907?size=64) | [9110751907(そらと)](https://github.com/9110751907) | Japanese |
+
 
 ### Logo Design
-- NikStudios *Made the Banner, and the "L" logo*
-- [DexrnZacAttack](https://github.com/DexrnZacAttack) *Made the background for the smaller "L" logo*
+| PFP                                                                             | Name                                                | Notes                                          |
+|:-------------------------------------------------------------------------------:|-----------------------------------------------------|------------------------------------------------|
+| ![NikStudios](https://avatars.githubusercontent.com/NikStudios?size=64)         | [NikStudios](https://github.com/NikStudios)         | *Made the Banner, and the "L" logo*            |
+| ![DexrnZacAttack](https://avatars.githubusercontent.com/DexrnZacAttack?size=64) | [DexrnZacAttack](https://github.com/DexrnZacAttack) | *Made the background for the smaller "L" logo* |
+
 
 ### Involved Projects
-- [libLCE](https://github.com/DexrnZacAttack/libLCE)
-- [lib3DSE](https://github.com/DexrnZacAttack/lib3DSE)
-- [NBTify](https://github.com/Offroaders123/NBTify)
-
-### Project Observers
-- [RufusAtticus](https://github.com/reedacartwright) *Genetics PhD, Professor, Software Engineer, and Minecraft YouTuber.*
-- [JasonGoodison](https://github.com/JasonLeviGoodison) *Microsoft employee.*
-
-### Other credits and supporters
-1. [A Cynodont](https://mcctoolchest.weebly.com/) *For MCCToolChest*
-2. [AntVenom](https://www.youtube.com/@AntVenom)
-3. FairChild
-4. [Querz](https://github.com/Querz)
-5. [CarnageTheCreator](https://www.youtube.com/@CarnageTheCreator)
-6. [MayhemModding](https://www.youtube.com/@MayhemModding)
-7. [SkullMods](https://www.youtube.com/@SkullMods1)
-8. [JackHasWifi (Nobledez)](https://www.youtube.com/@JackHasWifi)
-9. [nt-games-ytb](https://github.com/nt-games-ytb)
-10. [VinDublin Gaming](https://www.youtube.com/@VinDublinGaming)
-11. [MisterSheeple](https://github.com/MisterSheeple)
-12. DiiTz
-13. [Una (Unascribed)](https://github.com/unascribed)
-14. [Matvei Stefarov](https://github.com/mstefarov)
-15. [garciadelcastillo](https://github.com/garciadelcastillo)
-
-### Involved communities
-1. CrEaTiiOn Brotherhood Community
-2. Zephyr League Community
-3. Minecraft Legacy Console Speedrunning community
-4. Minecraft@Home Community
-5. Omniarchive
-6. Breaking Minecraft: Reborn
-7. Minecraft LCE Research & Development Community
-8. Minecraft Legacy Console Modding Community
-9. AntVenom Community
-10. Unnamed Team
-11. MCBE Essentials
-12. The Voxel Den
-13. MCA Magic
-14. Power Nukkit
-15. PG Team
-16. PARAMETRICCAMP
-17. Minecraft 3DS Community
+| Name                                                 | Creator                                             | Stars                                                           |
+|:----------------------------------------------------:|-----------------------------------------------------|-----------------------------------------------------------------|
+| [libLCE](https://github.com/DexrnZacAttack/libLCE)   | [DexrnZacAttack](https://github.com/DexrnZacAttack) | ![](https://img.shields.io/github/stars/DexrnZacAttack/libLCE)  |
+| [lib3DSE](https://github.com/DexrnZacAttack/lib3DSE) | [DexrnZacAttack](https://github.com/DexrnZacAttack) | ![](https://img.shields.io/github/stars/DexrnZacAttack/lib3DSE) |
+| [NBTify](https://github.com/Offroaders123/NBTify)    | [Offroaders123](https://github.com/Offroaders123)   | ![](https://img.shields.io/github/stars/Offroaders123/NBTify)   |
