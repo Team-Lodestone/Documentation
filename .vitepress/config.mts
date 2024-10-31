@@ -70,7 +70,8 @@ export default withPwa(defineConfig({
     ['meta', { name: 'msapplication-TileImage', content: '/Documentation/assets/Dexrn_Lodestone_Logo.png' }],
     ['meta', { name: 'application-name', content: 'Project Lodestone - Documentation' }],
     ['meta', { name: 'msapplication-tooltip', content: 'Documentation for various Minecraft file formats' }],
-    ['meta', {name: 'google-site-verification', content: 'z0A_sHsXyYXs1V9Ncly0Ppi6W78vrUKoLQti1FMeXl8' }]
+    ['meta', {name: 'google-site-verification', content: 'z0A_sHsXyYXs1V9Ncly0Ppi6W78vrUKoLQti1FMeXl8' }],
+    ['meta', {name: 'google-site-verification', content: 'LLV7ybaGj_-pAwlkHA2Cg55BxTOAdUdjG2WcoEuZKKM' }]
   ],
   vite: {
     server: {
