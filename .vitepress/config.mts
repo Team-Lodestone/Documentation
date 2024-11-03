@@ -1,9 +1,22 @@
 import { defineConfig, HeadConfig } from 'vitepress';
 import { generateSidebar } from 'vitepress-sidebar';
 import { withPwa } from '@vite-pwa/vitepress'
-
+import lightbox from "vitepress-plugin-lightbox"
+import { GitChangelog, GitChangelogMarkdownSection } from '@nolebase/vitepress-plugin-git-changelog';
 
 export default withPwa(defineConfig({
+  vite: {
+    plugins: [
+      GitChangelog({
+        repoURL: () => 'https://github.com/Team-Lodestone/Documentation'
+      }),
+      GitChangelogMarkdownSection(),
+    ],
+    server: {
+      host: '0.0.0.0', 
+      port: 80,     
+    }
+  },
   title: 'Project Lodestone - Documentation',
   description: 'Documentation for Project Lodestone and various file formats and mechanics for many versions and editions of Minecraft.',
   lastUpdated: true,
@@ -13,7 +26,12 @@ export default withPwa(defineConfig({
     hostname: 'https://team-lodestone.github.io/Documentation/'
   },
   rewrites: {
-    '(.*)/README.md': '(.*)/index.md'
+    '(.*)/readme.md': '(.*)/index.md'
+  },
+  markdown: {
+    config: (md) => {
+      md.use(lightbox, {});
+    },
   },
   themeConfig: {
     siteTitle: false,
@@ -24,8 +42,8 @@ export default withPwa(defineConfig({
       { text: 'Bedrock', link: '/Bedrock/' },
       { text: '3DS', link: '/3DS/' },
       { text: 'Pi', link: '/Pi/' },
-      { text: 'Info', link: '/readme.md' },
-      { text: 'Team', link: '/Team.md' },
+      { text: 'Info', link: '/readme' },
+      { text: 'Team', link: '/Team' },
     ],
 
     search: {
@@ -33,6 +51,7 @@ export default withPwa(defineConfig({
     },
 
     sidebar: generateSidebar({
+      sortFolderTo: "top",
       documentRootPath: "/",
       collapsed: true,
       capitalizeEachWords: true,
@@ -73,12 +92,6 @@ export default withPwa(defineConfig({
     ['meta', {name: 'google-site-verification', content: 'z0A_sHsXyYXs1V9Ncly0Ppi6W78vrUKoLQti1FMeXl8' }],
     ['meta', {name: 'google-site-verification', content: 'LLV7ybaGj_-pAwlkHA2Cg55BxTOAdUdjG2WcoEuZKKM' }]
   ],
-  vite: {
-    server: {
-      host: '0.0.0.0', 
-      port: 80,     
-    }
-  },
   transformHead: ({ pageData }) => {
     const head: HeadConfig[] = []
 
@@ -123,5 +136,6 @@ export default withPwa(defineConfig({
       ],
     },
   },
+  
 }));
 

@@ -9,7 +9,7 @@ If you're on a newer-gen console, specifically PS4, Xbox One, and Nintendo Switc
 1. [Save Format](./Save%20Format.md)
 2. [Pre-release Save Format](./Pre-Release%20Save%20Format.md) - Versions 0033 and 0035
 3. [Save File Versions](./LCE%20Save%20File%20Versions.md) - The version part of the save file header in each Xbox 360 Edition TU
-4. [Split Saves](./Split%20Saves.md)
+4. [Split Saves](./Split%20Saves.md)   
 Check out the Menu/Sidebar for other stuff not mentioned here.
 
 ### Save file names
