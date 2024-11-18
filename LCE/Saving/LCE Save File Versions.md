@@ -18,6 +18,7 @@
 | 0054 | First version to have the same savegame format used in the latest version (as of the writing of this documentation) |
 | TU9 | First version to have a "minimum version" that isn't 0, as well as skipping a number. (3-->5) |
 | TU17 | Skips a number. (6-->8) |
+| TU54 | Can no longer load version 1 saves, instead it generates a new world. |
 
 > [!NOTE]
 > These tests were performed with an emulator, with one world generated per version, versions were sourced from Omniarchive, due to me using Codex-IPSA for this.

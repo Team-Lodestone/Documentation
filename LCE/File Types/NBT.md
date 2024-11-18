@@ -54,7 +54,7 @@ Minecraft Legacy Console Edition uses the following NBT data types:
 ### Player Data
 Player data on Legacy Console Edition is stored in NBT structures with information such as health, inventory, position, and more.
 
-```nbt
+```
 TAG_Compound
 {
     "id": TAG_String("Player"),

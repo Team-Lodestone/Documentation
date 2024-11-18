@@ -11,6 +11,7 @@ Format: <img valign="middle" src="https://readme-swatches.vercel.app/<HexCode>?s
 | Used For | RGB Color Code | Hex Color Code | Notes | Color |
 |----------|----------------|----------------|-------|:-:|
 | Primary Color (Our purple/lavender) | `rgb(173,149,237)` | `#ad95ed` | | <img valign="middle" src="https://readme-swatches.vercel.app/ad95ed?style=round"> |
+| Dark mode primary Color (Our purple/lavender) | `rgb(73,49,137)` | `#493189` | | <img valign="middle" src="https://readme-swatches.vercel.app/493189?style=round"> |
 | Background Color | `rgb(26,23,34)` | `#1a1722` | | <img valign="middle" src="https://readme-swatches.vercel.app/1a1722?style=round"> |
 | Success Color | `rgb(?,?,?)` | `#??????` | Some kind of green. | |
 | Warning Color | `rgb(?,?,?)` | `#??????` | Some kind of yellow. | |

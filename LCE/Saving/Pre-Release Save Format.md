@@ -1,8 +1,12 @@
 # LCE Pre-Release Save File
 
+> [!NOTE]
+> Data in this format is endian-dependant and also commonly has compression applied to it.   
+> Check out [Basic Info.md](../Basic%20Info.md) for more info.
+
 ### Upgrading
 - These save files can be upgraded to the new format, working in atleast TU0, does not work in TU75.
-- Upgrading a world in this format will usually leave a "players_" file, they likely used _ as a seperator for subfolders. This also means you will lose your player data upon loading a save in a newer version.
+- Upgrading a world in this format will usually leave a "players_" file. This also means you will lose your player data upon loading a save in a newer version.
 - When upgraded, the timestamps of all the files are set to 0L.
 
 ### Save file structure
@@ -28,8 +32,6 @@
 | File Offset | 0x04 (uint) | Offset of file in bytes
 
 > [!WARNING]
-> There may be index data [inside file data](https://github.com/user-attachments/assets/e44eea94-41a9-42cf-8386-f84ac9565cff)  
-> I assume that these versions might not remove index data from files as usually it'd probably get overwritten or not read at all...   
-> This may cause issues when attempting to parse these files though.
-
+> There may be index data [at the end of NBT file data](https://github.com/user-attachments/assets/e44eea94-41a9-42cf-8386-f84ac9565cff)  
+> I assume that these versions might not remove index data from files as usually it'd not get read at all...
 

@@ -2,7 +2,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/Team-Lodestone/Documentation?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Team-Lodestone/Documentation?style=social)
 ![GitHub contributors](https://img.shields.io/github/contributors/Team-Lodestone/Documentation)
-[![Lodestone Discord](https://img.shields.io/discord/1029594598084968530?color=7a60fc&label=Project%20Lodestone%20Discord&logo=Discord&logoColor=white)](https://discord.gg/umHRdX6R7V)
+[![Lodestone Discord](https://img.shields.io/discord/1029594598084968530?color=7a60fc&label=Project%20Lodestone%20Discord&logo=Discord&logoColor=white)](https://discord.gg/eHdmrW7W6u)
 
 In this repo, you'll find documentation on various mechanics and file types for many versions and editions of the game.
 
@@ -38,8 +38,8 @@ We're continuously working on new features and improvements. Here's an outline o
   - [ ] Community-made modifications
 
 ### **Extra tools**
-  - [x] NBT Editor (with S-NBT support).
-  - [x] Hex Editor
+  - [X] NBT Editor (with S-NBT support).
+  - [X] Hex Editor
   - [ ] LevelDB Browser
   - [ ] Datapack Editor
   - [ ] Other tools:
@@ -53,7 +53,7 @@ We're continuously working on new features and improvements. Here's an outline o
   - [ ] Custom resource packs & texture pack modifications.
 
 ### **Web UI**
-  - [x] UI planned out
+  - [X] UI planned out
   - [ ] UI completed
   - [ ] Localization
   - [ ] Accessibility

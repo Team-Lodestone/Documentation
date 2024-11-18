@@ -1,4 +1,8 @@
-# .EXT (World Info) Format
+# Thumbnail format
+
+> [!NOTE]
+> Some data in this format is endian-dependant.   
+> Check out [Basic Info.md](../Basic%20Info.md/#Endianness) for more info.
 
 ### World Info structure
 | Name | Size (in bytes) | Description |
@@ -22,13 +26,14 @@
 > [!NOTE]
 > The way tEXt chunks work seems to be key value, the way 4J does it is really weird, where they use the key and value as one string of key value pairs.
 
-| Key | Description                                               |
-|-----|-----------------------------------------------------------|
-| 4J_SEED        | World seed                                     | 
-| 4J_HOSTOPTIONS | Host options, format is unknown                |
-| 4J_TEXTUREPACK | Seems to be the previously chosen texture pack |
-| 4J_EXTRADATA   | Unknown                                        |
-| 4J_BASESAVENAME| Seems to only be used on MCS files             |
-| 4J_#LOADS      | Unknown                                        |
+| Key | Description                                                        |
+|-----|--------------------------------------------------------------------|
+| 4J_SEED           | World seed                                           | 
+| 4J_HOSTOPTIONS    | Host options, format is unknown                      |
+| 4J_TEXTUREPACK    | Seems to be the previously chosen texture pack       |
+| 4J_EXTRADATA      | Unknown                                              |
+| 4J_BASESAVENAME   | Seems to only be used on MCS files                   |
+| 4J_#LOADS         | Unknown                                              |
+| 4J_EXPLOREDCHUNKS | Seems to only exist on versions that use split saves |
 
 
