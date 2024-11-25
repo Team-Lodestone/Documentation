@@ -27,6 +27,13 @@ We're continuously working on new features and improvements. Here's an outline o
 
 ### **World Converter**
   - [ ] Start work on the World Converter
+  - [ ] Support all editions/versions
+    - [ ] Java Edition
+    - [ ] Bedrock Edition
+    - [ ] Legacy Console Edition
+    - [ ] 3DS Edition
+    - [ ] Pi Edition
+    - [X] Classic-JS (support is ready, tool has not been started yet.)
   - [ ] World Converter complete
   - [ ] Advanced conversion options:
     - [ ] **Depth fixing**
@@ -66,7 +73,8 @@ Stay tuned as we make progress on each phase. If you're interested in contributi
 
 ## Supported Editions and Versions
 
-Note: A lot of this is what to be expected, not already finished.
+Note: A lot of this is what to be expected, not already finished.   
+Check the [World Converter section](#world-converter) to see what has been done.
 
 | Edition                  | Supported Versions |
 |--------------------------|--------------------|
@@ -81,6 +89,7 @@ Note: A lot of this is what to be expected, not already finished.
 | Wii U Edition            | Patch 1 - Patch 43 |
 | 3DS Edition              | 0.1.0 - 1.9.19     |
 | Switch Edition           | 1.0.1 - 1.0.17     |
+| Classic Javascript Remake|                    |
 
 ## Contribute to the Project
 
