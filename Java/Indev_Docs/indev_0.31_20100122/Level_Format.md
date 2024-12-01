@@ -45,8 +45,8 @@ The level format is stored in **Big Endian** byte order.
 | Length | ShortTag | The length of the level. (Z direction) |
 | Height | ShortTag | The height of the level. (Y direction) |
 | Spawn | ListTag | ListTag of 3 ShortTags holding the X, Y, and Z spawn coordinates. |
-| Blocks | ByteArrayTag | ***Width***×***Length***×***Height*** bytes of block IDs. (8 bits)[\[1\]](#1) |
-| Data | ByteArrayTag | ***Width***×***Length***×***Height*** bytes of block data (4 bits) and light data (next 4 bits) |
+| Blocks | ByteArrayTag | ***Width***×***Length***×***Height*** bytes of block IDs (8 bits). XZY order (X increments first)[\[1\]](#1) |
+| Data | ByteArrayTag | ***Width***×***Length***×***Height*** bytes of block data (4 bits) and light data (next 4 bits). XZY order (X increments first) |
 
 ***Entities Data***<a id="entities-data"></a>
 
@@ -74,7 +74,6 @@ The level format is stored in **Big Endian** byte order.
 | *OtherTileEntitySpecificTags* | *TagType* | -- |
 
 ## Notes
-
 1. <a id="1"></a> The index can be calculated with `(y × length + z) × width + x`
 
 2. <a id="2"></a> Calculate ***Pos*** tag from X, Y, and Z:<br>
