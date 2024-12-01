@@ -73,23 +73,23 @@ Stay tuned as we make progress on each phase. If you're interested in contributi
 
 ## Supported Editions and Versions
 
-Note: A lot of this is what to be expected, not already finished.   
+Note: A lot of this is what to be expected, not already finished.
 Check the [World Converter section](#world-converter) to see what has been done.
 
-| Edition                  | Supported Versions |
-|--------------------------|--------------------|
-| Java Edition             | c0.30 - 1.21       |
-| Bedrock Edition          | 0.1.0 - 1.21       |
-| Raspberry Pi Edition     | 0.1.0 - 0.1.1      |
-| Xbox 360 Edition         | TU0 - TU75         |
-| PlayStation 3 Edition    | 1.00 - 1.84        |
-| Xbox One Edition         | CU1 - CU59         |
-| PlayStation 4 Edition    | 1.00 - 1.95        |
-| PlayStation Vita Edition | 1.00 - 1.84        |
-| Wii U Edition            | Patch 1 - Patch 43 |
-| 3DS Edition              | 0.1.0 - 1.9.19     |
-| Switch Edition           | 1.0.1 - 1.0.17     |
-| Classic Javascript Remake|                    |
+| Edition                   | Supported Versions |
+|---------------------------|--------------------|
+| Java Edition              | rd-132211 - 1.21   |
+| Bedrock Edition           | 0.1.0 - 1.21       |
+| Raspberry Pi Edition      | 0.1.0 - 0.1.1      |
+| Xbox 360 Edition          | TU0 - TU75         |
+| PlayStation 3 Edition     | 1.00 - 1.84        |
+| Xbox One Edition          | CU1 - CU59         |
+| PlayStation 4 Edition     | 1.00 - 1.95        |
+| PlayStation Vita Edition  | 1.00 - 1.84        |
+| Wii U Edition             | Patch 1 - Patch 43 |
+| 3DS Edition               | 0.1.0 - 1.9.19     |
+| Switch Edition            | 1.0.1 - 1.0.17     |
+| Classic Javascript Remake | 0.0.23a_01         |
 
 ## Contribute to the Project
 
