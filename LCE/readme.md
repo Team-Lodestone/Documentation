@@ -1,4 +1,4 @@
-# LCE-Documentation
+# LCE Documentation
 Documentation about Minecraft: Legacy Console Edition related stuff.
 
 ### Table of contents
