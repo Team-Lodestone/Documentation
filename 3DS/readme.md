@@ -2,7 +2,7 @@
 Documentation about Minecraft: 3DS Edition related stuff.
 
 ### Table of contents
-1. [Audio](./Audio/FSB_COMBINEDAUDIO.MD) - Audio format
+1. [Audio](./Audio/FSB_COMBINEDAUDIO.md) - Audio format
 2. [BJSON](./BJSON/BJSON_DOC.md) - BJSON file format
 3. [OptionsBinaryFile](./OptionsBinaryFile/OPTIONS_DOC.md) - options.txt binary format, game settings
 4. [Textures](./Textures/3DST_DOC.md) - 3DST image format
