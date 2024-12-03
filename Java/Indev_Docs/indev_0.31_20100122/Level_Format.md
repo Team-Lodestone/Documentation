@@ -63,7 +63,7 @@ The level format is stored in **Big Endian** byte order.
 | DeathTime | ShortTag | Number of ticks the entity has been dead for. (used for death animation) |
 | Air | ShortTag | The number of ticks before the entity starts to drown. It starts at 300. |
 | Fire | ShortTag | When negative, the number of ticks before the entity can catch on fire. When positive, the number of ticks before the fire is extinguished. |
-| *OtherEntitySpecificTags* | *TagType* | -- |
+| *AdditionalEntityTags* | *TagType* | See [Additional Entity Tags](#additional-entity-tags) |
 
 ***TileEntities Data***<a id="tileentities-data"></a>
 
@@ -71,7 +71,60 @@ The level format is stored in **Big Endian** byte order.
 |----------|----------|-------------|
 | id | StringTag | The tile entity ID. |
 | Pos | IntTag | Position of the tile entity[\[2\]](#2). |
-| *OtherTileEntitySpecificTags* | *TagType* | -- |
+| Items | ListTag | ListTag of CompoundTags holding the items in the container. |
+| *AdditionalTileEntityTags* | *TagType* | See [Additional Tile Entity Tags](#additional-tile-entity-tags) |
+
+***Items Data***
+| Tag Name | Tag Type | Description |
+|----------|----------|-------------|
+| Slot | ByteTag | The slot the item is in. |
+| id | ShortTag | The item ID. |
+| Damage | ShortTag | The item's data value, or damage value for tools. |
+| Count | ByteTag | The number of this item in the stack. Range -128 to 127. Values less then 2 are not displayed in-game. |
+
+### Additional Entity Tags
+
+**Item (Entity)**
+
+**NOTE:** Item entity doesn't have the AttackTime, HurtTime, and DeathTime tags.
+| Tag Name | Tag Type | Description |
+|----------|----------|-------------|
+| Age | ShortTag | The number of ticks the item has been "untouched". After 6000 ticks (5 minutes) the item is destroyed. |
+| Item | CompoundTag | The inventory item, without the Slot tag. |
+
+***Item Data***
+| Tag Name | Tag Type | Description |
+|----------|----------|-------------|
+| id | ShortTag | The item ID. |
+| Damage | ShortTag | The item's data value, or damage value for tools. |
+| Count | ByteTag | The number of this item in the stack. Range -128 to 127. Values less then 2 are not displayed in-game. |
+
+**LocalPlayer**
+| Tag Name | Tag Type | Description |
+|----------|----------|-------------|
+| Inventory | ListTag | ListTag of CompoundTags holding the items in the players inventory. |
+| Score | IntTag | The player's score. |
+
+***Inventory Data***
+| Tag Name | Tag Type | Description |
+|----------|----------|-------------|
+| Slot | ByteTag | The slot the item is in. |
+| id | ShortTag | The item ID. |
+| Damage | ShortTag | The item's data value, or damage value for tools. |
+| Count | ByteTag | The number of this item in the stack. Range -128 to 127. Values less then 2 are not displayed in-game. |
+
+**Sheep**
+| Tag Name | Tag Type | Description |
+|----------|----------|-------------|
+| Sheared | ByteTag | 1 or 0 (true/false) - true if the sheep has been shorn. |
+
+### Additional Tile Entity Tags
+
+**Furnace**
+| Tag Name | Tag Type | Description |
+|----------|----------|-------------|
+| BurnTime | ShortTag | Number of ticks left before the current fuel runs out. |
+| CookTime | ShortTag | Number of ticks the item has been smelting for. The item finishes when this value reaches 200 (10 seconds). Is reset to 0 if BurnTime reaches 0. |
 
 ## Notes
 1. <a id="1"></a> The index can be calculated with `(y × length + z) × width + x`
