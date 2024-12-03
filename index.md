@@ -26,7 +26,7 @@ features:
     link: /3DS/
   - title: Pi Edition
     details: Documentation on Minecraft Pi Edition
-    link: /Pi/Pi-Edition-Docs
+    link: /Pi/Pi-Edition-Docs.html
     icon: ⌨️
 ---
 
