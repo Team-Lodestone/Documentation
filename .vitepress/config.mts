@@ -13,8 +13,8 @@ export default withPwa(defineConfig({
       GitChangelogMarkdownSection(),
     ],
     server: {
-      host: '0.0.0.0', 
-      port: 80,     
+      host: '0.0.0.0',
+      port: 80,
     }
   },
   title: 'Project Lodestone - Documentation',
@@ -41,7 +41,7 @@ export default withPwa(defineConfig({
       { text: 'Java', link: '/Java/' },
       { text: 'Bedrock', link: '/Bedrock/' },
       { text: '3DS', link: '/3DS/' },
-      { text: 'Pi', link: '/Pi/' },
+      { text: 'Pi', link: '/Pi/Pi-Edition-Docs' },
       { text: 'Info', link: '/readme' },
       { text: 'Team', link: '/Team' },
     ],
@@ -126,7 +126,7 @@ export default withPwa(defineConfig({
       name: 'Project Lodestone - Documentation',
       short_name: 'Project Lodestone Docs',
       description: '',
-      theme_color: '#493189', 
+      theme_color: '#493189',
       icons: [
         {
           src: '/Documentation/assets/Dexrn_Lodestone_Logo.png',
@@ -136,6 +136,6 @@ export default withPwa(defineConfig({
       ],
     },
   },
-  
+
 }));
 
