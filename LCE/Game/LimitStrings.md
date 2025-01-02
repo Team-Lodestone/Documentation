@@ -1,0 +1,26 @@
+# Entity/Block limit strings
+- The maximum number of Armor Stands in a world has been reached.
+- The maximum number of Banners in a world has been reached.
+- Can't use Spawn Egg at the moment. The maximum number of Bats in a world has been reached.
+- The maximum number of Beacons in a world has been reached.
+- The maximum number of Boats in a world has been reached.
+- This animal can't enter Love Mode. The maximum number of breeding Chickens has been reached.
+- Can't use Spawn Egg at the moment. The maximum number of Chickens in a world has been reached.
+- The maximum number of Dolphins in a world has been reached.
+- The maximum number of Ender Crystals in a world has been reached.
+- Can't use Spawn Egg at the moment. The maximum number of enemies in a world has been reached.
+- The maximum number of Paintings/Item Frames in a world has been reached.
+- This animal can't enter Love Mode. The maximum number of breeding Horses has been reached.
+- The maximum number of Minecarts in a world has been reached.
+- Can't use Spawn Egg at the moment. The maximum number of Mooshrooms has been reached.
+- This animal can't enter Love Mode. The maximum number of breeding Mooshrooms has been reached.
+- The maximum number of Phantoms in a world has been reached.
+- This animal can't enter Love Mode. The maximum number of breeding animals, excluding Wolves, Chickens and Mooshrooms, has been reached.
+- Can't use Spawn Egg at the moment. The maximum number of animals, excluding Wolves, Bats, Chickens and Mooshrooms, has been reached.
+- The maximum number of Mob Heads in a world has been reached.
+- Can't use Spawn Egg at the moment. The maximum number of Squid in a world has been reached.
+- Can't use Spawn Egg at the moment. The maximum number of villagers in a world has been reached.
+- The maximum number of Fish and Squid in a world has been reached.
+- This animal can't enter Love Mode. The maximum number of breeding Wolves has been reached.
+- Can't use Spawn Egg at the moment. The maximum number of Wolves in a world has been reached.
+- Can't shear this Mooshroom at the moment. The maximum number of animals, excluding Wolves, Bats, Chickens and Mooshrooms, has been reached.
