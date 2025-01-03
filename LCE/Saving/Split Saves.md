@@ -18,7 +18,7 @@ Not much seems to be known about split saves, so some info may be inaccurate.
 Thanks to [UtterEvergreen1](https://github.com/UtterEvergreen1) for helping out and explaining this.
 
 ### Format
-| Name | Size (in bytes) | Description |
-| :-:|:-:|:-:|
-| Decompressed Size | 0x04 (uint) | |
-| Compressed Region | Variable | Compressed with what seems to be a special RLE that is only used for split saves. |
+| Name              | Size (in bytes) | Description                                                                       |
+|-------------------|:---------------:|-----------------------------------------------------------------------------------|
+| Decompressed Size |   0x04 (uint)   |                                                                                   |
+| Compressed Region |    Variable     | Compressed with what seems to be a special RLE that is only used for split saves. |

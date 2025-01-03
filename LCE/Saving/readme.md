@@ -13,13 +13,13 @@ If you're on a newer-gen console, specifically PS4, Xbox One, and Nintendo Switc
 Check out the Menu/Sidebar for other stuff not mentioned here.
 
 ### Save file names
-| Console | Name | Example (if needed) |
-|------|----|------|
-| Xbox 360 (dat) | `savegame.dat` | |
-| Xbox 360 (bin) | `Save{YYYY-MM-DD-HH-MM-SS}.bin` | `Save20230524072953.bin` |
-| PS3 | `GAMEDATA` | |
-| PS Vita | `GAMEDATA.bin` | |
-| Wii U | `{numbers}` | `221122091644` |
-| Xbox One | `GAMEDATA` | |
-| PS4 | `GAMEDATA` | |
-| Nintendo Switch | `{numbers}.dat` | `240408080958.dat` |
+| Console         | Name                            | Example (if needed)      |
+|-----------------|---------------------------------|--------------------------|
+| Xbox 360 (dat)  | `savegame.dat`                  |                          |
+| Xbox 360 (bin)  | `Save{YYYY-MM-DD-HH-MM-SS}.bin` | `Save20230524072953.bin` |
+| PS3             | `GAMEDATA`                      |                          |
+| PS Vita         | `GAMEDATA.bin`                  |                          |
+| Wii U           | `{numbers}`                     | `221122091644`           |
+| Xbox One        | `GAMEDATA`                      |                          |
+| PS4             | `GAMEDATA`                      |                          |
+| Nintendo Switch | `{numbers}.dat`                 | `240408080958.dat`       |
