@@ -21,3 +21,6 @@ Format: <img valign="middle" src="https://readme-swatches.vercel.app/<HexCode>?s
 | Dark Color | `rgb(18,18,18) or rgb(30,30,30)` | `#121212 or #1e1e1e` | | <img valign="middle" src="https://readme-swatches.vercel.app/121212?style=round"> <img valign="middle" src="https://readme-swatches.vercel.app/1e1e1e?style=round"> |
 | Text Color | `rgb(250,250,250) or rgb(255,255,255)` | `#fafafa or #ffffff` | | <img valign="middle" src="https://readme-swatches.vercel.app/fafafa?style=round"> <img valign="middle" src="https://readme-swatches.vercel.app/ffffff?style=round"> |
 | Secondary Background Color | `rgb(35,36,48)` | `#232430` | Will be different but for now its this | <img valign="middle" src="https://readme-swatches.vercel.app/232430?style=round"> |
+
+# In Progress
+Icon Gray: RGB 155, 155, 155
