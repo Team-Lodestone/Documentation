@@ -24,3 +24,4 @@ Format: <img valign="middle" src="https://readme-swatches.vercel.app/<HexCode>?s
 
 # In Progress
 Icon Gray: RGB 115, 115, 115
+NBT Green: HEX #98FBCB
