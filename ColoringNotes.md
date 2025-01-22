@@ -23,4 +23,4 @@ Format: <img valign="middle" src="https://readme-swatches.vercel.app/<HexCode>?s
 | Secondary Background Color | `rgb(35,36,48)` | `#232430` | Will be different but for now its this | <img valign="middle" src="https://readme-swatches.vercel.app/232430?style=round"> |
 
 # In Progress
-Icon Gray: RGB 155, 155, 155
+Icon Gray: RGB 115, 115, 115
