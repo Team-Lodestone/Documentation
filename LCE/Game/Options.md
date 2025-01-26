@@ -1,7 +1,15 @@
 ﻿# Options
 Data comes from Minecraft: Xbox One Edition latest ver.   
-Table is sorted by Enum ID
+Tables are sorted by ID
 
+### Table of contents
+
+1. [Settings](#settings) - Game Settings
+2. [Actions](#actions) - Game Controls
+   - [Buttons](#buttons) - Controller button IDs
+3. [Extra](#extra) - Extra notes and technical stuff
+
+## Settings
 Things that aren't known are under Unknown, due to my test hook not printing that value when messing around in the options.
 
 | Name                  | Type    | Enum ID | Offset in OPTIONSDATA | Size (in bits) | Notes                                                                     |
@@ -52,6 +60,55 @@ Things that aren't known are under Unknown, due to my test hook not printing tha
 | Auto Jump             | Boolean | 0x2c    | 0x54 (Bit 26)         | 1              |                                                                           |
 | Unknown               | Unknown | 0x2d    | 0x57 (Bits 0-3)       | 4              | Not referenced anywhere else?????                                         |
 
+## Actions (Controller bindings)
+| Name                  | ID | Offset in OPTIONSDATA | Default bind |
+|-----------------------|----|-----------------------|--------------|
+| Jump                  | 0  | 0xA4                  | A            |
+| Use                   | 1  | 0xA5                  | LT           |
+| Action                | 2  | 0xA6                  | RT           |
+| Cycle Held Item Left  | 3  | 0xA7                  | LB           |
+| Cycle Held Item Right | 4  | 0xA8                  | RB           |
+| Inventory             | 5  | 0xA9                  | Y            |
+| Drop                  | 6  | 0xAA                  | B            |
+| Sneak/Dismount        | 7  | 0xAB                  | RS           |
+| Crafting              | 8  | 0xAC                  | X            |
+| Change Camera Mode    | 9  | 0xAD                  | LS           |
+| Fly Left              | 10 | 0xAE                  | D-Pad Left   |
+| Fly Right             | 11 | 0xAF                  | D-Pad Right  |
+| Fly Up                | 12 | 0xB0                  | D-Pad Up     |
+| Fly Down              | 13 | 0xB1                  | D-Pad Down   |
+| Sprint                | 14 | 0xB2                  | NONE         |
+| Pick Block            | 15 | 0xB3                  | NONE         |
+| Previous Player       | 16 | 0xB4                  | LB           |
+| Next Player           | 17 | 0xB5                  | RB           |
+| Spectate Noise        | 18 | 0xB6                  | RT           |
+| Cancel Spectating     | 19 | 0xB7                  | B            |
+| Confirm Ready         | 20 | 0xB8                  | X            |
+| Vote                  | 21 | 0xB9                  | B            |
+| Restart Section       | 22 | 0xBA                  | X            |
+| Restart Race          | 23 | 0xBB                  | B            |
+| Look Behind           | 24 | 0xBC                  | Y            |
+
+### Buttons
+| Name        | ID   | 
+|-------------|------|
+| NONE        | 0x00 |
+| A           | 0x01 |
+| B           | 0x02 |
+| X           | 0x03 |
+| Y           | 0x04 |
+| D-Pad Left  | 0x05 |
+| D-Pad Right | 0x06 |
+| D-Pad Up    | 0x07 |
+| D-Pad Down  | 0x08 |
+| RB          | 0x09 |
+| LB          | 0x0A |
+| RT          | 0x0B |
+| LT          | 0x0C |
+| RS          | 0x0D |
+| LS          | 0x0E |
+
+## Extra
 ### 0x07 and 0x0A
 Setting 0x07 and 0x0A are both checked for and set in ActionGameSettings, which leads me to assume it's related to tutorial and normal in-game tooltips (due to 0x07 being used under UIComponent_Tooltips).
 
