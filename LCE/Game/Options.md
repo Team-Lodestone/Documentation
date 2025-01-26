@@ -5,7 +5,7 @@ Tables are sorted by ID
 ### Table of contents
 
 1. [Settings](#settings) - Game Settings
-2. [Actions](#actions) - Game Controls
+2. [Actions](#actions-controller-bindings) - Game Controls
    - [Buttons](#buttons) - Controller button IDs
 3. [Extra](#extra) - Extra notes and technical stuff
 
