@@ -5,6 +5,7 @@ Tables are sorted by ID
 ### Table of contents
 
 1. [Settings](#settings) - Game Settings
+3. [Skins](#skins) - Chosen skins and favorite skins
 2. [Actions](#actions-controller-bindings) - Game Controls
    - [Buttons](#buttons) - Controller button IDs
 3. [Extra](#extra) - Extra notes and technical stuff
@@ -59,6 +60,17 @@ Things that aren't known are under Unknown, due to my test hook not printing tha
 | Show Glide Ghost Path | Boolean | 0x2b    | 0x54 (Bit 31)         | 1              | True          |                                                                            |
 | Auto Jump             | Boolean | 0x2c    | 0x54 (Bit 26)         | 1              | False         |                                                                            |
 | Unknown               | Unknown | 0x2d    | 0x57 (Bits 0-3)       | 4              | Unknown       | Not referenced anywhere else?????                                          |
+
+## Skins
+Skins are stored using their 4 byte ID.
+
+The player's chosen skin is stored at offset `0x4c`.  
+There's also a thing for a Player Cape at offset `0x5c`, I assume this is only set when the chosen skin has a cape.  
+
+Favorite skins are stored at offset `0x60`, 4 bytes for each skin, with a maximum of 10 favorited skins allowed (0x60-0x87)
+
+### Skin IDs
+TODO
 
 ## Actions (Controller bindings)
 | Name                  | ID | Offset in OPTIONSDATA | Default bind |
