@@ -1,9 +1,6 @@
 ﻿# Blocks
 As of latest Xbox One Edition.
 
-> [!WARNING]
-> May be incorrect, based off of registerBlock. (symbol from Wii U)
-
 > [!INFO]
 > This is unfinished, more info needs to be added.
 
