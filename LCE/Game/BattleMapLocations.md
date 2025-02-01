@@ -1,3 +1,4 @@
+# Battle Map Locations
 
 | Name        | Size  | UpdatePlayer Position         |
 |-------------|-------|-------------------------------|
