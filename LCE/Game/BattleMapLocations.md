@@ -1,6 +1,66 @@
-> [!NOTE]
-> These are still a work in progress!
 
-# Cove 
-### Small
-```-221.471, / 79.00000 / 286.585```
+| Name        | Size  | UpdatePlayer Position         |
+|-------------|-------|-------------------------------|
+| Atomics     | Huge  | `144, 41, 222`                |
+| Atomics     | Large | `144, 41, 222`                |
+| Atomics     | Small | `144, 41, 222`                |
+| Atlantis    | Huge  | `149, 56, 175`                |
+| Atlantis    | Large | `149, 56, 175`                |
+| Atlantis    | Small | `152, 41, 154`                |
+| Capitol     | Huge  | `-2, 64, -9`                  |
+| Capitol     | Large | `-2, 64, -9`                  |
+| Capitol     | Small | `155, 56, 153`                |
+| Castle      | Huge  | `-169, 72, 134`               |
+| Castle      | Large | `-169, 72, 134`               |
+| Castle      | Small | `40, 68, 40`                  |
+| Cavern      | Huge  | `268, 47, 12`                 |
+| Cavern      | Large | `268, 47, 12`                 |
+| Cavern      | Small | `-222, 84, 286`               |
+| Cove        | Huge  | `45, 76, 251`                 |
+| Cove        | Large | `45, 76, 251`                 |
+| Cove        | Small | `219, 73, -220`               |
+| Crucible    | Huge  | `348, 38, 331`                |
+| Crucible    | Large | `348, 38, 331`                |
+| Crucible    | Small | `317, 78, 301`                |
+| Dig         | Huge  | `59, 61, 136`                 |
+| Dig         | Large | `59, 61, 136`                 |
+| Dig         | Small | `59, 61, 136`                 |
+| Festive     | Huge  | `17, 58, 9`                   |
+| Festive     | Large | `17, 58, 9`                   |
+| Festive     | Small | `17, 58, 9`                   |
+| Frontier    | Huge  | `288, 74, 211`                |
+| Frontier    | Large | `288, 74, 211`                |
+| Frontier    | Small | `288, 74, 211`                |
+| Halloween   | Huge  | `56, 45, 141`                 |
+| Halloween   | Large | `56, 45, 141`                 |
+| Halloween   | Small | `56, 33, 141`                 |
+| Invasion!   | Huge  | `313, 45, -229`               |
+| Invasion!   | Large | `313, 45, -229`               |
+| Invasion!   | Small | `-70, 47, 80`                 |
+| Lair        | Huge  | `70, 51, 70`                  |
+| Lair        | Large | `70, 51, 70`                  |
+| Lair        | Small | `45, 32, 45`                  |
+| Libertalia  | Huge  | `-12, 28, 197`                |
+| Libertalia  | Large | `-12, 28, 197`                |
+| Libertalia  | Small | `158, 29, 180`                |
+| Medusa      | Huge  | `239, 69, 100`                |
+| Medusa      | Large | `239, 69, 100`                |
+| Medusa      | Small | `228, 67, 100`                |
+| Ruin        | Huge  | `-51, 9, 50`                  |
+| Ruin        | Large | `-51, 9, 50`                  |
+| Ruin        | Small | `-206, 20, 178`               |
+| Shipyard    | Huge  | `20, 164, -18`                |
+| Shipyard    | Large | `20, 164, -18`                |
+| Shipyard    | Small | `-9, 164, -1`                 |
+| Siege       | Huge  | `52, 72, 208`                 |
+| Siege       | Large | `52, 72, 208`                 |
+| Siege       | Small | `52, 72, 197`                 |
+| Shrunk      | Huge  | `47, 36, 127`                 |
+| Shrunk      | Large | `47, 36, 127`                 |
+| Shrunk      | Small | `-82, 40, 134`                |
+| Temple      | Huge  | `-118, 20, -148`              |
+| Temple      | Large | `-118, 20, -148`              |
+| Temple      | Small | `-34, 59, -255`               |
+| Valley      | Huge  | `213, 91, 239`                |
+| Valley      | Large | `213, 91, 239`                |
+| Valley      | Small | `213, 91, 239`                |
