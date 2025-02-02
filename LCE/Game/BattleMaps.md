@@ -2,9 +2,9 @@
 
 ## Cove
 
-| Preview Image | Description |
-|--------------|-------------|
-| ![Cove](BattleMapImages/Cove.png) | Try to survive in this pirate's hidden camp, full of shipwrecks and caves! |
+![Cove Preview Image](BattleMapImages/Cove.png)
+
+Try to survive in this pirate's hidden camp, full of shipwrecks and caves!
 
 | Size | UpdatePlayer Position | Active Area | Max Player Bounds |
 |------|-----------------------|------------|-----------------|
@@ -14,9 +14,9 @@
 
 ## Cavern
 
-| Preview Image | Description |
-|--------------|-------------|
-| ![Cavern](BattleMapImages/Cavern.png) | This ancient looking underground structure is the perfect place to sneak up on your enemies! |
+![Cavern Preview Image](BattleMapImages/Cavern.png)
+
+This ancient looking underground structure is the perfect place to sneak up on your enemies!
 
 | Size | UpdatePlayer Position | Active Area | Max Player Bounds |
 |------|-----------------------|------------|-----------------|
@@ -26,9 +26,9 @@
 
 ## Crucible
 
-| Preview Image | Description |
-|--------------|-------------|
-| ![Crucible](BattleMapImages/Crucible.png) | A world built deep in the Nether, with plenty of lava for your enemies to swim in! |
+![Crucible Preview Image](BattleMapImages/Crucible.png)
+
+A world built deep in the Nether, with plenty of lava for your enemies to swim in!
 
 | Size | UpdatePlayer Position | Active Area | Max Player Bounds |
 |------|-----------------------|------------|-----------------|
@@ -38,9 +38,9 @@
 
 ## Lair
 
-| Preview Image | Description |
-|--------------|-------------|
-| ![Lair](BattleMapImages/Lair.png) | Battle in the dragon's lair. |
+![Lair Preview Image](BattleMapImages/Lair.png)
+
+Battle in the dragon's lair.
 
 | Size | UpdatePlayer Position | Active Area | Max Player Bounds |
 |------|-----------------------|------------|-----------------|
@@ -50,9 +50,9 @@
 
 ## Medusa
 
-| Preview Image | Description |
-|--------------|-------------|
-| ![Medusa](BattleMapImages/Medusa.png) | Don't look directly at her! |
+![Medusa Preview Image](BattleMapImages/Medusa.png)
+
+Don't look directly at her!
 
 | Size | UpdatePlayer Position | Active Area | Max Player Bounds |
 |------|-----------------------|------------|-----------------|
@@ -62,9 +62,9 @@
 
 ## Temple
 
-| Preview Image | Description |
-|--------------|-------------|
-| ![Temple](BattleMapImages/Temple.png) | This mysterious temple is set within the deepest jungle. Watch out for enemies lurking in the tree tops! |
+![Temple Preview Image](BattleMapImages/Temple.png)
+
+This mysterious temple is set within the deepest jungle. Watch out for enemies lurking in the tree tops!
 
 | Size | UpdatePlayer Position | Active Area | Max Player Bounds |
 |------|-----------------------|------------|-----------------|
@@ -74,9 +74,9 @@
 
 ## Atlantis
 
-| Preview Image | Description |
-|--------------|-------------|
-| ![Atlantis](BattleMapImages/Atlantis.png) | Deep beneath the ocean, a lost city lay in ruins. Atlantis awaits the battle. |
+![Atlantis Preview Image](BattleMapImages/Atlantis.png)
+
+Deep beneath the ocean, a lost city lay in ruins. Atlantis awaits the battle.
 
 | Size | UpdatePlayer Position | Active Area | Max Player Bounds |
 |------|-----------------------|------------|-----------------|
@@ -86,9 +86,9 @@
 
 ## Siege
 
-| Preview Image | Description |
-|--------------|-------------|
-| ![Siege](BattleMapImages/Siege.png) | Brave the enemy walls or defend the keep. The siege is upon us. |
+![Siege Preview Image](BattleMapImages/Siege.png)
+
+Brave the enemy walls or defend the keep. The siege is upon us.
 
 | Size | UpdatePlayer Position | Active Area | Max Player Bounds |
 |------|-----------------------|------------|-----------------|
@@ -98,9 +98,9 @@
 
 ## Ruin
 
-| Preview Image | Description |
-|--------------|-------------|
-| ![Ruin](BattleMapImages/Ruin.png) | Abandoned and left to ruin, there are still secrets left to be found. Battle for the remaining resources and survive this hazardous place. |
+![Ruin Preview Image](BattleMapImages/Ruin.png)
+
+Abandoned and left to ruin, there are still secrets left to be found. Battle for the remaining resources and survive this hazardous place.
 
 | Size | UpdatePlayer Position | Active Area | Max Player Bounds |
 |------|-----------------------|------------|-----------------|
@@ -110,9 +110,9 @@
 
 ## Castle
 
-| Preview Image | Description |
-|--------------|-------------|
-| ![Castle](BattleMapImages/Castle.png) | Crown yourself in glory in the Castle's great halls. |
+![Castle Preview Image](BattleMapImages/Castle.png)
+
+Crown yourself in glory in the Castle's great halls.
 
 | Size | UpdatePlayer Position | Active Area | Max Player Bounds |
 |------|-----------------------|------------|-----------------|
@@ -122,9 +122,9 @@
 
 ## Shipyard
 
-| Preview Image | Description |
-|--------------|-------------|
-| ![Shipyard](BattleMapImages/Shipyard.png) | A port in the sky away from the storm, but this arena is anything but calm. |
+![Shipyard Preview Image](BattleMapImages/Shipyard.png)
+
+A port in the sky away from the storm, but this arena is anything but calm.
 
 | Size | UpdatePlayer Position | Active Area | Max Player Bounds |
 |------|-----------------------|------------|-----------------|
@@ -134,9 +134,9 @@
 
 ## Invasion!
 
-| Preview Image | Description |
-|--------------|-------------|
-| ![Invasion!](BattleMapImages/Invasion.png) | An alien attack has created a dangerous arena. Defend your rooftops but don't fall off! |
+![Invasion! Preview Image](BattleMapImages/Invasion.png)
+
+An alien attack has created a dangerous arena. Defend your rooftops but don't fall off!
 
 | Size | UpdatePlayer Position | Active Area | Max Player Bounds |
 |------|-----------------------|------------|-----------------|
@@ -146,9 +146,9 @@
 
 ## Frontier
 
-| Preview Image | Description |
-|--------------|-------------|
-| ![Frontier](BattleMapImages/Frontier.png) | It's high noon! Things are about to get wild in the Old West, so grab a fistful of TNT, slap on a sou'wester and prepare for an almighty dustbowl dust-up between the good, the bad and the ugly. |
+![Frontier Preview Image](BattleMapImages/Frontier.png)
+
+It's high noon! Things are about to get wild in the Old West, so grab a fistful of TNT, slap on a sou'wester and prepare for an almighty dustbowl dust-up between the good, the bad and the ugly.
 
 | Size | UpdatePlayer Position | Active Area | Max Player Bounds |
 |------|-----------------------|------------|-----------------|
@@ -158,9 +158,9 @@
 
 ## Dig
 
-| Preview Image | Description |
-|--------------|-------------|
-| ![Dig](BattleMapImages/Dig.png) | A snowbound excavation site lies deserted. What unspeakable things did the scientists discover beneath the ice? Find out for yourself, while battling against both the elements and each other! |
+![Dig Preview Image](BattleMapImages/Dig.png)
+
+A snowbound excavation site lies deserted. What unspeakable things did the scientists discover beneath the ice? Find out for yourself, while battling against both the elements and each other!
 
 | Size | UpdatePlayer Position | Active Area | Max Player Bounds |
 |------|-----------------------|------------|-----------------|
@@ -170,9 +170,9 @@
 
 ## Shrunk
 
-| Preview Image | Description |
-|--------------|-------------|
-| ![Shrunk](BattleMapImages/Shrunk.png) | Are you tiny or is everything else just really, really big? Be careful not to lose your sense of proportion as you fight your way across this over-sized bedroom and tidy up the competition. |
+![Shrunk Preview Image](BattleMapImages/Shrunk.png)
+
+Are you tiny or is everything else just really, really big? Be careful not to lose your sense of proportion as you fight your way across this over-sized bedroom and tidy up the competition.
 
 | Size | UpdatePlayer Position | Active Area | Max Player Bounds |
 |------|-----------------------|------------|-----------------|
@@ -182,9 +182,9 @@
 
 ## Valley
 
-| Preview Image | Description |
-|--------------|-------------|
-| ![Valley](BattleMapImages/Valley.png) | Discover your inner self as you battle across this ancient land of dragons! This Battle map is exclusive to the Chinese Mythology Mash Up. |
+![Valley Preview Image](BattleMapImages/Valley.png)
+
+Discover your inner self as you battle across this ancient land of dragons! This Battle map is exclusive to the Chinese Mythology Mash Up.
 
 | Size | UpdatePlayer Position | Active Area | Max Player Bounds |
 |------|-----------------------|------------|-----------------|
@@ -194,9 +194,9 @@
 
 ## Capitol
 
-| Preview Image | Description |
-|--------------|-------------|
-| ![Capitol](BattleMapImages/Capital.png) | Clamber through the ruins of the Capitol! Who will rise from the rubble to battle their way through the wasteland? |
+![Capitol Preview Image](BattleMapImages/Capital.png)
+
+Clamber through the ruins of the Capitol! Who will rise from the rubble to battle their way through the wasteland?
 
 | Size | UpdatePlayer Position | Active Area | Max Player Bounds |
 |------|-----------------------|------------|-----------------|
@@ -206,9 +206,9 @@
 
 ## Libertalia
 
-| Preview Image | Description |
-|--------------|-------------|
-| ![Libertalia](BattleMapImages/Libertalia.png) | Battle through the troubled waters of Libertalia! Who will captain the seas in this watery graveyard of ships? |
+![Libertalia Preview Image](BattleMapImages/Libertalia.png)
+
+Battle through the troubled waters of Libertalia! Who will captain the seas in this watery graveyard of ships?
 
 | Size | UpdatePlayer Position | Active Area | Max Player Bounds |
 |------|-----------------------|------------|-----------------|
@@ -218,9 +218,10 @@
 
 ## Atomics
 
-| Preview Image | Description |
-|--------------|-------------|
-| ![Atomics](BattleMapImages/Atomics.png) | Face the perils of the General Atomics Galleria! Is Mister Handy friend or foe? Will you dodge the traps rigged to blow?  |
+![Atomics Preview Image](BattleMapImages/Atomics.png)
+
+Face the perils of the General Atomics Galleria! Is Mister Handy friend or foe? Will you dodge the traps rigged to blow?
+
 
 | Size | UpdatePlayer Position | Active Area | Max Player Bounds |
 |------|-----------------------|------------|-----------------|
@@ -230,9 +231,9 @@
 
 ## Festive
 
-| Preview Image | Description |
-|--------------|-------------|
-| ![Festive](BattleMapImages/Festive.png) | Get together with friends and family for some Minecraft-style tussling in this special seasonal battle map. The more the merrier! Guaranteed to be more fun than pretending you like the socks your uncle gave you. |
+![Festive Preview Image](BattleMapImages/Festive.png)
+
+Get together with friends and family for some Minecraft-style tussling in this special seasonal battle map. The more the merrier! Guaranteed to be more fun than pretending you like the socks your uncle gave you.
 
 | Size | UpdatePlayer Position | Active Area | Max Player Bounds |
 |------|-----------------------|------------|-----------------|
@@ -242,9 +243,9 @@
 
 ## Halloween
 
-| Preview Image | Description |
-|--------------|-------------|
-| ![Halloween](BattleMapImages/Halloween.png) | Something wicked this way comes. Full of deadly thrills and sinister shocks, it will scare you off your Minecraft blocks! |
+![Halloween Preview Image](BattleMapImages/Halloween.png)
+
+Something wicked this way comes. Full of deadly thrills and sinister shocks, it will scare you off your Minecraft blocks!
 
 | Size | UpdatePlayer Position | Active Area | Max Player Bounds |
 |------|-----------------------|------------|-----------------|
