@@ -1,5 +1,4 @@
 # Battle Maps
-
 ## Cove
 
 ![Cove Preview Image](BattleMapImages/Cove.png)
