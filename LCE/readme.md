@@ -7,6 +7,7 @@ Documentation about Minecraft: Legacy Console Edition related stuff.
 3. [File Types](./File%20Types/) - ARC, COL, GRF, MSSCMP, Options, THUMB
 4. [Level/World](./Level/) - Region, Chunk, level storage, etc
 5. [Game](./Game/) - Game mechanics and other stuff   
+6. [Packets](./Packets/) - Packets and networking   
 Check out the Menu/Sidebar for other stuff not mentioned here.
 
 # Contributors

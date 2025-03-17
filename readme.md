@@ -106,3 +106,9 @@ Thank you to all the contributors who make this project possible!
 </a>
 
 ### [Full list of contributors](/Team.md)
+
+## License & Attribution
+The documentation in this project is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise noted.
+The `.vitepress` folder is licensed under LGPL-3.0.
+
+For more details, see the [`NOTICE`](NOTICE.md) file.

@@ -1,7 +1,7 @@
 ### Main Team
 
 |                                            PFP                                            | Name                                                              |
-| :---------------------------------------------------------------------------------------: | ----------------------------------------------------------------- |
+|:-----------------------------------------------------------------------------------------:|-------------------------------------------------------------------|
 |         ![EternalModz](https://avatars.githubusercontent.com/EternalModz?size=64)         | [EternalModz (Creator / Founder)](https://github.com/EternalModz) |
 |      ![DexrnZacAttack](https://avatars.githubusercontent.com/DexrnZacAttack?size=64)      | [DexrnZacAttack (Manager)](https://github.com/DexrnZacAttack)     |
 |       ![BJTMastermind](https://avatars.githubusercontent.com/BJTMastermind?size=64)       | [BJTMastermind Games](https://github.com/BJTMastermind)           |
@@ -51,14 +51,14 @@
 ### Development (INCOMPLETE)
 
 |                                       PFP                                       | Name                                                | Notes                       |
-| :-----------------------------------------------------------------------------: | --------------------------------------------------- | --------------------------- |
+|:-------------------------------------------------------------------------------:|-----------------------------------------------------|-----------------------------|
 | ![DexrnZacAttack](https://avatars.githubusercontent.com/DexrnZacAttack?size=64) | [DexrnZacAttack](https://github.com/DexrnZacAttack) | libLCE, 3DS research        |
 |       ![Sl1mJ1m](https://avatars.githubusercontent.com/Sl1mj1m14?size=64)       | [Sl1mJ1m](https://github.com/Sl1mj1m14)             | Classic JS world conversion |
 
 ### Documentation
 
 |                                        PFP                                        | Name                                                  | Notes |
-| :-------------------------------------------------------------------------------: | ----------------------------------------------------- | ----- |
+|:---------------------------------------------------------------------------------:|-------------------------------------------------------|-------|
 |  ![DexrnZacAttack](https://avatars.githubusercontent.com/DexrnZacAttack?size=64)  | [DexrnZacAttack](https://github.com/DexrnZacAttack)   |       |
 |   ![BJTMastermind](https://avatars.githubusercontent.com/BJTMastermind?size=64)   | [BJTMastermind](https://github.com/BJTMastermind)     |       |
 | ![ModifiedCommand](https://avatars.githubusercontent.com/ModifiedCommand?size=64) | [ModifiedCommand](https://github.com/ModifiedCommand) |       |
@@ -74,21 +74,21 @@
 
 ### Translations
 
-|                                   PFP                                   | Name                                                | Language |
-| :---------------------------------------------------------------------: | --------------------------------------------------- | -------- |
+|                                   PFP                                   | Name                                             | Language |
+|:-----------------------------------------------------------------------:|--------------------------------------------------|----------|
 | ![9110751907](https://avatars.githubusercontent.com/9110751907?size=64) | [9110751907(そらと)](https://github.com/9110751907) | Japanese |
 
 ### Logo Design
 
 |                                       PFP                                       | Name                                                | Notes                                          |
-| :-----------------------------------------------------------------------------: | --------------------------------------------------- | ---------------------------------------------- |
+|:-------------------------------------------------------------------------------:|-----------------------------------------------------|------------------------------------------------|
 |     ![NikStudios](https://avatars.githubusercontent.com/NikStudios?size=64)     | [NikStudios](https://github.com/NikStudios)         | _Made the Banner, and the "L" logo_            |
 | ![DexrnZacAttack](https://avatars.githubusercontent.com/DexrnZacAttack?size=64) | [DexrnZacAttack](https://github.com/DexrnZacAttack) | _Made the background for the smaller "L" logo_ |
 
 ### Involved Projects
 
 |                                 Name                                  | Creator                                             | Stars                                                                 |
-| :-------------------------------------------------------------------: | --------------------------------------------------- | --------------------------------------------------------------------- |
+|:---------------------------------------------------------------------:|-----------------------------------------------------|-----------------------------------------------------------------------|
 |          [libLCE](https://github.com/DexrnZacAttack/libLCE)           | [DexrnZacAttack](https://github.com/DexrnZacAttack) | ![](https://img.shields.io/github/stars/DexrnZacAttack/libLCE)        |
 |         [lib3DSE](https://github.com/DexrnZacAttack/lib3DSE)          | [DexrnZacAttack](https://github.com/DexrnZacAttack) | ![](https://img.shields.io/github/stars/DexrnZacAttack/lib3DSE)       |
 |           [NBTify](https://github.com/Offroaders123/NBTify)           | [Offroaders123](https://github.com/Offroaders123)   | ![](https://img.shields.io/github/stars/Offroaders123/NBTify)         |
