@@ -11,65 +11,135 @@ In this repo, you'll find documentation on various mechanics and file types for 
 > [!NOTE]
 > This project is still in development!
 
-**Project Lodestone** is a toolset that aims to edit and convert Minecraft worlds across various editions, including Java Edition, Bedrock Edition, all 4J Studios Console (as well as 3DS) Editions, support for both current and legacy versions. Essentially a mega tool.
+**Project Lodestone** is a toolset that aims to edit and convert Minecraft worlds across various editions, including Java Edition, Bedrock Edition, all Console Editions, support for both current and legacy versions. Essentially a mega tool.
 
-**Note: We also have custom community-made converter support planned, but it isn't the main focus.**
+> [!NOTE]
+> Support for community-made converters/readers will be looked at, but is not the main focus at this time.
 
 [Join us on Discord!](https://discord.gg/umHRdX6R7V)
 
-[View libLCE, a helper project that aims to implement LCE file support in TS](https://github.com/DexrnZacAttack/libLCE)
-
-[View lib3DSE, a helper project that aims to implement 3DS Edition file support in TS](https://github.com/DexrnZacAttack/lib3DSE)
+[View libLCE, a helper project that aims to implement LCE file support in C++](https://github.com/DexrnZacAttack/libLCE)
 
 ## Project Roadmap
 
 We're continuously working on new features and improvements. Here's an outline of what we have planned:
 
+### **Save Editor**
+  - [ ] Legacy Console Edition
+    - [ ] Support all editions 
+        - [ ] Xbox 360 Edition
+          - [ ] Loading
+          - [ ] Exporting
+        - [X] Xbox One Edition
+          - [X] Loading
+          - [ ] Exporting
+        - [ ] PlayStation 3 Edition
+          - [ ] Loading
+          - [ ] Exporting
+        - [X] PlayStation 4 Edition
+          - [X] Loading
+          - [ ] Exporting
+        - [X] PlayStation Vita Edition 
+          - [X] Loading
+          - [ ] Exporting
+        - [X] Wii U Edition
+          - [X] Loading
+          - [ ] Exporting
+        - [X] Nintendo Switch Edition
+          - [X] Loading
+          - [ ] Exporting
+    - [ ] Edit Player Data
+    - [ ] Edit Region & Chunk Data
+    - [ ] Edit Level Data
+  - [ ] Java Edition
+    - [ ] Edit Player Data
+    - [ ] Edit Region & Chunk Data
+    - [ ] Edit Level Data
+  - [ ] Bedrock Edition
+    - [ ] Edit Player Data
+    - [ ] Edit Region & Chunk Data
+    - [ ] Edit Level Data
+  - [ ] 3DS Edition
+     - [ ] Edit Player Data
+     - [ ] Edit Chunk Data
+     - [ ] Edit Level Data
+  - [ ] Pi Edition
+    - [ ] Edit Player Data
+    - [ ] Edit Chunk Data
+    - [ ] Edit Level Data
+
 ### **World Converter**
-  - [ ] Start work on the World Converter
   - [ ] Support all editions/versions
     - [ ] Java Edition
+      - [ ] Classic/Pre-Classic
+        - [ ] rd-132211 - c0.0.12a_03
+        - [ ] c0.0.13a - c0.0.13a_03
+        - [ ] c0.0.14a - c0.30
+      - [ ] Indev <!-- figure out which versions can be saved locally (using BetaCraft) -->
+      - [ ] Infdev 624
+      - [ ] Alpha Save Format (Infdev 327 - Beta 1.2_02) 
+      - [ ] McRegion (Beta 1.3 - Release 1.1)
+      - [ ] Anvil (Release 1.2 - Present)
     - [ ] Bedrock Edition
     - [ ] Legacy Console Edition
+      - [ ] Support all chunk versions
     - [ ] 3DS Edition
     - [ ] Pi Edition
-    - [X] Classic-JS (support is ready, tool has not been started yet.)
-  - [ ] World Converter complete
-  - [ ] Advanced conversion options:
-    - [ ] **Depth fixing**
-    - [ ] **Lighting recalculation**
-    - [ ] **Mixed output chunk versioning**
+    - [ ] Classic-JS
+  - [ ] Advanced conversion options
+    - [ ] Depth fixing
+    - [ ] Lighting recalculation
+    - [ ] Mixed output chunk versioning
+
+### **File Format Editor**
+  - [ ] NBT
+  - [ ] S-NBT
+  - [ ] MCR/MCA
+  - [ ] [GRF](#grf-editor)
+  - [ ] MCS
+  - [ ] [ARC](LCE/File%20Types/ARC)
+  - [ ] LOC
+  - [ ] PCK
+  - [ ] [COL](LCE/File%20Types/COL)
+  - [ ] FUI
+  - [ ] CDB
+  - [ ] VDB
 
 ### **World Editor**
-  - [ ] World Editor complete
-  - [ ] Community-made modifications
+  - [ ] Biome Editor
+  - [ ] Entity/Block Entity Editor
 
 ### **Extra tools**
-  - [X] NBT Editor (with S-NBT support).
-  - [X] Hex Editor
+  - [ ] Hex Editor
   - [ ] LevelDB Browser
   - [ ] Datapack Editor
-  - [ ] Other tools:
-    - [ ] **Map Item Editor**
-    - [ ] **Entity Data Editor** (Inventory, Armor, Player stats, Effects, Villager trades, etc.)
-    - [ ] **Resource/Texture Pack Converter**
-    - [ ] **Item NBT Editor**
+  - [ ] Map Item Editor
+  - [ ] Resource/Texture Pack Converter
 
-### **GRF Editor**
-  - [ ] GRF Editor
-  - [ ] Custom resource packs & texture pack modifications.
+### **Web App**
+  - [X] App UI planned out
+  - [ ] App completed
+    - [ ] [Save Editor](#save-editor) 
+    - [ ] [World Converter](#world-converter)
+    - [ ] [File Format Editor](#file-format-editor)
+    - [ ] [World Editor](#world-editor)
+    - [ ] [Extra Tool](#extra-tools)
+    
+### [**Localization**](Team.md#translations)
+  - [ ] Main site
+    - [ ] Arabic
+    - [ ] Central Kurdish
+    - [ ] French (Canada)
+    - [ ] Japanese
+    - [ ] Northern Kurdish
+  - [ ] Lodestone App
+    - [ ] Arabic
+    - [ ] Central Kurdish
+    - [ ] French (Canada)
+    - [ ] Japanese
+    - [ ] Northern Kurdish
 
-### **Web UI**
-  - [X] UI planned out
-  - [ ] UI completed
-  - [ ] Localization
-  - [ ] Accessibility
-
-### **Release**
-  - [ ] Get the web UI ready
-  - [ ] Stress test
-
-Stay tuned as we make progress on each phase. If you're interested in contributing, we welcome your input!
+Stay tuned as we make progress on each part of Lodestone. If you're interested in contributing, we welcome your input!
 
 ## Supported Editions and Versions
 
@@ -101,11 +171,27 @@ Want to help shape Project Lodestone? Here's how you can get involved:
 
 Thank you to all the contributors who make this project possible!
 
+### App
+<a href="https://github.com/Team-Lodestone/App/graphs/contributors">
+<img src="https://contributors-img.web.app/image?repo=Team-Lodestone/App" />
+</a>
+
+### Main Site
+<a href="https://github.com/Team-Lodestone/team-lodestone.github.io/graphs/contributors">
+<img src="https://contributors-img.web.app/image?repo=Team-Lodestone/team-lodestone.github.io" />
+</a>
+
+### Documentation
 <a href="https://github.com/Team-Lodestone/Documentation/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=Team-Lodestone/Documentation" />
 </a>
 
-### [Full list of contributors](/Team.md)
+### UI Library
+<a href="https://github.com/Team-Lodestone/UI/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Team-Lodestone/UI" />
+</a>
+
+### [See the team](/Team.md)
 
 ## License & Attribution
 The documentation in this project is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise noted.
