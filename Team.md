@@ -10,8 +10,6 @@ description: "The people behind Project Lodestone"
 |         ![EternalModz](https://avatars.githubusercontent.com/EternalModz?size=64)         | [EternalModz (Creator / Founder)](https://github.com/EternalModz) |
 |      ![DexrnZacAttack](https://avatars.githubusercontent.com/DexrnZacAttack?size=64)      | [DexrnZacAttack (Manager)](https://github.com/DexrnZacAttack)     |
 |       ![BJTMastermind](https://avatars.githubusercontent.com/BJTMastermind?size=64)       | [BJTMastermind Games](https://github.com/BJTMastermind)           |
-|          ![PhoenixARC](https://avatars.githubusercontent.com/PhoenixARC?size=64)          | [PhoenixARC](https://github.com/PhoenixARC)                       |
-|     ![UtterEvergreen1](https://avatars.githubusercontent.com/UtterEvergreen1?size=64)     | [UtterEvergreen1](https://github.com/UtterEvergreen1)             |
 |             ![NIK](https://avatars.githubusercontent.com/NikStudios?size=64)              | [+NIK+](https://github.com/NikStudios)                            |
 |       ![Offroaders123](https://avatars.githubusercontent.com/Offroaders123?size=64)       | [Offroaders123](https://github.com/Offroaders123)                 |
 |            ![CADIndie](https://avatars.githubusercontent.com/CADIndie?size=64)            | [CADIndie](https://github.com/CADIndie)                           |
@@ -101,6 +99,8 @@ People who aren't on the main team (or are, but inactive) but have helped out in
 |         ![Zero_DSRS_VX](https://avatars.githubusercontent.com/PhoenixVX?size=64)          | [Zero_DSRS_VX](https://github.com/PhoenixVX)                      |
 |            ![David-xF](https://avatars.githubusercontent.com/David-xF?size=64)            | [David-xF](https://github.com/David-xF)                           |
 |             ![MattNL](https://avatars.githubusercontent.com/MattN-L?size=64)              | [MattNL](https://github.com/MattN-L)                              |
+|          ![PhoenixARC](https://avatars.githubusercontent.com/PhoenixARC?size=64)          | [PhoenixARC](https://github.com/PhoenixARC)                       |
+|     ![UtterEvergreen1](https://avatars.githubusercontent.com/UtterEvergreen1?size=64)     | [UtterEvergreen1](https://github.com/UtterEvergreen1)             |
 
 if any of these are wrong OR you are an inactive team member and would like to work on Lodestone again, please let me know, and you will likely be added back to the main team list.
 

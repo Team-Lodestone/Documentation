@@ -2,7 +2,7 @@ import { defineConfig, HeadConfig } from 'vitepress';
 import { generateSidebar } from 'vitepress-sidebar';
 import { withPwa } from '@vite-pwa/vitepress'
 import lightbox from "vitepress-plugin-lightbox"
-// import MarkdownItTodoLists from 'markdown-it-todo-lists'
+import MarkdownItTodoLists from 'markdown-it-todo-lists'
 import { GitChangelog, GitChangelogMarkdownSection } from '@nolebase/vitepress-plugin-git-changelog';
 
 export default withPwa(defineConfig({
@@ -32,8 +32,7 @@ export default withPwa(defineConfig({
   markdown: {
     config: (md) => {
       md.use(lightbox, {});
-      // we can use once https://github.com/skyline523/markdown-it-todo-lists/issues/1 has been fixed
-      // md.use(MarkdownItTodoLists);
+      md.use(MarkdownItTodoLists);
     },
   },
   themeConfig: {
@@ -108,11 +107,11 @@ export default withPwa(defineConfig({
     const head: HeadConfig[] = []
 
     // for other platforms ig
-    head.push(['meta', { property: 'og:title', content: "Project Lodestone | Documentation > " + pageData.title ?? pageData.relativePath }]);
+    head.push(['meta', { property: 'og:title', content: "Project Lodestone | Documentation > " + pageData.title.length === 0 ? pageData.relativePath : pageData.title.length }]);
     head.push(['meta', { property: 'og:description', content: pageData.description ?? "Documentation for Project Lodestone and various file formats and mechanics for many versions and editions of Minecraft." }])
     head.push(['meta', { property: 'og:url', content: 'https://Team-Lodestone.github.io/Documentation/' + pageData.relativePath }]); // this might be messed up idk
     // xitter
-    head.push(['meta', { name: 'twitter:title', content: "Project Lodestone | Documentation > " + pageData.title ?? pageData.relativePath }]);
+    head.push(['meta', { name: 'twitter:title', content: "Project Lodestone | Documentation > " + pageData.title.length === 0 ? pageData.relativePath : pageData.title.length }]);
     head.push(['meta', { name: 'twitter:description', content: pageData.description ?? "Documentation for Project Lodestone and various file formats and mechanics for many versions and editions of Minecraft." }]);
     head.push(['meta', { name: 'twitter:url', content: 'https://Team-Lodestone.github.io/Documentation/' + pageData.relativePath }]);
     head.push(['meta', { name: 'twitter:image', content: '/Documentation/assets/LodestoneBg.jpg' }]);

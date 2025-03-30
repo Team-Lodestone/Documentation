@@ -12,6 +12,6 @@
     "vitepress-sidebar": "^1.29.0"
   },
   "dependencies": {
-    "markdown-it-todo-lists": "^0.1.7"
+    "markdown-it-todo-lists": "^0.1.8"
   }
 }
