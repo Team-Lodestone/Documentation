@@ -10,5 +10,8 @@
     "vitepress": "^1.4.3",
     "vitepress-plugin-lightbox": "^1.0.2",
     "vitepress-sidebar": "^1.29.0"
+  },
+  "dependencies": {
+    "markdown-it-todo-lists": "^0.1.8"
   }
 }

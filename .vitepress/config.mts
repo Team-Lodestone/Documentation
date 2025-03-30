@@ -2,6 +2,7 @@ import { defineConfig, HeadConfig } from 'vitepress';
 import { generateSidebar } from 'vitepress-sidebar';
 import { withPwa } from '@vite-pwa/vitepress'
 import lightbox from "vitepress-plugin-lightbox"
+import MarkdownItTodoLists from 'markdown-it-todo-lists'
 import { GitChangelog, GitChangelogMarkdownSection } from '@nolebase/vitepress-plugin-git-changelog';
 
 export default withPwa(defineConfig({
@@ -31,6 +32,7 @@ export default withPwa(defineConfig({
   markdown: {
     config: (md) => {
       md.use(lightbox, {});
+      md.use(MarkdownItTodoLists);
     },
   },
   themeConfig: {
@@ -67,7 +69,16 @@ export default withPwa(defineConfig({
 
     footer: {
       // haha inlining html into a text block
-      message: '<h1>Contributors</h1><br><a href="https://github.com/Team-Lodestone/Documentation/graphs/contributors" style="display: flex; justify-content: center; align-items: center;" > <img align="center" src="https://contrib.rocks/image?repo=Team-Lodestone/Documentation"/> </a><br><h1>Documentation page was setup by DexrnZacAttack.</h1>',
+      message: `
+      <h1>Contributors</h1>
+      <br>
+      <a href="https://github.com/Team-Lodestone/Documentation/graphs/contributors" style="display: flex; justify-content: center; align-items: center;" >
+        <img align="center" src="https://contrib.rocks/image?repo=Team-Lodestone/Documentation"/>
+      </a>
+      <br>
+      <h1>Documentation page was setup by DexrnZacAttack.</h1>
+      <br>
+      <h1>Documentation is licensed under Creative Commons CC-BY 4.0 unless otherwise noted. For more info, check the NOTICE file.</h1>`,
     },
 
     logo: '/assets/Project_Lodestone_Logo_Made_By_NikStudios.svg'
@@ -87,7 +98,7 @@ export default withPwa(defineConfig({
     // lol does this mean it can be shoved into the start menu as a "live" tile
     ['meta', { name: 'msapplication-TileColor', content: '#AD95ED' }],
     ['meta', { name: 'msapplication-TileImage', content: '/Documentation/assets/Dexrn_Lodestone_Logo.png' }],
-    ['meta', { name: 'application-name', content: 'Project Lodestone - Documentation' }],
+    ['meta', { name: 'application-name', content: 'Project Lodestone | Documentation' }],
     ['meta', { name: 'msapplication-tooltip', content: 'Documentation for various Minecraft file formats' }],
     ['meta', {name: 'google-site-verification', content: 'z0A_sHsXyYXs1V9Ncly0Ppi6W78vrUKoLQti1FMeXl8' }],
     ['meta', {name: 'google-site-verification', content: 'LLV7ybaGj_-pAwlkHA2Cg55BxTOAdUdjG2WcoEuZKKM' }]
@@ -96,19 +107,19 @@ export default withPwa(defineConfig({
     const head: HeadConfig[] = []
 
     // for other platforms ig
-    head.push(['meta', { property: 'og:title', content: "Project Lodestone - Documentation > " + pageData.relativePath }]);
-    head.push(['meta', { property: 'og:description', content: "Documentation for Project Lodestone and various file formats and mechanics for many versions and editions of Minecraft." }])
+    head.push(['meta', { property: 'og:title', content: "Project Lodestone | Documentation > " + pageData.title.length === 0 ? pageData.relativePath : pageData.title.length }]);
+    head.push(['meta', { property: 'og:description', content: pageData.description ?? "Documentation for Project Lodestone and various file formats and mechanics for many versions and editions of Minecraft." }])
     head.push(['meta', { property: 'og:url', content: 'https://Team-Lodestone.github.io/Documentation/' + pageData.relativePath }]); // this might be messed up idk
     // xitter
-    head.push(['meta', { name: 'twitter:title', content: "Project Lodestone - Documentation > " + pageData.relativePath }]);
-    head.push(['meta', { name: 'twitter:description', content: "Documentation for Project Lodestone and various file formats and mechanics for many versions and editions of Minecraft." }]);
+    head.push(['meta', { name: 'twitter:title', content: "Project Lodestone | Documentation > " + pageData.title.length === 0 ? pageData.relativePath : pageData.title.length }]);
+    head.push(['meta', { name: 'twitter:description', content: pageData.description ?? "Documentation for Project Lodestone and various file formats and mechanics for many versions and editions of Minecraft." }]);
     head.push(['meta', { name: 'twitter:url', content: 'https://Team-Lodestone.github.io/Documentation/' + pageData.relativePath }]);
     head.push(['meta', { name: 'twitter:image', content: '/Documentation/assets/LodestoneBg.jpg' }]);
     head.push(['meta', { name: 'twitter:card', content: 'summary_large_image' }]);
     // more seo stuffs
     head.push(['meta', { property: 'og:locale', content: 'en_US' }]);
     head.push(['meta', { httpEquiv: 'Content-Language', content: 'en' }]);
-    head.push(['meta', { property: 'og:site_name', content: 'Project Lodestone - Documentation' }]);
+    head.push(['meta', { property: 'og:site_name', content: 'Project Lodestone | Documentation' }]);
     head.push(['meta', { name: 'author', content: 'Team Lodestone' }]);
     // what does this even do
     head.push(['link', { rel: 'prefetch', href: 'https://Team-Lodestone.github.io/Documentation/' + pageData.relativePath }]);
@@ -123,7 +134,7 @@ export default withPwa(defineConfig({
   pwa: {
     registerType: 'autoUpdate',
     manifest: {
-      name: 'Project Lodestone - Documentation',
+      name: 'Project Lodestone | Documentation',
       short_name: 'Project Lodestone Docs',
       description: '',
       theme_color: '#493189',
