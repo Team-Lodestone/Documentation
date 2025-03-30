@@ -46,11 +46,12 @@ description: "The people behind Project Lodestone"
 
 ### Translations
 
-|                                   PFP                                   | Name                                             | Language                           |
-|:-----------------------------------------------------------------------:|:-------------------------------------------------|------------------------------------|
-|  ![dTentione](https://avatars.githubusercontent.com/dTentione?size=64)  | [dTentione](https://github.com/dTentione)        | Arabic, Northern & Central Kurdish |
-|   ![Aiko](https://avatars.githubusercontent.com/AikoBorowski?size=64)   | [Aiko](https://github.com/AikoBorowski)          | French (Canada)                    |
-| ![9110751907](https://avatars.githubusercontent.com/9110751907?size=64) | [9110751907(そらと)](https://github.com/9110751907) | Japanese                           |
+|                                       PFP                                       | Name                                              | Language                           |
+|:-------------------------------------------------------------------------------:|:--------------------------------------------------|------------------------------------|
+|      ![dTentione](https://avatars.githubusercontent.com/dTentione?size=64)      | [dTentione](https://github.com/dTentione)         | Arabic, Northern & Central Kurdish |
+|       ![Aiko](https://avatars.githubusercontent.com/AikoBorowski?size=64)       | [Aiko](https://github.com/AikoBorowski)           | French                             |
+| ![LoulouNoLegend](https://avatars.githubusercontent.com/LoulouNoLegend?size=64) | [LoulouNoLegend](https://github.com/LoulouNoLegend) | French                             |
+|     ![9110751907](https://avatars.githubusercontent.com/9110751907?size=64)     | [9110751907(そらと)](https://github.com/9110751907)  | Japanese                           |
 
 ### Logo Design
 
