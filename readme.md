@@ -173,22 +173,22 @@ Thank you to all the contributors who make this project possible!
 
 ### App
 <a href="https://github.com/Team-Lodestone/App/graphs/contributors">
-<img src="https://contributors-img.web.app/image?repo=Team-Lodestone/App" />
+<img src="https://contrib.rocks/image?repo=Team-Lodestone/App" />
 </a>
 
 ### Main Site
 <a href="https://github.com/Team-Lodestone/team-lodestone.github.io/graphs/contributors">
-<img src="https://contributors-img.web.app/image?repo=Team-Lodestone/team-lodestone.github.io" />
+<img src="https://contrib.rocks/image?repo=Team-Lodestone/team-lodestone.github.io" />
 </a>
 
 ### Documentation
 <a href="https://github.com/Team-Lodestone/Documentation/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Team-Lodestone/Documentation" />
+  <img src="https://contrib.rocks/image?repo=Team-Lodestone/Documentation" />
 </a>
 
 ### UI Library
 <a href="https://github.com/Team-Lodestone/UI/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Team-Lodestone/UI" />
+  <img src="https://contrib.rocks/image?repo=Team-Lodestone/UI" />
 </a>
 
 ### [See the team](/Team.md)
