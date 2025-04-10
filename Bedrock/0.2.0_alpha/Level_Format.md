@@ -64,3 +64,9 @@ level.dat is stored in **Little Endian** byte order.
 | invulnerable | ByteTag | 1 or 0 (true/false) - true if the player is immune to all damage and harmful effects except for void damage. |
 | mayBuild | ByteTag | 1 or 0 (true/false) - true if the player can place and destroy blocks. |
 | instabuild | ByteTag | 1 or 0 (true/false) - true if the player can instantly destroy blocks. |
+
+## License & Credits
+
+This file is licensed under `CC BY-NC-SA 3.0`.
+
+The information here is from this [Minecraft wiki page](https://minecraft.wiki/w/Bedrock_Edition_level_format/History#NBT_structure) with some wording tweaked and/or simplify

@@ -41,3 +41,9 @@ Loop the next section `9` times until you have parsed all slots of the hotbar.
 The 9th slot is always `0xFFFFFFFF` representing the open inventory button with the 3 dots (`•••`).
 
 Depending on the device some slots may not be shown in game but all 9 slots are still saved to the file. For example if in game only shows 3 item slots they will be stored as the first 3 items in the hotbar.
+
+## License & Credits
+
+This file is licensed under `CC BY-NC-SA 3.0`.
+
+The information here is from this [Minecraft wiki page](https://minecraft.wiki/w/Bedrock_Edition_level_format/v0.1.0_alpha#player.dat) with some wording tweaked and/or simplify

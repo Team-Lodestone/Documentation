@@ -15,3 +15,9 @@ Entity Chunk data is stored in **Big Endian** byte order.
 ### Entities Data
 
 An entity. See the [Minecraft Wiki page](https://minecraft.wiki/w/Entity_format#Entity_format) for details.
+
+## License & Credits
+
+This file is licensed under `CC BY-NC-SA 3.0`.
+
+The information here is from this [Minecraft wiki page](https://minecraft.wiki/w/Entity_format#NBT_structure) with some wording tweaked and/or simplify

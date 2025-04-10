@@ -125,3 +125,9 @@ Now that you have all the needed variables you can now loop the palette in XZ or
 The index can be calculated with `Z × 16 + X`.
 
 Indexing the [heightmap arrays](#heightmaps-data) is like a normal array: `heightmap[xz_index]`.
+
+## License & Credits
+
+This file is licensed under `CC BY-NC-SA 3.0`.
+
+The information here is from an old version of this [Minecraft wiki page](https://minecraft.wiki/w/Chunk_format?oldid=1848747) with some wording tweaked and/or simplify

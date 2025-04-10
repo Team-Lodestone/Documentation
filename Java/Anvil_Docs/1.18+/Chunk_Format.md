@@ -151,3 +151,9 @@ Now that you have all the needed variables you can now loop the palette in XZ or
 The index can be calculated with `Z × 16 + X`.
 
 Indexing the [heightmap arrays](#heightmaps-data) should look something like this: `heightmap[xz_index] - 64`. Subtract 64 to get the real Y coordinate, otherwise Y-64 with be Y0
+
+## License & Credits
+
+This file is licensed under `CC BY-NC-SA 3.0`.
+
+The information here is from this [Minecraft wiki page](https://minecraft.wiki/w/Chunk_format) with some wording tweaked and/or simplify

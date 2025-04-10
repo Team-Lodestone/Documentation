@@ -29,3 +29,9 @@ level.dat is stored in **Big Endian** byte order unless mentioned otherwise.
 ## Notes
 
 1. <a id="1"></a> Will overflow and become negative at **03:14:08 UTC on 19 January 2038** due to [the year 2038 problem](https://en.wikipedia.org/wiki/Year_2038_problem) and will overflow every ~136 years after that.
+
+## License & Credits
+
+This file is licensed under `CC BY-NC-SA 3.0`.
+
+The information here is from this [Minecraft wiki page](https://minecraft.wiki/w/Bedrock_Edition_level_format/v0.1.0_alpha#level.dat) with some wording tweaked and/or simplify

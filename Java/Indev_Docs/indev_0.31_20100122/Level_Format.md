@@ -135,3 +135,9 @@ Calculate X, Y, Z from ***Pos*** tag:<br>
 `x = Pos % 1024`<br>
 `y = (Pos >> 10) % 1024`<br>
 `z = (Pos >> 20) % 1024`
+
+## License & Credits
+
+This file is licensed under `CC BY-NC-SA 3.0`.
+
+The information here is from this [Minecraft wiki page](https://minecraft.wiki/w/Java_Edition_Indev_level_format) with some wording tweaked and/or simplify

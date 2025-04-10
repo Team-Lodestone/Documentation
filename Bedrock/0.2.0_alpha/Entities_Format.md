@@ -28,3 +28,9 @@ entities.dat is stored in **Little Endian** byte order.
 | Tag Name | Tag Type | Description |
 |------|----------|-------------|
 | TileEntities | ListTag of CompoundTags | List of all the tile entities in the world. Each CompoundTag is a Tile Entity. |
+
+## License & Credits
+
+This file is licensed under `CC BY-NC-SA 3.0`.
+
+The information here is from this [Minecraft wiki page](https://minecraft.wiki/w/Bedrock_Edition_level_format/History#entities.dat) with some wording tweaked and/or simplify
