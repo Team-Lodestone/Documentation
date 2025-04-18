@@ -23,14 +23,14 @@ Now loop the next section `Block Layer Count` times until you have parsed all bl
 
 | Name | Size (in bits) | Description |
 |------|----------------|-------------|
-| Palette Type | 1 (least-significant bit/right-most bit) | The type of this palette (0 = Persistence, 1 = Runtime) |
-| <a id="bits-per-index"></a> Bits Per Index | 7 (remaining bits) | How many bits are used for each word. May be one of `1,2,3,4,5,6,8,16`. values `3,5,6` require 2 bits of padding on the most-significant/left-most side. |
+| Palette Type | 1| The type of this palette (0 = Persistence, 1 = Runtime). Stored in the least-significant bit/right-most bit. |
+| <a id="bits-per-index"></a> Bits Per Index | 7 | How many bits are used for each index into the palette.  Stored in the 7 most-significant/left-most bits. May be one of `1,2,3,4,5,6,8,16`. |
 
 #### If Palette Type is 0
 
 | Name | Size (in bytes) | Description |
 |------|-----------------|-------------|
-| Layer Indices | ceil(4096[\[1\]](#1) ÷ *Blocks Per Word[\[2\]](#2))* × 4 | Stored as *Blocks Per Word* indices, with each unsigned 32-bit integer containing multiple indices, each occupying ***Bits Per Index*** bits. The indices are packed and stored in YZX order (Y increments first). |
+| Layer Indices | ceil(4096[\[1\]](#1) ÷ *Indices Per Block[\[2\]](#2))* × 4 | Stored in blocks of 32 bits, with each block containing *Indices Per Block* indices, each occupying ***Bits Per Index*** bits. If ***Bits Per Index*** is `3`, `5` or `6`, then 2 bits of padding are on the most-significant/left-most side of each block, with indices packed into the remaining 30 bits. The indices are packed and stored in YZX order (Y increments first). |
 | NBT Palette Compound Count | 4 | The number of NBT compounds to parse |
 | NBT Palette Compounds | Variable | Multiple NBT compounds of individual blocks of the palette used in this subchunk |
 
@@ -38,7 +38,7 @@ Now loop the next section `Block Layer Count` times until you have parsed all bl
 
 | Name | Size (in bytes) | Description |
 |------|-----------------|-------------|
-| Layer Indices | ceil(4096[\[1\]](#1) ÷ *Blocks Per Word[\[2\]](#2))* × 4 | Stored as *Blocks Per Word* indices, with each unsigned 32-bit integer containing multiple indices, each occupying ***Bits Per Index*** bits. The indices are packed and stored in YZX order (Y increments first). |
+| Layer Indices | ceil(4096[\[1\]](#1) ÷ *Indices Per Block[\[2\]](#2))* × 4 | Stored in blocks of 32 bits, with each block containing *Indices Per Block* indices, each occupying ***Bits Per Index*** bits. If ***Bits Per Index*** is `3`, `5` or `6`, then 2 bits of padding are on the most-significant/left-most side of each block, with indices packed into the remaining 30 bits. The indices are packed and stored in YZX order (Y increments first). |
 | NBT Palette Compound Count | 1 Signed VarInt ([ZigZag](https://gist.github.com/mfuerstenau/ba870a29e16536fdbaba)) | The number of NBT compounds to parse |
 | NBT Palette Compounds | Variable | Multiple NBT compounds of individual blocks of the palette used in this subchunk |
 
@@ -57,4 +57,4 @@ Now loop the next section `Block Layer Count` times until you have parsed all bl
 
 ## Notes
 1. <a id="1"></a> In some languages you may need to write this as `4096.0` instead of just `4096` for the correct output.
-2. <a id="2"></a> Blocks Per Word = floor(32 ÷ [Bits Per Index](#bits-per-index))
+2. <a id="2"></a> Indices Per Block = floor(32 ÷ [Bits Per Index](#bits-per-index))
