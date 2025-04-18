@@ -23,8 +23,8 @@ Now loop the next section `Block Layer Count` times until you have parsed all bl
 
 | Name | Size (in bits) | Description |
 |------|----------------|-------------|
-| Palette Type | 1| The type of this palette (0 = Persistence, 1 = Runtime). Stored in the least-significant bit/right-most bit. |
-| <a id="bits-per-index"></a> Bits Per Index | 7 | How many bits are used for each index into the palette.  Stored in the 7 most-significant/left-most bits. May be one of `1,2,3,4,5,6,8,16`. |
+| Palette Type | 1| The type of this palette (0 = Persistence, 1 = Runtime). Stored in the least-significant/right-most bit. |
+| <a id="bits-per-index"></a> Bits Per Index | 7 | How many bits are used for each index into the palette. Stored in the 7 most-significant/left-most bits. May be one of `1,2,3,4,5,6,8,16`. |
 
 #### If Palette Type is 0
 

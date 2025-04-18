@@ -14,7 +14,7 @@ Loop next section `24` times until you have parsed all subchunks biome palettes.
 
 | Name | Size (in bits) | Description |
 |------|----------------|-------------|
-| Palette Version | 1 | Seems to always be 1. Stored in the least-significant bit/right-most bit. |
+| Palette Version | 1 | Seems to always be 1. Stored in the least-significant/right-most bit. |
 | <a id="bits-per-index"></a> Bits Per Index | 7 | How many bits are used for each index into the palette. Stored in the 7 most-significant/left-most bits. May be one of `0,1,2,3,4,5,6,8,16,127`. If 127 (null section) skip to reading the next `palette version`/`bits per index`. If 0 skip to reading a single ***Biome ID***. |
 
 ### If Version is 1
