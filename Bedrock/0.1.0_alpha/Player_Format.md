@@ -25,7 +25,7 @@ level.dat is stored in **Little Endian** byte order.
 | Motion Z | 4 | The players motion in the Z direction. |
 | Pitch | 4 | The players looking pitch. |
 | Yaw | 4 | The players looking yaw. |
-| Unknown | 4 | Maybe an unused Roll value[\[needs testing\]]() |
+| Unknown | 4 | |
 | Fire | 2 | The number of ticks until the fire is put out. Negative values reflect how long the player can stand in fire before burning. Default -20. |
 | Air | 2 | How much air the player has, in ticks. Fills to a maximum of 300 in air. Decreases while underwater. |
 | Unknown | 4 | |
