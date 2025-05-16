@@ -23,13 +23,13 @@
 | Name | Size (in bytes) | Description |
 |------|-----------------|-------------|
 | Language Code | Variable | UTF8 string of length which is provided by the prefixed UShort. Contains the ISO 639-1 code for the language. |
-| ID | 0x04 | ID of the language |
+| ID | 0x04 (uint) | ID of the language |
 
 ### Language Table
 | Name | Size (in bytes) | Description |
 |------|-----------------|-------------|
-| Unknown | 0x04 | If this is greater than 0x00, read the next (also unknown) byte |
+| Unknown | 0x04 (uint) | If this is greater than 0x00, read the next (also unknown) byte |
 | Unknown | 0x01 | |
 | Language Code | Variable | UTF8 string of length which is provided by the prefixed UShort. Contains the ISO 639-1 code for the language. | 
-| Strings Count | 0x04 | Count of all of the strings for this language |
+| Strings Count | 0x04 (uint) | Count of all of the strings for this language |
 | Strings | Variable * Strings Count | UTF8 strings of length which is provided by the prefixed UShort. One for every string. |
