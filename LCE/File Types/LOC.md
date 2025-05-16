@@ -1,25 +1,23 @@
-# LOC
+# LOC File
 
 > [!NOTE]
 > LOC is always Big Endian regardless of console.
 
-LOC files can use both numerical IDs and strings.
-
 ### LOC structure
 | Name | Size (in bytes) | Description |
 |------|-----------------|-------------|
-| Version | 0x04 | Version of the LOC file | 
-| Language Count | 0x04 | Amount of languages. | 
-| [Key Table](#key-table) | Variable | Only exists if version is 0x02 |
-| [Language List](#language-list) | Variable | Table of all the languages |
-| [Languages Table](#string-table) | Variable | Contains the actual language data, one for every language | 
+| Version | 0x04 (uint) | Version of the LOC file | 
+| Language Count | 0x04 (uint) | Amount of languages. | 
+| [Key Table](./LOC.md/#key-table) | 0x05 + (0x04 (uint) * Key Count)  | Only exists if version is 0x02 |
+| [Language List](./LOC.md/#language-list) | Variable * Language Count | Table of all the languages |
+| [Languages Table](./LOC.md/#string-table) | Variable * Language Count | Contains the actual language data | 
 
 ### Key Table
 | Name | Size (in bytes) | Description |
 |------|-----------------|-------------|
 | Use Unique IDs | 0x01 | Sets if the LOC uses the Unique IDs | 
-| Key Count | 0x04 | Amount of keys | 
-| Keys | Variable | UInt32 array consisting of the ID for each key |
+| Key Count | 0x04 (uint) | Amount of keys | 
+| Keys | Variable | uint array consisting of the ID for each key |
 
 ### Language List
 | Name | Size (in bytes) | Description |
@@ -32,6 +30,6 @@ LOC files can use both numerical IDs and strings.
 |------|-----------------|-------------|
 | Unknown | 0x04 | If this is greater than 0x00, read the next (also unknown) byte |
 | Unknown | 0x01 | |
-| Language code | Variable | UTF8 string of length which is provided by the prefixed UShort. Contains the ISO 639-1 code for the language. | 
-| Strings count | 0x04 | Count of all of the strings for this language |
-| Strings | Variable | UTF8 strings of length which is provided by the prefixed UShort. One for every string. |
+| Language Code | Variable | UTF8 string of length which is provided by the prefixed UShort. Contains the ISO 639-1 code for the language. | 
+| Strings Count | 0x04 | Count of all of the strings for this language |
+| Strings | Variable * Strings Count | UTF8 strings of length which is provided by the prefixed UShort. One for every string. |
