@@ -8,9 +8,9 @@
 |------|-----------------|-------------|
 | Version | 0x04 (uint) | Version of the LOC file | 
 | Language Count | 0x04 (uint) | Amount of languages. | 
-| [Key Table](./LOC.md/#key-table) | 0x05 + (0x04 (uint) * Key Count)  | Only exists if version is 0x02 |
-| [Language List](./LOC.md/#language-list) | Variable * Language Count | Table of all the languages |
-| [Languages Table](./LOC.md/#string-table) | Variable * Language Count | Contains the actual language data | 
+| [Key Table](./LOC.md#Key-Table) | 0x05 + (0x04 (uint) * Key Count)  | Only exists if version is 0x02 |
+| [Language List](./LOC.md#Language-list) | Variable * Language Count | Table of all the languages |
+| [Languages Table](./LOC.md#String-Table) | Variable * Language Count | Contains the actual language data | 
 
 ### Key Table
 | Name | Size (in bytes) | Description |
