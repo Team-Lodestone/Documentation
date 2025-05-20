@@ -20,6 +20,9 @@
 | Keys | Variable | uint array consisting of the ID for each key |
 
 ### Language List
+> [!NOTE]
+> In the game, this is implemented as: `std::unordered_map<uint32_t, std::string>`
+
 | Name | Size (in bytes) | Description |
 |------|-----------------|-------------|
 | Language Code | Variable | UTF8 string of length which is provided by the prefixed UShort. Contains the ISO 639-1 code for the language. |
