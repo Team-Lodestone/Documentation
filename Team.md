@@ -21,9 +21,10 @@ description: "The people behind Project Lodestone"
 
 ### Development (INCOMPLETE)
 
-|                                       PFP                                       | Name                                                | Notes                                |
-|:-------------------------------------------------------------------------------:|-----------------------------------------------------|--------------------------------------|
-| ![DexrnZacAttack](https://avatars.githubusercontent.com/DexrnZacAttack?size=64) | [DexrnZacAttack](https://github.com/DexrnZacAttack) | App, Main site, libLCE, 3DS research |
+|                                       PFP                                       | Name                                                | Notes                                              |
+|:-------------------------------------------------------------------------------:|-----------------------------------------------------|----------------------------------------------------|
+| ![DexrnZacAttack](https://avatars.githubusercontent.com/DexrnZacAttack?size=64) | [DexrnZacAttack](https://github.com/DexrnZacAttack) | App, Main site, libLCE, 3DS research, libLodestone |
+| ![Zero_DSRS_VX](https://avatars.githubusercontent.com/PhoenixVX?size=64)        | [Zero_DSRS_VX](https://github.com/PhoenixVX)        | libLCE, libLodestone                               |
 
 ### Documentation
 
@@ -97,7 +98,6 @@ People who aren't on the main team (or are, but inactive) but have helped out in
 |      ![TheRouLetteBoi](https://avatars.githubusercontent.com/TheRouLetteBoi?size=64)      | [TheRouLetteBoi](https://github.com/TheRouLetteBoi)           |
 |          ![rebrainer](https://avatars.githubusercontent.com/rebrainertv?size=64)          | [rebrainer](https://github.com/rebrainertv)                   |
 |                                                                                           | [marko00805](https://github.com/marko00805)                   |
-|         ![Zero_DSRS_VX](https://avatars.githubusercontent.com/PhoenixVX?size=64)          | [Zero_DSRS_VX](https://github.com/PhoenixVX)                  |
 |            ![David-xF](https://avatars.githubusercontent.com/David-xF?size=64)            | [David-xF](https://github.com/David-xF)                       |
 |             ![MattNL](https://avatars.githubusercontent.com/MattN-L?size=64)              | [MattNL](https://github.com/MattN-L)                          |
 |          ![PhoenixARC](https://avatars.githubusercontent.com/PhoenixARC?size=64)          | [PhoenixARC](https://github.com/PhoenixARC)                   |
