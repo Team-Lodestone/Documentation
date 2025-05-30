@@ -21,10 +21,11 @@ description: "The people behind Project Lodestone"
 
 ### Development (INCOMPLETE)
 
-|                                       PFP                                       | Name                                                | Notes                                              |
-|:-------------------------------------------------------------------------------:|-----------------------------------------------------|----------------------------------------------------|
-| ![DexrnZacAttack](https://avatars.githubusercontent.com/DexrnZacAttack?size=64) | [DexrnZacAttack](https://github.com/DexrnZacAttack) | App, Main site, libLCE, 3DS research, libLodestone |
-| ![Zero_DSRS_VX](https://avatars.githubusercontent.com/PhoenixVX?size=64)        | [Zero_DSRS_VX](https://github.com/PhoenixVX)        | libLCE, libLodestone                               |
+|                                       PFP                                                         | Name                                                | Notes                                              |
+|:-------------------------------------------------------------------------------------------------:|-----------------------------------------------------|----------------------------------------------------|
+| ![DexrnZacAttack](https://avatars.githubusercontent.com/DexrnZacAttack?size=64)                   | [DexrnZacAttack](https://github.com/DexrnZacAttack) | App, Main site, libLCE, 3DS research, libLodestone |
+| ![Zero_DSRS_VX](https://avatars.githubusercontent.com/PhoenixVX?size=64)                          | [Zero_DSRS_VX](https://github.com/PhoenixVX)        | libLCE, libLodestone                               |
+| <img src="https://avatars.githubusercontent.com/robofinch?size=64" width="64" height="64">        | [robofinch](https://github.com/robofinch)           | libLodestone                                       |
 
 ### Documentation
 
