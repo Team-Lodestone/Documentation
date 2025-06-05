@@ -4,17 +4,19 @@
 
 Entity Chunk data is stored in **Big Endian** byte order.
 
-## Entity Chunk NBT Data
+## NBT structure
 
-| Tag Name | Tag Type | Description |
-|----------|----------|-------------|
-| DataVersion | IntTag | Version of the chunk NBT structure. |
-| [Entities](#entities-data) | ListTag of CompoundTags | Each CompoundTag is an entity. |
-| Position | IntArrayTag | The chunks X, Z coordinates. Index 0 = X, Index 1 = Z. |
+<div id="treeview">
 
-### Entities Data
+* The root tag. {.nbt .compound}
+    * **DataVersion**: Version of the chunk NBT structure. {.nbt .int}
+    * **Position**: The chunks X, Z coordinates. Index 0 = X, Index 1 = Z. {.nbt .intArray}
+        * X coordinate. {.nbt .int}
+        * Z coordinate. {.nbt .int}
+    * **Entities**: ListTag of CompoundTags | Each CompoundTag is an entity. {.nbt .list}
+        * An entity. See [Entity format](https://minecraft.wiki/w/Entity_format#Entity_format) for details. {.nbt .compound}
 
-An entity. See the [Minecraft Wiki page](https://minecraft.wiki/w/Entity_format#Entity_format) for details.
+</div>
 
 ## License & Credits
 

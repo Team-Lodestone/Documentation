@@ -17,17 +17,13 @@ entities.dat is stored in **Little Endian** byte order.
 
 ### Part 2 (Getting Entities and TileEntities Data)
 
-***Entities***
+<div id="treeview">
 
-| Tag Name | Tag Type | Description |
-|------|----------|-------------|
-| Entities | ListTag of CompoundTags | List of all the entities in the world. Each CompoundTag is an Entity. |
+* The root tag {.nbt .compound}
+    * **Entities**: List of all the entities in the world. Each CompoundTag is an Entity. {.nbt .list}
+    * **TileEntities**: List of all the tile entities in the world. Each CompoundTag is a Tile Entity. {.nbt .list}
 
-***TileEntites***
-
-| Tag Name | Tag Type | Description |
-|------|----------|-------------|
-| TileEntities | ListTag of CompoundTags | List of all the tile entities in the world. Each CompoundTag is a Tile Entity. |
+</div>
 
 ## License & Credits
 

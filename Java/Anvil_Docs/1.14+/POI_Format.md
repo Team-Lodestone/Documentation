@@ -4,33 +4,25 @@
 
 Point of Interest data is stored in **Big Endian** byte order.
 
-## POI NBT Data
+## NBT structure
 
-| Tag Name | Tag Type | Description |
-|----------|----------|-------------|
-| DataVersion | IntTag | Version of the POI NBT structure. |
-| Sections | CompoundTag | Each CompoundTag is a section of a chunk holding POI data for that section. |
+<div id="treeview">
 
-***Sections Data***
+* The root tag. {.nbt .compound}
+    * **DataVersion**: Version of the POI NBT structure. {.nbt .int}
+    * **Sections**: Each CompoundTag is a section of a chunk holding POI data for that section. {.nbt .compound}
+        * \<section\>[\[1\]](#1): Contains POI data for this section. {.nbt .compound}
+            * **Vaild**: 1 or 0 (true/false) - Most often true. If the value is false, the entries in `Records` are removed and the value is set back to true when the chunk is loaded the next time. {.nbt .byte}
+            * **Records**: Each CompoundTag is a point of interest block. {.nbt .list}
+                * A point of intrest block. {.nbt .compound}
+                    * **type**: Defines what type of POI this is. It is always one of the following: `minecraft:armorer`, `minecraft:bee_nest` (1.15+ Only), `minecraft:beehive` (1.15+ Only), `minecraft:butcher`, `minecraft:cartographer`, `minecraft:cleric`, `minecraft:farmer`, `minecraft:fisherman`, `minecraft:fletcher`, `minecraft:home`, `minecraft:leatherworker`, `minecraft:librarian`, `minecraft:lightning_rod` (1.17+ Only), `minecraft:lodestone` (1.16+ Only), `minecraft:mason`, `minecraft:meeting`, `minecraft:nether_portal` (1.15+ Only), `minecraft:shepherd`, `minecraft:toolsmith`, `minecraft:weaponsmith`. {.nbt .string}
+                * **free_tickets**: The number of villagers that can claim this POI block. Value decreases by 1 for each villager that claims the POI block. {.nbt .int}
+                * **pos**: The POIs position in the world. {.nbt .intArray}
+                    * X coordinate. {.nbt .int}
+                    * Y coordinate. {.nbt .int}
+                    * Z coordinate. {.nbt .int}
 
-| Tag Name | Tag Type | Description |
-|----------|----------|-------------|
-| *section Y*[\[1\]](#1) | CompoundTag | Contains POI data for this section. |
-
-***section Y Data***
-
-| Tag Name | Tag Type | Description |
-|----------|----------|-------------|
-| [Records](#records-data) | ListTag of CompoundTags | Each CompoundTag is a point of interest block. |
-| Vaild | ByteTag | Unknown, seems to always be a value of 1. |
-
-### Records Data
-
-| Tag Name | Tag Type | Description |
-|----------|----------|-------------|
-| free_tickets | IntTag | The number of villagers that can claim this POI block. Value decreases by 1 for each villager that claims the POI block. |
-| pos | IntArrayTag | The POIs position in the world. |
-| type | StringTag | Defines what type of POI this is. It is always one of the following: `minecraft:armorer`, `minecraft:bee_nest` (1.15+ Only), `minecraft:beehive` (1.15+ Only), `minecraft:butcher`, `minecraft:cartographer`, `minecraft:cleric`, `minecraft:farmer`, `minecraft:fisherman`, `minecraft:fletcher`, `minecraft:home`, `minecraft:leatherworker`, `minecraft:librarian`, `minecraft:lightning_rod` (1.17+ Only), `minecraft:lodestone` (1.16+ Only), `minecraft:mason`, `minecraft:meeting`, `minecraft:nether_portal` (1.15+ Only), `minecraft:shepherd`, `minecraft:toolsmith`, `minecraft:weaponsmith`. |
+</div>
 
 ## Notes
 

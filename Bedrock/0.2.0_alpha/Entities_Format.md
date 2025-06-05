@@ -13,15 +13,16 @@ entities.dat is stored in **Little Endian** byte order.
 | Magic | 4 | The magic number used to identify the entities file. Always `0x454E5400` or `ENT`. |
 | Version | 4 | The version of the entities format. Always 1. |
 | NBT Compound Size | 4 | The length of the NBT compound in bytes. |
-| NBT Compound | Variable | The NBT Compound holding the entities. |
+| NBT Compound | Variable | The NBT compound holding the entities. |
 
 ### Part 2 (Getting Entities Data)
 
-***Entities***
+<div id="treeview">
 
-| Tag Name | Tag Type | Description |
-|------|----------|-------------|
-| Entities | ListTag of CompoundTags | List of all the entities in the world. Each CompoundTag is an Entity. |
+* The root tag {.nbt .compound}
+    * **Entities**: List of all the entities in the world. Each CompoundTag is an Entity. {.nbt .list}
+
+</div>
 
 ## License & Credits
 
