@@ -4,7 +4,7 @@
 
 The level format is stored in **Big Endian** byte order.
 
-## MinecraftLevel (Root) Data
+## NBT structure
 
 <div id="treeview">
 
