@@ -25,16 +25,13 @@ level.dat is stored in **Little Endian** byte order.
     * **Platform**: Seems to store the platform that the level is created on. Currently observed value is 2. {.nbt .int}
     * **Player**: Player entity information. {.nbt .compound}
         * **Air**: The number of ticks before the player starts to drown. Defaults to 300 and decresses when underwater. {.nbt .short}
-        * **Armor**: Each CompoundTag in this list defines a piece of armor that the player is wearing. This is a list with length 4 - for helmet, chestplate, leggings, and boots. {.nbt .list}
-            * **id**: Item or Block ID. {.nbt .short}
-            * **Damage**: For armor, the amount of wear they have suffered. The maximum durability of the armor means undamaged. When the Damage reaches 0, it breaks and disappears. {.nbt .short}
-            * **Count**: Number of items stacked in this inventory slot. Any item can be stacked, including tools. Range is 1-255. Values above 255 are not displayed in-game. {.nbt .byte}
         * **AttackTime**: Number of ticks the player is immune to attacks for. {.nbt .short}
         * **BedPositionX**: The X position of the bed the player last slept in. {.nbt .int}
         * **BedPositionY**: The Y position of the bed the player last slept in. {.nbt .int}
         * **BedPositionZ**: The Z position of the bed the player last slept in. {.nbt .int}
         * **DeathTime**: Number of ticks the player has been dead for. (used for death animation) {.nbt .short}
         * **Dimension**: The dimension the player is in. 0 is the Overworld. {.nbt .int}
+        * **FallDistance**: How far the player has fallen. {.nbt .float}
         * **Fire**: The number of ticks until the fire is put out. Negative values reflect how long the player can stand in fire before burning. Default -20. {.nbt .short}
         * **Health**: The number of hit points the player has. 20 is 10 hearts. {.nbt .short}
         * **HurtTime**: Number of ticks the player is red from being attacked. {.nbt .short}
