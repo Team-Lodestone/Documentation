@@ -1,1 +1,1 @@
-./Bedrock/0.3.2_alpha/Entities_Format.md
+../Bedrock/0.3.2_alpha/Entities_Format.md

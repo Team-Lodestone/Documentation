@@ -1,1 +1,1 @@
-./Bedrock/0.6.0_alpha/Level_Format.md
+../Bedrock/0.6.0_alpha/Level_Format.md
