@@ -43,7 +43,7 @@ export default withPwa(defineConfig({
       { text: 'Java', link: '/Java/' },
       { text: 'Bedrock', link: '/Bedrock/' },
       { text: '3DS', link: '/3DS/' },
-      { text: 'Pi', link: '/Pi/Pi-Edition-Docs' },
+      { text: 'Pi', link: '/Pi/' },
       { text: 'Info', link: '/readme' },
       { text: 'Team', link: '/Team' },
     ],
