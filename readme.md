@@ -72,17 +72,21 @@ We're continuously working on new features and improvements. Here's an outline o
   - [ ] Support all editions/versions
     - [ ] Java Edition
       - [ ] Classic/Pre-Classic
-        - [ ] rd-132211 - c0.0.12a_03
+        - [X] rd-132211 - c0.0.12a_03
+          - NOTE: Not yet available in the App.
         - [X] c0.0.13a - c0.0.13a_03
           - NOTE: Not yet available in the App. 
         - [ ] c0.0.14a - c0.30
       - [X] Indev <!-- figure out which versions can be saved locally (using BetaCraft) -->
-        - NOTE: Not yet available in the App.  
+        - NOTE: Not yet available in the App.
       - [ ] Infdev 624
-      - [ ] Alpha Save Format (Infdev 327 - Beta 1.2_02) 
+      - [X] Alpha Save Format (Infdev 327 - Beta 1.2_02)
+        - NOTE: Not yet available in the App.
       - [X] McRegion (Beta 1.3 - Release 1.1)
-        - NOTE: Cannot write MCR, also not yet available in the App. 
-      - [ ] Anvil (Release 1.2 - Present)
+        - NOTE: Not yet available in the App. 
+      - [X] Anvil (Release 1.2 - 1.13)
+        - NOTE: Not yet available in the App.
+      - [ ] Anvil (Release 1.13 - present)
     - [ ] Bedrock Edition
     - [ ] Legacy Console Edition
       - [ ] Support all chunk versions
