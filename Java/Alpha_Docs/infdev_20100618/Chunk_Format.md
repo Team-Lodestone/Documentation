@@ -145,6 +145,25 @@ The chunk format is stored in **Big Endian** byte order.
 
 </div>
 
+### Mob
+
+<div id="treeview">
+
+* An entity. {.nbt .compound}
+    * **id**: The id of this entity. In this case `Mob` {.nbt .string}
+    * **Pos**: List of 3 DoubleTags for the X, Y, and Z position of this entity. {.nbt .list}
+    * **Rotation**: List of 2 FloatTags for the yaw and pitch of this entity's view. {.nbt .list}
+    * **Motion**: List of 3 DoubleTags for the X, Y, and Z motion in meters per tick. {.nbt .list}
+    * **FallDistance**: How far this entity has fallen. {.nbt .float}
+    * **Health**: The number of hit points this entity has. 20 is 10 hearts. {.nbt .short}
+    * **AttackTime**: Number of ticks this entity is immune to attacks. {.nbt .short}
+    * **HurtTime**: Number of ticks this entity is red from being attacked. {.nbt .short}
+    * **DeathTime**: Number of ticks this entity has been dead for - used for controlling the death animation. {.nbt .short}
+    * **Air**: The number of ticks before this entity starts to drown. Starts at 300. {.nbt .short}
+    * **Fire**: When negative, the number of ticks before this entity can catch on fire. When positive, the number of ticks before the fire is extinguished. {.nbt .short}
+
+</div>
+
 ### Monster
 
 <div id="treeview">
