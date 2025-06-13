@@ -26,13 +26,13 @@ The chunk format is stored in **Big Endian** byte order.
                 * **y**: The Y position of this tile entity. {.nbt .int}
                 * **z**: The Z position of this tile entity. {.nbt .int}
                 * **Items**: List of CompoundTags, one for each item stack in the container.[\[5\]](#5) {.nbt .list}
-                * ***Additional Tags***: See [below](#tile-entities-addition-tags) for additional tags. {.nbt .blank}
+                * ***Additional Tags***: See [below](#additional-tile-entity-tags) for additional tags. {.nbt .blank}
 
 </div>
 
-## Tile Entities Addition Tags
+## Additional Tile Entity Tags
 
-**Furnace**
+### Furnace
 
 * A tile entity. {.nbt .compound}
     * **BurnTime**: Number of ticks left before the current fuel run out. {.nbt .short}
