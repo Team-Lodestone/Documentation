@@ -27,6 +27,24 @@ The chunk format is stored in **Big Endian** byte order.
 
 ## Tile Entity Format
 
+### Chest
+
+<div id="treeview">
+
+* A tile entity. {.nbt .compound}
+    * **id**: The id of this tile entity. In this case `Chest` {.nbt .string}
+    * **x**: The X position of this tile entity. {.nbt .int}
+    * **y**: The Y position of this tile entity. {.nbt .int}
+    * **z**: The Z position of this tile entity. {.nbt .int}
+    * **Items**: List of CompoundTags, one for each item stack in the container. {.nbt .list}
+        * A item stack. {.nbt .compound}
+            * **Slot**: The slot the item is in. {.nbt .byte}
+            * **id**: The item ID. {.nbt .short}
+            * **Damage**: The item's data value, or damage value for tools. {.nbt .short}
+            * **Count**: The number of this item in the stack. Range -128 - 127. Values less then 2 are not displayed in-game. {.nbt .byte}
+
+</div>
+
 ### Furnace
 
 <div id="treeview">
