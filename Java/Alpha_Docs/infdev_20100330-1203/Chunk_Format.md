@@ -40,9 +40,13 @@ The chunk format is stored in **Big Endian** byte order.
 
 ### Furnace
 
+<div id="treeview">
+
 * A tile entity. {.nbt .compound}
     * **BurnTime**: Number of ticks left before the current fuel run out. {.nbt .short}
     * **CookTime**: Number of ticks the item has been smelting for. The item finishes smelting when this value reaches 200 (10 seconds). It is reset to 0 if *BurnTime* reaches 0. {.nbt .short}
+
+</div>
 
 ## Notes
 

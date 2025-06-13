@@ -56,6 +56,8 @@ The chunk format is stored in **Big Endian** byte order.
 > [!NOTE]
 > Arrows don't have the `AttackTime`, `HurtTime`, `Health`, and `DeathTime` tags.
 
+<div id="treeview">
+
 * An entity. {.nbt .compound}
     * **inGround**: {.nbt .byte}
     * **inTile**: {.nbt .byte}
@@ -64,10 +66,14 @@ The chunk format is stored in **Big Endian** byte order.
     * **yTile**: {.nbt .short}
     * **zTile**: {.nbt .short}
 
+</div>
+
 ### Item
 
 > [!NOTE]
 > Items don't have the `AttackTime`, `HurtTime`, and `DeathTime` tags.
+
+<div id="treeview">
 
 * An entity. {.nbt .compound}
     * **Age**: {.nbt .short}
@@ -76,18 +82,28 @@ The chunk format is stored in **Big Endian** byte order.
         * **Damage**: {.nbt .short}
         * **Count**: {.nbt .byte}
 
+</div>
+
 ### Sheep
+
+<div id="treeview">
 
 * An entity. {.nbt .compound}
     * **Sheared**: {.nbt .byte}
+
+</div>
 
 ## Additional Tile Entity Tags
 
 ### Furnace
 
+<div id="treeview">
+
 * A tile entity. {.nbt .compound}
     * **BurnTime**: Number of ticks left before the current fuel run out. {.nbt .short}
     * **CookTime**: Number of ticks the item has been smelting for. The item finishes smelting when this value reaches 200 (10 seconds). It is reset to 0 if *BurnTime* reaches 0. {.nbt .short}
+
+</div>
 
 ## Notes
 
