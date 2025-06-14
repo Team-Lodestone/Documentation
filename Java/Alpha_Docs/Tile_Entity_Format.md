@@ -18,6 +18,26 @@
 
 </div>
 
+### Dispenser
+
+Added in `Beta 1.2`
+
+<div id="treeview">
+
+* A tile entity. {.nbt .compound}
+    * **id**: The id of this tile entity. In this case `Trap` {.nbt .string}
+    * **x**: The X position of this tile entity. {.nbt .int}
+    * **y**: The Y position of this tile entity. {.nbt .int}
+    * **z**: The Z position of this tile entity. {.nbt .int}
+    * **Items**: List of CompoundTags, one for each item stack in the container.[\[1\]](#1) {.nbt .list}
+        * A item stack. {.nbt .compound}
+            * **Slot**: The slot the item is in. {.nbt .byte}
+            * **id**: The item ID. {.nbt .short}
+            * **Damage**: The item's data value, or damage value for tools. {.nbt .short}
+            * **Count**: The number of this item in the stack. Range -128 - 127. Values less then 2 are not displayed in-game. {.nbt .byte}
+
+</div>
+
 ### Furnace
 
 <div id="treeview">
@@ -51,6 +71,21 @@ Added in `Infdev 20100625-1917`
     * **z**: The Z position of this tile entity. {.nbt .int}
     * **EntityId**: The id of the entity this spawner spawns. {.nbt .string}
     * **Delay**: Number of ticks until the next spawn. If 0, it spawns immediately when a player enters its range. Has a random value set after spawning. {.nbt .short}
+
+</div>
+
+### Noteblock
+
+Added in `Beta 1.2`
+
+<div id="treeview">
+
+* A tile entity. {.nbt .compound}
+    * **id**: The id of this tile entity. In this case `Music` {.nbt .string}
+    * **x**: The X position of this tile entity. {.nbt .int}
+    * **y**: The Y position of this tile entity. {.nbt .int}
+    * **z**: The Z position of this tile entity. {.nbt .int}
+    * **note**: The pitch of the note block. {.nbt .byte}
 
 </div>
 
