@@ -29,7 +29,7 @@ Added in `Beta 1.2`
     * **x**: The X position of this tile entity. {.nbt .int}
     * **y**: The Y position of this tile entity. {.nbt .int}
     * **z**: The Z position of this tile entity. {.nbt .int}
-    * **Items**: List of CompoundTags, one for each item stack in the container.[\[1\]](#1) {.nbt .list}
+    * **Items**: List of CompoundTags, one for each item stack in the container. {.nbt .list}
         * A item stack. {.nbt .compound}
             * **Slot**: The slot the item is in. {.nbt .byte}
             * **id**: The item ID. {.nbt .short}
