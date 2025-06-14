@@ -339,7 +339,7 @@ Removed in `Beta 1.2`
     * **Air**: The number of ticks before this entity starts to drown. Starts at 300. {.nbt .short}
     * **Fire**: When negative, the number of ticks before this entity can catch on fire. When positive, the number of ticks before the fire is extinguished. {.nbt .short}
     * **Sheared**: 1 or 0 (true/false) - true if the sheep has been shorn. {.nbt .byte}
-    * **Color**: The color of the sheep, values are 0 to 15 - 0 is white, 1 is orange, 2 is magenta, 3 is light blue, 4 is yellow, 5 is lime, 6 is pink, 7 is gray, 8 is light gray, 9 is cyan, 10 is purple, 11 is blue, 12 is brown, 13 is green, 14 is red, and 15 is black. ***Added in Beta 1.2***. {.nbt .byte}
+    * **Color**: The color of the sheep, values are 0 to 15 - 0 is white, 1 is orange, 2 is magenta, 3 is light blue, 4 is yellow, 5 is lime, 6 is pink, 7 is gray, 8 is light gray, 9 is cyan, 10 is purple, 11 is blue, 12 is brown, 13 is green, 14 is red, and 15 is black. *Added in Beta 1.2*. {.nbt .byte}
 
 </div>
 
