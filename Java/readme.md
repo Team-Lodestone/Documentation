@@ -2,6 +2,7 @@
 Documentation about Minecraft: Java Edition related things.
 
 ### Table of contents
+* [Alpha](Alpha_Docs/)
 * [Anvil](Anvil_Docs/)
 * [Classic](Classic_Docs/)
 * [Indev](Indev_Docs/)
