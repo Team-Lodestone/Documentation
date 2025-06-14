@@ -317,7 +317,3 @@ Removed in `Beta 1.8`
     * **Fire**: When negative, the number of ticks before this entity can catch on fire. When positive, the number of ticks before the fire is extinguished. {.nbt .short}
 
 </div>
-
-## Notes
-
-1. <a id="1"></a> Entities in versions between `Infdev 20100327` and `Infdev 20100415` don't spawn due to a bug that causes the list to always be empty, without the use of external editors to hack in entities.
