@@ -22,6 +22,7 @@ export default withPwa(defineConfig({
   description: 'Documentation for Project Lodestone and various file formats and mechanics for many versions and editions of Minecraft.',
   lastUpdated: true,
   outDir: "dist",
+  cleanUrls: true,
   base: "/Documentation/",
   sitemap: {
     hostname: 'https://team-lodestone.github.io/Documentation/'
