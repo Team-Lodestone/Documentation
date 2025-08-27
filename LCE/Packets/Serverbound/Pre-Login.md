@@ -7,11 +7,13 @@
 | Estimated Size |             |
 | Direction      | Serverbound |
 
-### Structure
-| Name             | Type/Size      | Notes            |
-|------------------|----------------|------------------|
-| Protocol Version | short (0x02)   | Set to 0 in ctor |                  |
-| Player Name      | UTF (0x20 max) |                  |
+## IO
+
+### Read as
+| Name             | Type/Size      | Notes |
+|------------------|----------------|-------|
+| Protocol Version | short (0x02)   |       |
+| Player Name      | UTF (0x20 max) |       |
 
 ### Written as
 | Name             | Type/Size    | Notes                                                         |
@@ -21,7 +23,7 @@
 
 ## Class Structure
 
-| Name             | Type         | Notes                |
-|------------------|--------------|----------------------|
-| Protocol Version | short        |                      |
-| Name             | std::wstring | probably player name | 
+| Name             | Type         | Notes                                               |
+|------------------|--------------|-----------------------------------------------------|
+| Protocol Version | short        | Set to 0 in ctor, with a constant used when writing |
+| Name             | std::wstring | probably player name                                | 
