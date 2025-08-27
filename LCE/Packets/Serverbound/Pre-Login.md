@@ -8,14 +8,13 @@
 | Direction      | Serverbound |
 
 ### Structure
-| Name        | Type/Size                            | Notes            |
-|-------------|--------------------------------------|------------------|
-| Unknown     | short (0x02)                         | Set to 0 in ctor |
-| Padding     | 0x06                                 |                  |
-| Player Name | std::wstring                         |                  |
+| Name             | Type/Size      | Notes            |
+|------------------|----------------|------------------|
+| Protocol Version | short (0x02)   | Set to 0 in ctor |                  |
+| Player Name      | UTF (0x20 max) |                  |
 
 ### Written as
-| Name        | Type/Size    | Notes                                                                                 |
-|-------------|--------------|---------------------------------------------------------------------------------------|
-| Unknown     | Short (0x02) | Apparently always 0 (unconfirmed). This can maybe be used for custom clients... hmmm. |
-| Player Name | UTF          |                                                                                       |
+| Name             | Type/Size    | Notes                                                         |
+|------------------|--------------|---------------------------------------------------------------|
+| Protocol Version | Short (0x02) | Always the client's protocol version (e.g 1920 for NX latest) |
+| Player Name      | UTF          |                                                               |

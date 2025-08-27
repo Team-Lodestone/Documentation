@@ -33,7 +33,7 @@ export default {
           img.style.margin = "0 3px 0 0";
           e.insertBefore(img, e.firstChild);
       }
-    };
+    }
 
     onMounted(() => {
       insertNBTIcons();

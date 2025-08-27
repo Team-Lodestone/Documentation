@@ -21,11 +21,11 @@ description: "The people behind Project Lodestone"
 
 ### Development (INCOMPLETE)
 
-|                                       PFP                                                         | Name                                                | Notes                                              |
+|                                                PFP                                                | Name                                                | Notes                                              |
 |:-------------------------------------------------------------------------------------------------:|-----------------------------------------------------|----------------------------------------------------|
-| ![DexrnZacAttack](https://avatars.githubusercontent.com/DexrnZacAttack?size=64)                   | [DexrnZacAttack](https://github.com/DexrnZacAttack) | App, Main site, libLCE, 3DS research, libLodestone |
-| ![Zero_DSRS_VX](https://avatars.githubusercontent.com/PhoenixVX?size=64)                          | [Zero_DSRS_VX](https://github.com/PhoenixVX)        | libLCE, libLodestone                               |
-| <img src="https://avatars.githubusercontent.com/robofinch?size=64" width="64" height="64">        | [robofinch](https://github.com/robofinch)           | libLodestone                                       |
+|          ![DexrnZacAttack](https://avatars.githubusercontent.com/DexrnZacAttack?size=64)          | [DexrnZacAttack](https://github.com/DexrnZacAttack) | App, Main site, libLCE, 3DS research, libLodestone |
+|             ![Zero_DSRS_VX](https://avatars.githubusercontent.com/PhoenixVX?size=64)              | [Zero_DSRS_VX](https://github.com/PhoenixVX)        | libLCE, libLodestone                               |
+|    <img src="https://avatars.githubusercontent.com/robofinch?size=64" width="64" height="64">     | [robofinch](https://github.com/robofinch)           | libLodestone                                       |
 
 ### Documentation
 
@@ -48,12 +48,12 @@ description: "The people behind Project Lodestone"
 
 ### Translations
 
-|                                       PFP                                       | Name                                              | Language                           |
-|:-------------------------------------------------------------------------------:|:--------------------------------------------------|------------------------------------|
-|      ![dTentione](https://avatars.githubusercontent.com/dTentione?size=64)      | [dTentione](https://github.com/dTentione)         | Arabic, Northern & Central Kurdish |
-|       ![Aiko](https://avatars.githubusercontent.com/AikoBorowski?size=64)       | [Aiko](https://github.com/AikoBorowski)           | French                             |
+|                                       PFP                                       | Name                                                | Language                           |
+|:-------------------------------------------------------------------------------:|:----------------------------------------------------|------------------------------------|
+|      ![dTentione](https://avatars.githubusercontent.com/dTentione?size=64)      | [dTentione](https://github.com/dTentione)           | Arabic, Northern & Central Kurdish |
+|       ![Aiko](https://avatars.githubusercontent.com/AikoBorowski?size=64)       | [Aiko](https://github.com/AikoBorowski)             | French                             |
 | ![LoulouNoLegend](https://avatars.githubusercontent.com/LoulouNoLegend?size=64) | [LoulouNoLegend](https://github.com/LoulouNoLegend) | French                             |
-|     ![9110751907](https://avatars.githubusercontent.com/9110751907?size=64)     | [9110751907(そらと)](https://github.com/9110751907)  | Japanese                           |
+|     ![9110751907](https://avatars.githubusercontent.com/9110751907?size=64)     | [9110751907(そらと)](https://github.com/9110751907)    | Japanese                           |
 
 ### Logo Design
 
