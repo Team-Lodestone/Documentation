@@ -18,3 +18,10 @@
 |------------------|--------------|---------------------------------------------------------------|
 | Protocol Version | Short (0x02) | Always the client's protocol version (e.g 1920 for NX latest) |
 | Player Name      | UTF          |                                                               |
+
+## Class Structure
+
+| Name             | Type         | Notes                |
+|------------------|--------------|----------------------|
+| Protocol Version | short        |                      |
+| Name             | std::wstring | probably player name | 
