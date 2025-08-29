@@ -1,7 +1,4 @@
-﻿# UTF
-
-> [!IMPORTANT]
-> Name comes from `Packet::readUtf` found inside Wii U Edition   
+﻿# UTF 
 
 A Length-prefixed UTF-16 string.
 

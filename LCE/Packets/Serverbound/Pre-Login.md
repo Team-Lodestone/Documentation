@@ -7,22 +7,13 @@
 | Estimated Size |             |
 | Direction      | Serverbound |
 
-## IO
-
-### Read as
-| Name             | Type/Size      | Notes |
-|------------------|----------------|-------|
-| Protocol Version | short (0x02)   |       |
-| Player Name      | UTF (0x20 max) |       |
-
-### Written as
-| Name             | Type/Size    | Notes                                                         |
-|------------------|--------------|---------------------------------------------------------------|
-| Protocol Version | Short (0x02) | Always the client's protocol version (e.g 1920 for NX latest) |
-| Player Name      | UTF          |                                                               |
+## Network Structure
+| Name             | Type/Size      | Notes                                                                |
+|------------------|----------------|----------------------------------------------------------------------|
+| Protocol Version | Short (0x02)   | Always written as the client's protocol version (1920 for NX latest) |
+| Player Name      | UTF (0x20 max) |                                                                      |
 
 ## Class Structure
-
 | Name             | Type         | Notes                                               |
 |------------------|--------------|-----------------------------------------------------|
 | Protocol Version | short        | Set to 0 in ctor, with a constant used when writing |
