@@ -12,12 +12,17 @@ description: "The people behind Project Lodestone"
 |  ![BJTMastermind](https://avatars.githubusercontent.com/BJTMastermind?size=64)  | [BJTMastermind Games](https://github.com/BJTMastermind)           |
 |        ![NIK](https://avatars.githubusercontent.com/NikStudios?size=64)         | [+NIK+](https://github.com/NikStudios)                            |
 |  ![Offroaders123](https://avatars.githubusercontent.com/Offroaders123?size=64)  | [Offroaders123](https://github.com/Offroaders123)                 |
-|       ![CADIndie](https://avatars.githubusercontent.com/CADIndie?size=64)       | [CADIndie](https://github.com/CADIndie)                           |
 |                                                                                 | [PiSaucer](https://github.com/PiSaucer)                           |
 |     ![Bigjango13](https://avatars.githubusercontent.com/Bigjango13?size=64)     | [Bigjango13](https://github.com/Bigjango13)                       |
 |       ![Aiko](https://avatars.githubusercontent.com/AikoBorowski?size=64)       | [Aiko](https://github.com/AikoBorowski)                           |
 |      ![Cracko298](https://avatars.githubusercontent.com/Cracko298?size=64)      | [Cracko298](https://github.com/Cracko298)                         |
 |                                                                                 | [Anonymous941](https://github.com/Anonymous941)                   |
+
+### Ex-Main-Team
+
+|                                       PFP                                       | Name                                                              |
+|:-------------------------------------------------------------------------------:|-------------------------------------------------------------------|
+|       ![CADIndie](https://avatars.githubusercontent.com/CADIndie?size=64)       | [CADIndie](https://github.com/CADIndie)                           |
 
 ### Development (INCOMPLETE)
 
