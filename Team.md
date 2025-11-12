@@ -40,7 +40,7 @@ description: "The people behind Project Lodestone"
 |      ![BJTMastermind](https://avatars.githubusercontent.com/BJTMastermind?size=64)      | [BJTMastermind](https://github.com/BJTMastermind)     |       |
 |    ![ModifiedCommand](https://avatars.githubusercontent.com/ModifiedCommand?size=64)    | [ModifiedCommand](https://github.com/ModifiedCommand) |       |
 |                                                                                         | [PiSaucer](https://github.com/PiSaucer)               |       |
-|      ![vylryna (xenrelle)](https://avatars.githubusercontent.com/xenrelle?size=64)      | [vylryna (xenrelle)](https://github.com/xenrelle)     |       |
+|                                                                                         | [vylryna (xenrelle)](https://github.com/xenrelle)     |       |
 |    ![UtterEvergreen1](https://avatars.githubusercontent.com/UtterEvergreen1?size=64)    | [UtterEvergreen1](https://github.com/UtterEvergreen1) |       |
 |                ![hee](https://avatars.githubusercontent.com/hee?size=64)                | [hee](https://github.com/hee)                         |       |
 |            ![MattN-L](https://avatars.githubusercontent.com/MattN-L?size=64)            | [MattN-L](https://github.com/MattN-L)                 |       |
