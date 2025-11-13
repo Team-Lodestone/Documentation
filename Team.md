@@ -18,12 +18,6 @@ description: "The people behind Project Lodestone"
 |      ![Cracko298](https://avatars.githubusercontent.com/Cracko298?size=64)      | [Cracko298](https://github.com/Cracko298)                         |
 |                                                                                 | [Anonymous941](https://github.com/Anonymous941)                   |
 
-### Ex-Main-Team
-
-|                                       PFP                                       | Name                                                              |
-|:-------------------------------------------------------------------------------:|-------------------------------------------------------------------|
-|       ![CADIndie](https://avatars.githubusercontent.com/CADIndie?size=64)       | [CADIndie](https://github.com/CADIndie)                           |
-
 ### Development (INCOMPLETE)
 
 |                                            PFP                                             | Name                                                | Notes                                              |
@@ -80,6 +74,7 @@ People who aren't on the main team (or are, but inactive) but have helped out in
 |                                            PFP                                            | Name                                                          | Notes                          |
 |:-----------------------------------------------------------------------------------------:|---------------------------------------------------------------|--------------------------------|
 |             ![valmyzk](https://avatars.githubusercontent.com/valmyzk?size=64)             | [valmyzk](https://github.com/valmyzk)                         | LCE editor program source code |
+|       ![CADIndie](https://avatars.githubusercontent.com/CADIndie?size=64)       | [CADIndie](https://github.com/CADIndie)                           | |
 |         ![jerrinth3glitch](https://avatars.githubusercontent.com/zugebot?size=64)         | [jerrinth3glitch](https://github.com/zugebot)                 |                                |
 |        ![StealthyX](https://avatars.githubusercontent.com/StealthyExpertX?size=64)        | [StealthyX](https://github.com/StealthyExpertX)               |                                |
 |        ![CousinMarkus](https://avatars.githubusercontent.com/CousinMarkus?size=64)        | [Cousin_Markus](https://github.com/CousinMarkus)              |                                |
