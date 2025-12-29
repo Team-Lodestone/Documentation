@@ -100,8 +100,8 @@ People who aren't on the main team (or are, but inactive) but have helped out in
 |      ![TheRouLetteBoi](https://avatars.githubusercontent.com/TheRouLetteBoi?size=64)      | [TheRouLetteBoi](https://github.com/TheRouLetteBoi)           |                                |
 |          ![rebrainer](https://avatars.githubusercontent.com/rebrainertv?size=64)          | [rebrainer](https://github.com/rebrainertv)                   |                                |
 |                                                                                           | [marko00805](https://github.com/marko00805)                   |                                |
-|            ![David-xF](https://avatars.githubusercontent.com/David-xF?size=64)            | [David-xF](https://github.com/David-xF)                       |                                |
-|             ![MattNL](https://avatars.githubusercontent.com/MattN-L?size=64)              | [MattNL](https://github.com/MattN-L)                          |                                |
+|               | David-xF                       |                                |
+|             ![MayN-L](https://avatars.githubusercontent.com/MayN-L?size=64)              | [MayN-L](https://github.com/MayN-L)                          |                                |
 |          ![PhoenixARC](https://avatars.githubusercontent.com/PhoenixARC?size=64)          | [PhoenixARC](https://github.com/PhoenixARC)                   |                                |
 |     ![UtterEvergreen1](https://avatars.githubusercontent.com/UtterEvergreen1?size=64)     | [UtterEvergreen1](https://github.com/UtterEvergreen1)         |                                |
 |        ![Tristan F.-R](https://avatars.githubusercontent.com/tristan-f-r?size=64)         | [Tristan F.-R](https://github.com/tristan-f-r)                |                                |
