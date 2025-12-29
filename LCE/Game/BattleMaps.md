@@ -193,7 +193,7 @@ Discover your inner self as you battle across this ancient land of dragons! This
 
 ## Capitol
 
-![Capitol Preview Image](BattleMapImages/Capital.png)
+![Capitol Preview Image](BattleMapImages/Capitol.png)
 
 Clamber through the ruins of the Capitol! Who will rise from the rubble to battle their way through the wasteland?
 
@@ -251,3 +251,4 @@ Something wicked this way comes. Full of deadly thrills and sinister shocks, it 
 | Small | `56, 33, 141` | `0, 5`, `6, 12` | `15, 1, 93`, `97, 60, 193` |
 | Large | `56, 45, 141` | `-1, 4`, `8, 13` | `1, 0, 84`, `109, 60, 203` |
 | Huge | `56, 45, 141` | `-1, 4`, `8, 13` | `1, 0, 84`, `109, 60, 203` |
+
