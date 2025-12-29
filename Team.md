@@ -1,6 +1,6 @@
 ---
-title: "Team Lodestone"
-description: "The people behind Project Lodestone"
+Title: "Team Lodestone"
+Description: "The people behind Project Lodestone"
 ---
 
 ### Main Team
@@ -37,7 +37,7 @@ description: "The people behind Project Lodestone"
 |                                                                                         | [vylryna (xenrelle)](https://github.com/xenrelle)     |       |
 |    ![UtterEvergreen1](https://avatars.githubusercontent.com/UtterEvergreen1?size=64)    | [UtterEvergreen1](https://github.com/UtterEvergreen1) |       |
 |                ![hee](https://avatars.githubusercontent.com/hee?size=64)                | [hee](https://github.com/hee)                         |       |
-|            ![MattN-L](https://avatars.githubusercontent.com/MattN-L?size=64)            | [MattN-L](https://github.com/MattN-L)                 |       |
+|            ![MayN-L](https://avatars.githubusercontent.com/MayN-L?size=64)            | [MayN-L](https://github.com/MayN-L)                 |       |
 |          ![miku-666](https://avatars.githubusercontent.com/NessieHax?size=64)           | [miku-666](https://github.com/NessieHax)              |       |
 |         ![PhoenixARC](https://avatars.githubusercontent.com/PhoenixARC?size=64)         | [PhoenixARC](https://github.com/PhoenixARC)           |       |
 |          ![Cracko298](https://avatars.githubusercontent.com/Cracko298?size=64)          | [Cracko298](https://github.com/Cracko298)             |       |
