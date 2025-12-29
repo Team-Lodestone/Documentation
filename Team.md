@@ -7,16 +7,14 @@ Description: "The people behind Project Lodestone"
 
 |                                       PFP                                       | Name                                                              |
 |:-------------------------------------------------------------------------------:|-------------------------------------------------------------------|
-|    ![EternalModz](https://avatars.githubusercontent.com/EternalModz?size=64)    | [EternalModz (Creator / Founder)](https://github.com/EternalModz) |
-| ![DexrnZacAttack](https://avatars.githubusercontent.com/DexrnZacAttack?size=64) | [DexrnZacAttack (Manager)](https://github.com/DexrnZacAttack)     |
-|  ![BJTMastermind](https://avatars.githubusercontent.com/BJTMastermind?size=64)  | [BJTMastermind Games](https://github.com/BJTMastermind)           |
-|        ![NIK](https://avatars.githubusercontent.com/NikStudios?size=64)         | [+NIK+](https://github.com/NikStudios)                            |
-|  ![Offroaders123](https://avatars.githubusercontent.com/Offroaders123?size=64)  | [Offroaders123](https://github.com/Offroaders123)                 |
-|                                                                                 | [PiSaucer](https://github.com/PiSaucer)                           |
-|     ![Bigjango13](https://avatars.githubusercontent.com/Bigjango13?size=64)     | [Bigjango13](https://github.com/Bigjango13)                       |
-|       ![Aiko](https://avatars.githubusercontent.com/AikoBorowski?size=64)       | [Aiko](https://github.com/AikoBorowski)                           |
-|      ![Cracko298](https://avatars.githubusercontent.com/Cracko298?size=64)      | [Cracko298](https://github.com/Cracko298)                         |
-|                                                                                 | [Anonymous941](https://github.com/Anonymous941)                   |
+|    ![EternalModz](https://avatars.githubusercontent.com/EternalModz?size=64)    | [EternalModz (Project Founder)](https://github.com/EternalModz) |
+| ![DexrnZacAttack](https://avatars.githubusercontent.com/DexrnZacAttack?size=64) | [DexrnZacAttack (Development Lead)](https://github.com/DexrnZacAttack)     |
+|       ![Aiko](https://avatars.githubusercontent.com/AikoBorowski?size=64)       | [Aiko (Project Manager)](https://github.com/AikoBorowski)                           |
+|        ![NIK](https://avatars.githubusercontent.com/NikStudios?size=64)         | [+NIK+ (Graphical Designer)](https://github.com/NikStudios)                            |
+|  ![Offroaders123](https://avatars.githubusercontent.com/Offroaders123?size=64)  | [Offroaders123 (Development Branch)](https://github.com/Offroaders123)                 |
+|  ![BJTMastermind](https://avatars.githubusercontent.com/BJTMastermind?size=64)  | [BJTMastermind Games (Documentation Branch)](https://github.com/BJTMastermind)           |
+|                                                                                 | [PiSaucer (Documentation Branch)](https://github.com/PiSaucer)                           |                     |
+|      ![Cracko298](https://avatars.githubusercontent.com/Cracko298?size=64)      | [Cracko298 (Documentation Branch)](https://github.com/Cracko298)                         |
 
 ### Development (INCOMPLETE)
 
