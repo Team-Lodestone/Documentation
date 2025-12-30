@@ -104,10 +104,9 @@ Or team members who have gone inactive/no longer actively contribute to their br
 | <img src="https://github.com/rebrainertv.png" width="64" height="64">                                                                    | [rebrainer](https://github.com/rebrainertv)                                                                                               |                                                                                                                                           |
 | <img src="https://github.com/boreals-back-again.png" width="64" height="64">                                                              | [Boreal](https://github.com/boreals-back-again)                                                                                           |                                                                                                                                           |
 | <img src="https://github.com/MayN-L.png" width="64" height="64">                                                                         | [MayN-L](https://github.com/MayN-L)                                                                                                       |                                                                                                                                           |
-| <img src="https://github.com/UtterEvergreen1.png" width="64" height="64">                                                                 | [UtterEvergreen1](https://github.com/UtterEvergreen1)                                                                                     |                                                                                                                                           |
 
 ---
-If your crediting is wrong OR you are an inactive team member and would like to work on Lodestone again, let us
+If your crediting is wrong/missing OR you are an inactive team member and would like to work on Lodestone again, let us
 know and you will be added back where due.
 
 Not everyone who has committed something to the Lodestone repositories is shown here;                                                       The Team-lodestone.md file is dedicated to significant, recognizable and original contributions only.
