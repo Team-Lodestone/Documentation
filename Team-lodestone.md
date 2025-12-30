@@ -70,7 +70,7 @@ Team Lodestone: "The amazing, super cool people behind - Project Lodestone -"
 ---
 ### Base Contributors
 
-The base accreditation for people who have helped out in anyway that doesn't fit the main branches of the project;                          
+The base accreditation for people who have helped out in any way that doesn't fit the main branches of the project;                          
 (i.e code donations, the sharing of knowledge, etc...) [Standards Apply]                                                                                     
 Or team members who have gone inactive/no longer actively contribute to their branch.es
 
