@@ -17,7 +17,7 @@
 |------|-----------------|-------------|
 | Use Unique IDs | 0x01 | Sets if the LOC uses the Unique IDs | 
 | Key Count | 0x04 (uint) | Amount of keys | 
-| Keys | Variable | uint array consisting of the ID for each key |
+| Keys | Variable | uint array consisting of the ID for each key if using unique ids, otherwise UTF8 string of length which is provided by the prefixed UShort. |
 
 ### Language List
 > [!NOTE]
